@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 - Good title could signify sufficient part of success.  
 - Or... Well, this is just fun! :-)  
 
-<iframe src="http://images.clipartof.com/thumbnails/443469-Cartoon-Black-And-White-Outline-Design-Of-A-Movie-Director.jpg" width="350" height="350" scrolling="no" frameBorder="0"></iframe>
+<iframe src="cartoon.jpg" width="350" height="350" scrolling="no" frameBorder="0"></iframe>
 
 ---
 ## About Application (1)

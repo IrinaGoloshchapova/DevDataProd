@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Movie Title Intuition App</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Movie Title Intuition App">
+  <meta name="author" content="Irina Goloshchapova">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="libraries/widgets/nvd3/css/nv.d3.css"></link>
+<link rel=stylesheet href="libraries/widgets/nvd3/css/rNVD3.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  <script src="libraries/widgets/nvd3/js/jquery-1.8.2.min.js"></script>
+<script src="libraries/widgets/nvd3/js/d3.v3.min.js"></script>
+<script src="libraries/widgets/nvd3/js/nv.d3.min-new.js"></script>
+<script src="libraries/widgets/nvd3/js/fisheye.js"></script>
+
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>Movie Title Intuition App</h1>
+    <h2>Coursera Developing Data Products Course Project</h2>
+    <p>Irina Goloshchapova<br/></p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Application Background</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>Motivation</h3>
+
+<ul>
+<li>Everyone of us has ever dreamed to be or to feel as a film director.<br></li>
+<li>You could take a chance - let&#39;s start from the movie idea.<br></li>
+<li>Good title could signify sufficient part of success.<br></li>
+<li>Or... Well, this is just fun! :-)<br></li>
+</ul>
+
+<iframe src="http://images.clipartof.com/thumbnails/443469-Cartoon-Black-And-White-Outline-Design-Of-A-Movie-Director.jpg" width="350" height="350" scrolling="no" frameBorder="0"></iframe>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-2" style="background:;">
+  <hgroup>
+    <h2>About Application (1)</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>App Sources</h3>
+
+<ul>
+<li><a href="http://grouplens.org/datasets/movielens/1m/">MovieLens 1M Dataset</a>.<br>
+Stable benchmark dataset. 1 million ratings from 6000 users on 4000 movies. Released 2/2003.<br></li>
+</ul>
+
+<div id = 'chart1' class = 'rChart nvd3'></div>
+
+<script type='text/javascript'>
+ $(document).ready(function(){
+      drawchart1()
+    });
+    function drawchart1(){  
+      var opts = {
+ "dom": "chart1",
+"width":    700,
+"height":    350,
+"x": "movieName",
+"y": "value",
+"group": "genre",
+"type": "multiBarHorizontalChart",
+"title": "Top-10 Movies in the MovieLens 1M Dataset",
+"id": "chart1" 
+},
+        data = [
+ {
+ "movieName": "Alaska",
+"movieID": 3676,
+"genre": "Adventure",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "No Small Affair",
+"movieID": 1342,
+"genre": "Comedy",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "Happiness",
+"movieID": 1410,
+"genre": "Comedy",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "King Kong",
+"movieID": 1464,
+"genre": "Action",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "Heartbreak Ridge",
+"movieID": 1585,
+"genre": "Action",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "Ghostbusters",
+"movieID": 1852,
+"genre": "Comedy",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "Stiff Upper Lips",
+"movieID": 1909,
+"genre": "Comedy",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "Bustin' Loose",
+"movieID": 2184,
+"genre": "Comedy",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "Torso",
+"movieID": 2714,
+"genre": "Horror",
+"variable": "rating",
+"value":              5 
+},
+{
+ "movieName": "Night of the Creeps",
+"movieID": 2939,
+"genre": "Comedy",
+"variable": "rating",
+"value":              5 
+} 
+]
+  
+      var data = d3.nest()
+        .key(function(d){
+          return opts.group === undefined ? 'main' : d[opts.group]
+        })
+        .entries(data)
+      
+      nv.addGraph(function() {
+        var chart = nv.models[opts.type]()
+          .x(function(d) { return d[opts.x] })
+          .y(function(d) { return d[opts.y] })
+          .width(opts.width)
+          .height(opts.height)
+         
+        chart
+  .showControls(false)
+  .margin({
+ "left":    110 
+})
+          
+        
+
+        
+        
+        
+        
+        
+      
+       d3.select("#" + opts.id)
+        .append('svg')
+        .datum(data)
+        .transition().duration(500)
+        .call(chart);
+
+       nv.utils.windowResize(chart.update);
+       return chart;
+      });
+      
+      //add our title with html
+      //might be better with svg
+      d3.select("#" + opts.id).insert("h3","svg")
+        .text(opts.title)
+        //if desired, could change styling with css or with d3
+        //some examples here http://tympanus.net/codrops/2012/11/02/heading-set-styling-with-css/
+        //will use example
+        //.style("float","right");
+        //.style("text-shadow", "0 -1px 1px rgba(0,0,0,0.4)")
+        .style("font-size","22px")
+        .style("line-height", "40px")
+        .style("color", "#355681")
+        //.style("ext-transform", "uppercase")
+        .style("border-bottom", "1px solid rgba(53,86,129, 0.3)");
+    };
+</script>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-3" style="background:;">
+  <hgroup>
+    <h2>About Application (2)</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>Calculations</h3>
+
+<ol>
+<li>We take all movies titles, their genre categories and average ratings from all users.<br></li>
+<li>Then, we perform basic text mining analysis (<code>package &#39;tm&#39;</code>) for the most frequent words in 4000 movies titles.<br></li>
+<li>At this step we train simple <code>glm</code> model to predict average rating (on a scale from 1 to 5) by frequent words dataset and the movie genre.</li>
+<li>And that&#39;s it. You could try the new shinyapp <a href="https://irinagoloshchapova.shinyapps.io/MovieTitleIntuition">here</a>. 
+And look at the full code <a href="https://github.com/IrinaGoloshchapova/DevDataProd">here</a>. </li>
+</ol>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-4" style="background:;">
+  <hgroup>
+    <h2>About Application (3)</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>How to use</h3>
+
+<ol>
+<li>Come up with the best title for your New Great Movie and enter it into the &quot;Title&quot; box. By default, we assume that your movie title is &quot;Third Zombie Train&quot;. I think that it would be a great movie! And what about you?<br></li>
+<li>Choose a genre for your New Great Movie in &quot;Genre&quot; box.</li>
+<li>Push the button &quot;Update Your Movie Rating Forecast&quot; and look at the forecast of the average rating of your movie on a scale from 1 to 5.<br>
+<strong>NOTE:</strong> <em>Please, be patient!</em> The app initialization (first-order calculations) could take 3-4 minutes. Then, from the second title input it works really fast. Enjoy!</li>
+</ol>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Application Background'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='About Application (1)'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='About Application (2)'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='About Application (3)'>
+         4
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>

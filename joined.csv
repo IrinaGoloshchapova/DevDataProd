@@ -1,0 +1,3999 @@
+"movieID","movieName","genre","rating"
+"1","Toy Story","Animation",4.14684641309581
+"2","Jumanji","Adventure",3.54054054054054
+"3","Grumpier Old Men","Comedy",3.0625
+"4","Waiting to Exhale","Comedy",3.05
+"5","Father of the Bride Part II","Comedy",4.25
+"6","Heat","Action",2.94214876033058
+"7","Sabrina","Comedy",2.66336633663366
+"8","Tom and Huck","Adventure",2.37323943661972
+"9","Sudden Death","Action",3.08974358974359
+"10","GoldenEye","Action",2.97844827586207
+"11","American President, The","Comedy",3.3298969072165
+"12","Dracula: Dead and Loving It","Comedy",3.18556701030928
+"13","Balto","Animation",3.8695652173913
+"14","Nixon","Drama",3.26859504132231
+"15","Cutthroat Island","Action",2.72592592592593
+"16","Casino","Drama",3.70431893687708
+"17","Sense and Sensibility","Drama",3.56589147286822
+"18","Four Rooms","Thriller",3.40441176470588
+"19","Ace Ventura: When Nature Calls","Comedy",3.34615384615385
+"20","Money Train","Action",3.21794871794872
+"21","Get Shorty","Action",3.58695652173913
+"22","Copycat","Crime",3.2520325203252
+"23","Assassins","Thriller",3.70260869565217
+"24","Powder","Drama",1.81666666666667
+"25","Leaving Las Vegas","Drama",3.23979591836735
+"26","Othello","Drama",2.76923076923077
+"27","Now and Then","Drama",3.75563258232236
+"28","Persuasion","Romance",3.98642533936652
+"29","City of Lost Children, The","Adventure",3.24603174603175
+"30","Shanghai Triad","Drama",3.61092150170648
+"31","Dangerous Minds","Drama",3.625
+"32","Twelve Monkeys","Drama",3.16279069767442
+"33","Wings of Courage","Adventure",3.89416419386746
+"34","Babe","Children's",3.68838028169014
+"35","Carrington","Drama",3.21212121212121
+"36","Dead Man Walking","Drama",3.07739938080495
+"37","Across the Sea of Time","Documentary",3.47962382445141
+"38","It Takes Two","Comedy",3.69714285714286
+"39","Clueless","Comedy",3.44947735191638
+"40","Cry, the Beloved Country","Drama",3.64497041420118
+"41","Richard III","Drama",3.93197278911565
+"42","Dead Presidents","Action",4.1218487394958
+"43","Restoration","Drama",2.66016260162602
+"44","Mortal Kombat","Action",3.27272727272727
+"45","To Die For","Comedy",3.66666666666667
+"46","How to Make an American Quilt","Drama",3.52639296187683
+"47","Seven","Crime",3
+"48","Pocahontas","Animation",4.0379746835443
+"Romance","Romance","Romance",NA
+"49","When Night Is Falling","Drama",3.48106060606061
+"50","Usual Suspects, The","Crime",2.84259259259259
+"51","Guardian Angel","Action",3.28571428571429
+"52","Mighty Aphrodite","Comedy",4.06666666666667
+"53","Lamerica","Drama",3.48387096774194
+"54","Big Green, The","Children's",3.32815964523282
+"55","Georgia","Drama",3.23255813953488
+"56","Kids of the Round Table","Adventure",3.82191780821918
+"57","Home for the Holidays","Drama",3.41836734693878
+"58","Postino, Il","Drama",2.91428571428571
+"59","Confessional, The","Drama",3.30864197530864
+"60","Indian in the Cupboard, The","Adventure",2.73684210526316
+"61","Eye for an Eye","Drama",3.54
+"62","Mr. Holland's Opus","Drama",3.55839416058394
+"63","Don't Be a Menace to South Central While Drinking Your Juice in the Hood","Comedy",3.27272727272727
+"64","Two if by Sea","Comedy",3.40083507306889
+"65","Bio-Dome","Comedy",3.58333333333333
+"66","Lawnmower Man 2: Beyond Cyberspace","Sci-Fi",3.94147582697201
+"67","Two Bits","Drama",3.55080213903743
+"68","French Twist","Comedy",2.5
+"69","Friday","Comedy",3.15384615384615
+"70","From Dusk Till Dawn","Action",2.89473684210526
+"Horror","Horror","Horror",NA
+"71","Fair Game","Action",4.16571428571429
+"72","Kicking and Screaming","Comedy",3.78260869565217
+"73","Misérables, Les","Drama",3.68571428571429
+"74","Bed of Roses","Drama",3.92727272727273
+"75","Big Bully","Comedy",3.1484375
+"76","Screamers","Sci-Fi",3
+"77","Nico Icon","Documentary",3.4
+"78","Crossing Guard, The","Drama",3.86138613861386
+"79","Juror, The","Drama",4
+"80","White Balloon, The","Drama",3.97983870967742
+"81","Things to Do in Denver when You're Dead","Crime",3.83602150537634
+"82","Antonia's Line","Drama",3.97134238310709
+"83","Once Upon a Time... When We Were Colored","Drama",2.85714285714286
+"84","Last Summer in the Hamptons","Comedy",4.01835853131749
+"85","Angels and Insects","Drama",3.61751152073733
+"86","White Squall","Adventure",3.7012987012987
+"87","Dunston Checks In","Children's",3.53048780487805
+"88","Black Sheep","Comedy",4.09620991253644
+"89","Nick of Time","Action",3.77862595419847
+"90","Journey of August King, The","Drama",4.07915567282322
+"92","Mary Reilly","Drama",3.31149927219796
+"93","Vampire in Brooklyn","Comedy",4.13582208101668
+"94","Beautiful Girls","Drama",4.09011373578303
+"95","Broken Arrow","Action",2.79356568364611
+"96","In the Bleak Midwinter","Comedy",3.54194407456724
+"97","Hate","Drama",3.40735294117647
+"98","Shopping","Action",3.73148901545972
+"99","Heidi Fleiss: Hollywood Madam","Documentary",3.88441330998249
+"100","City Hall","Drama",3.97674418604651
+"101","Bottle Rocket","Comedy",3.96518289995593
+"102","Mr. Wrong","Comedy",2.4
+"103","Unforgettable","Thriller",3.98969072164948
+"104","Happy Gilmore","Comedy",3.79380445304937
+"105","Bridges of Madison County, The","Drama",4.23495702005731
+"106","Nobody Loves Me","Comedy",2.80714285714286
+"107","Muppet Treasure Island","Adventure",3.68613861386139
+"Musical","Musical","Musical",NA
+"108","Catwalk","Documentary",2
+"109","Headless Body in Topless Bar","Comedy",3.9228855721393
+"110","Braveheart","Action",4.22567287784679
+"111","Taxi Driver","Drama",1.78571428571429
+"112","Rumble in the Bronx","Action",2
+"113","Before and After","Drama",4.18387096774194
+"114","Margaret's Museum","Drama",4.09574468085106
+"115","Happiness Is in the Field","Comedy",3.42857142857143
+"116","Anne Frank Remembered","Documentary",3
+"117","Young Poisoner's Handbook, The","Crime",2.87096774193548
+"118","If Lucy Fell","Comedy",1
+"119","Steal Big, Steal Little","Comedy",3.41176470588235
+"120","Race the Sun","Drama",4.25
+"121","Boys of St. Vincent, The","Drama",2
+"122","Boomerang","Comedy",3.20588235294118
+"123","Chungking Express","Drama",3.44385964912281
+"124","Star Maker, The","Drama",3.58333333333333
+"125","Flirting With Disaster","Comedy",3.07692307692308
+"126","NeverEnding Story III, The","Adventure",3.72727272727273
+"127","Silence of the Palace, The","Drama",3.74074074074074
+"128","Jupiter's Wife","Documentary",3.77922077922078
+"129","Pie in the Sky","Comedy",2.37223974763407
+"130","Angela","Drama",3.68396501457726
+"131","Frankie Starlight","Drama",2.92352941176471
+"132","Jade","Thriller",3.46493212669683
+"133","Nueba Yol","Comedy",2.9811320754717
+"134","Sonic Outlaws","Documentary",3.25974025974026
+"135","Down Periscope","Comedy",4.32407407407407
+"136","From the Journals of Jean Seberg","Documentary",4.25909090909091
+"137","Man of the Year","Documentary",2
+"138","Neon Bible, The","Drama",3
+"139","Target","Action",3.18918918918919
+"140","Up Close and Personal","Drama",4.33520950594121
+"141","Birdcage, The","Comedy",3.85714285714286
+"142","Shadows","Drama",4
+"143","Gospa","Drama",3.09090909090909
+"144","Brothers McMullen, The","Comedy",1
+"145","Bad Boys","Action",3.75
+"146","Amazing Panda Adventure, The","Adventure",2.5
+"147","Basketball Diaries, The","Drama",4.32129963898917
+"148","Awfully Big Adventure, An","Drama",4.50793650793651
+"149","Amateur","Crime",3.5
+"150","Apollo 13","Drama",3.93037974683544
+"151","Rob Roy","Drama",3.48387096774194
+"152","Addiction, The","Horror",3.48275862068966
+"153","Batman Forever","Action",3.42857142857143
+"Crime","Crime","Crime",NA
+"154","Belle de jour","Drama",3.73333333333333
+"155","Beyond Rangoon","Drama",4.09756097560976
+"156","Blue in the Face","Comedy",2.16666666666667
+"157","Canadian Bacon","Comedy",3.9468085106383
+"158","Casper","Adventure",3.90625
+"159","Clockers","Drama",2.94736842105263
+"160","Congo","Action",3.6
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"161","Crimson Tide","Drama",1
+"162","Crumb","Documentary",2.8936170212766
+"163","Desperado","Action",2.05555555555556
+"164","Devil in a Blue Dress","Crime",3.72222222222222
+"Thriller","Thriller","Thriller",NA
+"165","Die Hard: With a Vengeance","Action",3.63291139240506
+"166","Doom Generation, The","Comedy",1.64705882352941
+"167","Feast of July","Drama",3.73493975903614
+"168","First Knight","Action",4.28780487804878
+"Romance","Romance","Romance",NA
+"169","Free Willy 2: The Adventure Home","Adventure",3.34848484848485
+"170","Hackers","Action",3.8
+"171","Jeffrey","Comedy",4.00271739130435
+"172","Johnny Mnemonic","Action",3.93798449612403
+"173","Judge Dredd","Action",3.99319727891156
+"174","Jury Duty","Comedy",4.47391304347826
+"175","Kids","Drama",3.78870056497175
+"176","Living in Oblivion","Comedy",3.07352941176471
+"177","Lord of Illusions","Horror",3.84
+"178","Love & Human Remains","Comedy",2.9
+"179","Mad Love","Drama",3.60970677451972
+"180","Mallrats","Comedy",3.8021978021978
+"181","Mighty Morphin Power Rangers: The Movie","Action",3.95805739514349
+"182","Moonlight and Valentino","Drama",3.61387900355872
+"183","Mute Witness","Thriller",3.65986394557823
+"184","Nadja","Drama",3.95118343195266
+"185","Net, The","Sci-Fi",4.25278810408922
+"186","Nine Months","Comedy",2.46153846153846
+"187","Party Girl","Comedy",3.50757575757576
+"188","Prophecy, The","Horror",3.0622009569378
+"189","Reckless","Comedy",4.02857142857143
+"190","Safe","Thriller",4.39072463768116
+"191","Scarlet Letter, The","Drama",3.47641509433962
+"192","Show, The","Documentary",4.29297658862876
+"193","Showgirls","Drama",4.3037100949094
+"194","Smoke","Drama",4.47772474144789
+"195","Something to Talk About","Comedy",4.09748083242059
+"196","Species","Horror",2.3625
+"197","Stars Fell on Henrietta, The","Drama",2.66666666666667
+"198","Strange Days","Action",4.12582417582418
+"199","Umbrellas of Cherbourg, The","Drama",4.1338199513382
+"200","Tie That Binds, The","Thriller",3.61111111111111
+"201","Three Wishes","Drama",4.29545454545455
+"202","Total Eclipse","Drama",4.40192539109507
+"203","To Wong Foo, Thanks for Everything! Julie Newmar","Comedy",3.38095238095238
+"204","Under Siege 2: Dark Territory","Action",4.07811228641172
+"205","Unstrung Heroes","Comedy",4.42564655172414
+"206","Unzipped","Documentary",4.24319727891156
+"207","Walk in the Clouds, A","Drama",4.02312138728324
+"208","Waterworld","Action",4.05405405405405
+"209","White Man's Burden","Drama",4.02289281997919
+"210","Wild Bill","Western",4.11157024793388
+"211","Browning Version, The","Drama",4.45208333333333
+"212","Bushwhacked","Comedy",4.27519613759807
+"213","Burnt By the Sun","Drama",4.15958498023715
+"214","Before the Rain","Drama",3.8042328042328
+"215","Before Sunrise","Drama",3.6551724137931
+"216","Billy Madison","Comedy",4.26890756302521
+"217","Babysitter, The","Drama",4.19672131147541
+"218","Boys on the Side","Comedy",4.21852731591449
+"219","Cure, The","Drama",2.7680412371134
+"220","Castle Freak","Horror",3.93959731543624
+"222","Circle of Friends","Drama",4.11084529505582
+"223","Clerks","Comedy",4.3615221987315
+"224","Don Juan DeMarco","Comedy",4.28638497652582
+"225","Disclosure","Drama",4.25180897250362
+"226","Dream Man","Thriller",4.05309734513274
+"227","Drop Zone","Action",3.86307053941909
+"228","Destiny Turns on the Radio","Comedy",4.18759231905465
+"229","Death and the Maiden","Drama",3.8695652173913
+"230","Dolores Claiborne","Drama",4.14167916041979
+"231","Dumb & Dumber","Comedy",4.08
+"232","Eat Drink Man Woman","Comedy",3.63461538461538
+"233","Exotica","Drama",4.3026973026973
+"234","Exit to Eden","Comedy",4.32030505243089
+"235","Ed Wood","Comedy",4.16499282639885
+"236","French Kiss","Comedy",4.18888888888889
+"237","Forget Paris","Comedy",4.23076923076923
+"238","Far From Home: The Adventures of Yellow Dog","Adventure",4
+"239","Goofy Movie, A","Animation",3.21428571428571
+"Romance","Romance","Romance",NA
+"240","Hideaway","Thriller",4.15204957102002
+"241","Fluke","Children's",3.35714285714286
+"242","Farinelli: il castrato","Drama",4.19334532374101
+"243","Gordy","Comedy",3.98461538461538
+"244","Gumby: The Movie","Animation",4.08217270194986
+"245","Glass Shield, The","Crime",4.00558659217877
+"246","Hoop Dreams","Documentary",4.00584795321637
+"247","Heavenly Creatures","Drama",4.24583663758921
+"Thriller","Thriller","Thriller",NA
+"248","Houseguest","Comedy",4.215953307393
+"249","Immortal Beloved","Drama",4.00545702592087
+"250","Heavyweights","Children's",3.83333333333333
+"251","Hunted, The","Action",4.38699360341151
+"252","I.Q.","Comedy",4.10526315789474
+"253","Interview with the Vampire","Drama",4.33924050632911
+"254","Jefferson in Paris","Drama",4.14132379248658
+"255","Jerky Boys, The","Comedy",4.28918322295806
+"256","Junior","Comedy",3.40740740740741
+"257","Just Cause","Mystery",4.21043771043771
+"258","Kid in King Arthur's Court, A","Adventure",3.92161016949153
+"Fantasy","Fantasy","Fantasy",NA
+"259","Kiss of Death","Crime",4.1048758049678
+"260","Star Wars: Episode IV - A New Hope","Action",4.096918767507
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"261","Little Women","Drama",1.98989898989899
+"262","Little Princess, A","Children's",4.30194805194805
+"263","Ladybird Ladybird","Drama",3.82664233576642
+"264","Enfer, L'","Drama",4.3764367816092
+"265","Like Water for Chocolate","Drama",4.11
+"266","Legends of the Fall","Drama",4.05447470817121
+"Western","Western","Western",NA
+"267","Major Payne","Comedy",3.95302897278314
+"268","Little Odessa","Drama",4.09027081243731
+"269","My Crazy Life","Drama",4.33333333333333
+"270","Love Affair","Drama",3.48580441640379
+"271","Losing Isaiah","Drama",4.16815476190476
+"272","Madness of King George, The","Drama",1
+"273","Mary Shelley's Frankenstein","Drama",3.99032133178475
+"274","Man of the House","Comedy",3.80607082630691
+"275","Mixed Nuts","Comedy",4.26666666666667
+"276","Milk Money","Comedy",3.96575342465753
+"277","Miracle on 34th Street","Drama",3.93362831858407
+"278","Miami Rhapsody","Comedy",3.84615384615385
+"279","My Family","Drama",4.25376344086022
+"280","Murder in the First","Drama",3.88429752066116
+"281","Nobody's Fool","Drama",4.25062866722548
+"282","Nell","Drama",3.74742268041237
+"283","New Jersey Drive","Crime",4.33333333333333
+"284","New York Cop","Action",4.17328519855596
+"285","Beyond Bedlam","Drama",4.03240740740741
+"286","Nemesis 2: Nebula","Action",3.90455991516437
+"287","Nina Takes a Lover","Comedy",4.17866004962779
+"288","Natural Born Killers","Action",4.31238447319778
+"289","Only You","Comedy",3.81569115815691
+"290","Once Were Warriors","Crime",3.5859649122807
+"291","Poison Ivy II","Thriller",4.11079545454545
+"292","Outbreak","Action",4.17978533094812
+"293","Professional, The","Crime",3.97252747252747
+"Thriller","Thriller","Thriller",NA
+"294","Perez Family, The","Comedy",3.30769230769231
+"295","Pyromaniac's Love Story, A","Comedy",3.59130434782609
+"296","Pulp Fiction","Crime",4.13329238329238
+"297","Panther","Drama",4.01353637901861
+"298","Pushing Hands","Comedy",4.14157973174367
+"299","Priest","Drama",4.12465878070974
+"300","Quiz Show","Drama",3.56766917293233
+"301","Picture Bride","Drama",3.99642857142857
+"302","Queen Margot","Drama",3.70814479638009
+"303","Quick and the Dead, The","Action",3.64082687338501
+"304","Roommates","Comedy",4.24863387978142
+"305","Ready to Wear","Comedy",3.26262626262626
+"306","Three Colors: Red","Drama",4
+"307","Three Colors: Blue","Drama",4.14545454545455
+"308","Three Colors: White","Drama",3.97587131367292
+"309","Red Firecracker, Green Firecracker","Drama",3.91145833333333
+"310","Rent-a-Kid","Comedy",4.12903225806452
+"311","Relative Fear","Horror",4.21564482029598
+"312","Stuart Saves His Family","Comedy",3.79338842975207
+"313","Swan Princess, The","Animation",3.60294117647059
+"314","Secret of Roan Inish, The","Drama",4.07334183673469
+"315","Specialist, The","Action",3.0625
+"316","Stargate","Action",3.55813953488372
+"317","Santa Clause, The","Children's",1
+"318","Shawshank Redemption, The","Drama",3.24137931034483
+"319","Shallow Grave","Thriller",2.15384615384615
+"320","Suture","Film-Noir",2.33333333333333
+"321","Strawberry and Chocolate","Drama",4
+"322","Swimming with Sharks","Comedy",3.175
+"324","Sum of Us, The","Comedy",3.03783783783784
+"325","National Lampoon's Senior Trip","Comedy",3.75227686703097
+"326","To Live","Drama",1.71875
+"327","Tank Girl","Action",1.37209302325581
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"328","Tales From the Crypt Presents: Demon Knight","Horror",1.68181818181818
+"329","Star Trek: Generations","Action",1.65217391304348
+"330","Tales from the Hood","Comedy",2.10714285714286
+"331","Tom & Viv","Drama",2.93802816901408
+"332","Village of the Damned","Horror",1.84
+"333","Tommy Boy","Comedy",2.66666666666667
+"334","Vanya on 42nd Street","Drama",1
+"335","Underneath, The","Mystery",3
+"336","Walking Dead, The","Drama",3.18
+"337","What's Eating Gilbert Grape","Drama",2.91176470588235
+"338","Virtuosity","Sci-Fi",3.88267394270123
+"339","While You Were Sleeping","Comedy",3.13609467455621
+"340","War, The","Adventure",1.71428571428571
+"341","Double Happiness","Drama",2.23636363636364
+"342","Muriel's Wedding","Comedy",3.5625
+"343","Baby-Sitters Club, The","Children's",3.34375
+"344","Ace Ventura: Pet Detective","Comedy",4
+"345","Adventures of Priscilla, Queen of the Desert, The","Comedy",3.91203703703704
+"346","Backbeat","Drama",2.84905660377358
+"347","Bitter Moon","Drama",2.90458015267176
+"348","Bullets Over Broadway","Comedy",3.67103347889374
+"349","Clear and Present Danger","Action",3.92243767313019
+"350","Client, The","Drama",3.60493827160494
+"351","Corrina, Corrina","Comedy",3.18390804597701
+"352","Crooklyn","Comedy",3.48558758314856
+"353","Crow, The","Action",3.99159663865546
+"354","Cobb","Drama",3.07142857142857
+"355","Flintstones, The","Children's",2.81203007518797
+"356","Forrest Gump","Comedy",3.62347188264059
+"357","Four Weddings and a Funeral","Comedy",3.4
+"358","Higher Learning","Drama",2.85106382978723
+"359","I Like It Like That","Comedy",3.08510638297872
+"360","I Love Trouble","Action",3.82397003745318
+"361","It Could Happen to You","Drama",2.96103896103896
+"362","Jungle Book, The","Adventure",3.70916030534351
+"363","Wonderful, Horrible Life of Leni Riefenstahl, The","Documentary",3.80656934306569
+"364","Lion King, The","Animation",4.20815632965166
+"365","Little Buddha","Drama",2.47747747747748
+"366","Wes Craven's New Nightmare","Horror",3.25
+"367","Mask, The","Comedy",3.5
+"368","Maverick","Action",4.21383647798742
+"369","Mrs. Parker and the Vicious Circle","Drama",4.03
+"370","Naked Gun 33 1/3: The Final Insult","Comedy",2.97321428571429
+"371","Paper, The","Comedy",3.5
+"372","Reality Bites","Comedy",3.8448275862069
+"373","Red Rock West","Thriller",3.18518518518519
+"374","Richie Rich","Children's",3.0467032967033
+"375","Safe Passage","Drama",3.8
+"376","River Wild, The","Action",3
+"377","Speed","Action",3.54185022026432
+"378","Speechless","Comedy",3.13636363636364
+"379","Timecop","Action",3.40959040959041
+"380","True Lies","Action",2.74877650897227
+"Romance","Romance","Romance",NA
+"381","When a Man Loves a Woman","Drama",3.88052486187845
+"382","Wolf","Drama",3.35382955771305
+"383","Wyatt Earp","Western",3.6563055062167
+"384","Bad Company","Action",2.97672162948594
+"385","Man of No Importance, A","Drama",3.41814946619217
+"386","S.F.W.","Drama",2.90785907859079
+"387","Low Down Dirty Shame, A","Action",2.5
+"388","Boys Life","Drama",3.57772337821297
+"389","Colonel Chabert, Le","Drama",1.96369636963696
+"390","Faster Pussycat! Kill! Kill!","Action",2.77952755905512
+"391","Jason's Lyric","Crime",1.54545454545455
+"392","Secret Adventures of Tom Thumb, The","Adventure",3.83333333333333
+"393","Street Fighter","Action",3.26898047722343
+"394","Coldblooded","Action",1
+"395","Desert Winds","Drama",4.08956982911019
+"396","Fall Time","Drama",2.58918918918919
+"397","Fear, The","Horror",1.85238095238095
+"398","Frank and Ollie","Documentary",4
+"399","Girl in the Cadillac","Drama",3.19834710743802
+"400","Homage","Drama",2.90037243947858
+"401","Mirage","Action",3.73972602739726
+"402","Open Season","Comedy",3.75905395417591
+"403","Two Crimes","Comedy",4.02092050209205
+"404","Brother Minister: The Assassination of Malcolm X","Documentary",3.32542372881356
+"405","Highlander III: The Sorcerer","Action",3.72777268560953
+"406","Federal Hill","Drama",3.65079365079365
+"407","In the Mouth of Madness","Horror",3.19047619047619
+"408","8 Seconds","Drama",3.20192307692308
+"409","Above the Rim","Drama",3.54248366013072
+"410","Addams Family Values","Comedy",3.16546762589928
+"411","You So Crazy","Comedy",3.50617283950617
+"412","Age of Innocence, The","Drama",3.14473684210526
+"413","Airheads","Comedy",3.04
+"414","Air Up There, The","Comedy",3.45833333333333
+"415","Another Stakeout","Comedy",3.57562076749436
+"416","Bad Girls","Western",3.81333333333333
+"417","Barcelona","Comedy",3.05357142857143
+"418","Being Human","Drama",3.54985337243402
+"419","Beverly Hillbillies, The","Comedy",2.86666666666667
+"420","Beverly Hills Cop III","Action",3.95811518324607
+"421","Black Beauty","Adventure",3.9
+"422","Blink","Thriller",3.38
+"423","Blown Away","Action",3.5952380952381
+"424","Blue Chips","Drama",3.55555555555556
+"425","Blue Sky","Drama",3.25531914893617
+"426","Body Snatchers","Horror",2.76744186046512
+"427","Boxing Helena","Mystery",3.96323529411765
+"428","Bronx Tale, A","Drama",1
+"429","Cabin Boy","Comedy",4
+"430","Calendar Girl","Drama",3.04545454545455
+"431","Carlito's Way","Crime",3.02491103202847
+"432","City Slickers II: The Legend of Curly's Gold","Comedy",4.35714285714286
+"433","Clean Slate","Comedy",3.29166666666667
+"434","Cliffhanger","Action",2.52173913043478
+"435","Coneheads","Comedy",2.29411764705882
+"436","Color of Night","Drama",3.25
+"437","Cops and Robbersons","Comedy",3.30639730639731
+"438","Cowboy Way, The","Action",1
+"439","Dangerous Game","Drama",2.54741379310345
+"440","Dave","Comedy",2.77
+"441","Dazed and Confused","Comedy",1.8
+"442","Demolition Man","Action",4
+"443","Endless Summer 2, The","Documentary",2.88888888888889
+"444","Even Cowgirls Get the Blues","Comedy",3.0952380952381
+"445","Fatal Instinct","Comedy",2.81619937694704
+"446","Farewell My Concubine","Drama",2.34782608695652
+"447","Favor, The","Comedy",3.39260969976905
+"448","Fearless","Drama",2.76543209876543
+"449","Fear of a Black Hat","Comedy",3.44490644490645
+"450","With Honors","Comedy",3.09859154929577
+"451","Flesh and Bone","Drama",3.375
+"452","Widows' Peak","Drama",2.17307692307692
+"453","For Love or Money","Comedy",4.05291005291005
+"454","Firm, The","Drama",3.36734693877551
+"455","Free Willy","Adventure",4.14718614718615
+"456","Fresh","Drama",3.29558011049724
+"457","Fugitive, The","Action",3.78571428571429
+"458","Geronimo: An American Legend","Drama",2.43243243243243
+"459","Getaway, The","Action",3.15853658536585
+"460","Getting Even with Dad","Comedy",2.77272727272727
+"461","Go Fish","Drama",2.359375
+"462","Good Man in Africa, A","Action",3.10902255639098
+"463","Guilty as Sin","Crime",2.83333333333333
+"464","Hard Target","Action",3.35789473684211
+"Thriller","Thriller","Thriller",NA
+"465","Heaven & Earth","Action",2.88888888888889
+"466","Hot Shots! Part Deux","Action",2.68085106382979
+"467","Live Nude Girls","Comedy",2.57407407407407
+"468","Englishman Who Went Up a Hill, But Came Down a Mountain, The","Comedy",3.02941176470588
+"469","House of the Spirits, The","Drama",3.35172413793103
+"470","House Party 3","Comedy",3.49206349206349
+"471","Hudsucker Proxy, The","Comedy",3.79554937413074
+"472","I'll Do Anything","Comedy",2.5625
+"473","In the Army Now","Comedy",3.5414364640884
+"474","In the Line of Fire","Action",4
+"475","In the Name of the Father","Drama",3.4
+"476","Inkwell, The","Comedy",3.25
+"477","What's Love Got to Do with It?","Drama",2.825
+"478","Jimmy Hollywood","Comedy",2.33561643835616
+"479","Judgment Night","Action",3.14814814814815
+"480","Jurassic Park","Action",3.48697394789579
+"481","Kalifornia","Drama",3.44444444444444
+"482","Killing Zoe","Thriller",3.19715808170515
+"483","King of the Hill","Drama",2.78260869565217
+"484","Lassie","Adventure",3.27924528301887
+"485","Last Action Hero","Action",3.33333333333333
+"486","Life with Mikey","Comedy",2.75886524822695
+"487","Lightning Jack","Comedy",3.70161290322581
+"488","M. Butterfly","Drama",3.5
+"489","Made in America","Comedy",3.14285714285714
+"490","Malice","Thriller",3.0679012345679
+"491","Man Without a Face, The","Drama",2.85763888888889
+"492","Manhattan Murder Mystery","Comedy",2.56756756756757
+"493","Menace II Society","Action",3.78723404255319
+"494","Executive Decision","Action",1.80769230769231
+"495","In the Realm of the Senses","Drama",3.29411764705882
+"496","What Happened Was...","Comedy",2.47368421052632
+"497","Much Ado About Nothing","Comedy",1.31818181818182
+"498","Mr. Jones","Drama",3.16
+"499","Mr. Wonderful","Comedy",2.08333333333333
+"500","Mrs. Doubtfire","Comedy",3.13740458015267
+"501","Naked","Drama",2.20050125313283
+"502","Next Karate Kid, The","Action",2.45890410958904
+"503","New Age, The","Drama",4.07354116706635
+"504","No Escape","Action",3.81338028169014
+"505","North","Comedy",2.61111111111111
+"506","Orlando","Drama",3.07692307692308
+"507","Perfect World, A","Action",2.31724137931035
+"508","Philadelphia","Drama",3.5
+"509","Piano, The","Drama",3.33333333333333
+"510","Poetic Justice","Drama",3.30555555555556
+"511","Program, The","Action",3.66666666666667
+"512","Robert A. Heinlein's The Puppet Masters","Horror",3.5884476534296
+"513","Radioland Murders","Comedy",2.5
+"514","Ref, The","Comedy",3.58333333333333
+"515","Remains of the Day, The","Drama",3.04635761589404
+"516","Renaissance Man","Comedy",2.71428571428571
+"517","Rising Sun","Action",2.55801104972376
+"518","Road to Wellville, The","Comedy",3.65384615384615
+"519","Robocop 3","Sci-Fi",3.7103734439834
+"520","Robin Hood: Men in Tights","Comedy",3.42090395480226
+"521","Romeo Is Bleeding","Crime",3.33333333333333
+"522","Romper Stomper","Action",3
+"523","Ruby in Paradise","Drama",2.46666666666667
+"524","Rudy","Drama",2.42857142857143
+"525","Saint of Fort Washington, The","Drama",2.63157894736842
+"526","Savage Nights","Drama",2.09090909090909
+"527","Schindler's List","Drama",2.46590909090909
+"528","Scout, The","Drama",3.64052287581699
+"529","Searching for Bobby Fischer","Drama",2
+"530","Second Best","Drama",3.2258064516129
+"531","Secret Garden, The","Children's",2.64221364221364
+"532","Serial Mom","Comedy",3.63636363636364
+"533","Shadow, The","Action",2.66666666666667
+"534","Shadowlands","Drama",3.875
+"535","Short Cuts","Drama",3.66666666666667
+"536","Simple Twist of Fate, A","Drama",3.48543689320388
+"537","Sirens","Comedy",4.13714285714286
+"538","Six Degrees of Separation","Drama",1.66666666666667
+"539","Sleepless in Seattle","Comedy",2.81818181818182
+"540","Sliver","Thriller",3.72619047619048
+"541","Blade Runner","Film-Noir",3.1
+"542","Son in Law","Comedy",3.54201680672269
+"543","So I Married an Axe Murderer","Comedy",3.28571428571429
+"544","Striking Distance","Action",3.03665338645418
+"545","Harlem","Drama",4.06849315068493
+"546","Super Mario Bros.","Action",3.81632653061224
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"547","Surviving the Game","Action",3.32432432432432
+"548","Terminal Velocity","Action",2.5
+"549","Thirty-Two Short Films About Glenn Gould","Documentary",2.68421052631579
+"550","Threesome","Comedy",3.41379310344828
+"551","Nightmare Before Christmas, The","Children's",2.70422535211268
+"552","Three Musketeers, The","Action",2.83333333333333
+"553","Tombstone","Western",3.26624737945493
+"554","Trial by Jury","Thriller",2.75
+"555","True Romance","Action",3.47826086956522
+"556","War Room, The","Documentary",3
+"557","Mamma Roma","Drama",1.87193460490463
+"558","Pagemaster, The","Action",1.5
+"Children's","Children's","Children's",NA
+"559","Paris, France","Comedy",3.56060606060606
+"560","Beans of Egypt, Maine, The","Drama",3.25
+"561","Killer","Thriller",2.25742574257426
+"562","Welcome to the Dollhouse","Comedy",3.6
+"563","Germinal","Drama",3.83333333333333
+"564","Chasers","Comedy",3
+"565","Cronos","Horror",3.27931769722814
+"566","Naked in New York","Comedy",3.44444444444444
+"567","Kika","Drama",3.42804878048781
+"568","Bhaji on the Beach","Comedy",2.73262032085561
+"569","Little Big League","Children's",3.30434782608696
+"570","Slingshot, The","Comedy",3.95555555555556
+"571","Wedding Gift, The","Drama",3.73076923076923
+"572","Foreign Student","Drama",3.40112596762843
+"573","Ciao, Professore!","Drama",2.86666666666667
+"574","Spanking the Monkey","Comedy",3.14285714285714
+"575","Little Rascals, The","Children's",3
+"576","Fausto","Comedy",2.98069498069498
+"577","Andre","Adventure",3.73995271867612
+"578","Hour of the Pig, The","Drama",2.84745762711864
+"579","Scorta, La","Thriller",3.16666666666667
+"580","Princess Caraboo","Drama",2.77777777777778
+"581","Celluloid Closet, The","Documentary",3.7684515195369
+"582","Metisse","Comedy",3.21428571428571
+"583","Dear Diary","Comedy",3.05206463195691
+"584","I Don't Want to Talk About It","Drama",3.42132867132867
+"585","Brady Bunch Movie, The","Comedy",3.08304498269896
+"586","Home Alone","Children's",3.35975609756098
+"587","Ghost","Comedy",3.28448275862069
+"588","Aladdin","Animation",2.51807228915663
+"Musical","Musical","Musical",NA
+"589","Terminator 2: Judgment Day","Action",2.62105263157895
+"590","Dances with Wolves","Adventure",2.49107142857143
+"591","Tough and Deadly","Action",2.8641975308642
+"592","Batman","Action",3.7785016286645
+"Drama","Drama","Drama",NA
+"593","Silence of the Lambs, The","Drama",1.73846153846154
+"594","Snow White and the Seven Dwarfs","Animation",3.46875
+"595","Beauty and the Beast","Animation",3.40567200986436
+"596","Pinocchio","Animation",2.71171171171171
+"597","Pretty Woman","Comedy",1.64179104477612
+"598","Window to Paris","Comedy",3.79325513196481
+"599","Wild Bunch, The","Western",2.23893805309735
+"600","Love and a .45","Thriller",2.86904761904762
+"601","Wooden Man's Bride, The","Drama",2.72
+"602","Great Day in Harlem, A","Documentary",2.11627906976744
+"603","Bye Bye, Love","Comedy",2.92528735632184
+"604","Criminals","Documentary",2.75384615384615
+"605","One Fine Day","Drama",2.65909090909091
+"606","Candyman: Farewell to the Flesh","Horror",2.3394495412844
+"607","Century","Drama",3.58828996282528
+"608","Fargo","Crime",2.74545454545455
+"609","Homeward Bound II: Lost in San Francisco","Adventure",3.72368421052632
+"610","Heavy Metal","Action",4.05205811138015
+"Horror","Horror","Horror",NA
+"611","Hellraiser: Bloodline","Action",3.35169491525424
+"612","Pallbearer, The","Comedy",3.32727272727273
+"613","Jane Eyre","Drama",2.9
+"614","Loaded","Drama",3.2803738317757
+"615","Bread and Chocolate","Drama",3.62114537444934
+"616","Aristocats, The","Animation",3.09367088607595
+"617","Flower of My Secret, The","Drama",4.21940559440559
+"618","Two Much","Comedy",3.42817679558011
+"619","Ed","Comedy",4.06313645621181
+"620","Scream of Stone","Drama",3.33670886075949
+"621","My Favorite Season","Drama",3.28235294117647
+"623","Modern Affair, A","Romance",2.2109375
+"624","Condition Red","Action",2.72
+"625","Asfour Stah","Drama",3.91383219954649
+"626","Thin Line Between Love and Hate, A","Comedy",2.51851851851852
+"627","Last Supper, The","Drama",3.076
+"628","Primal Fear","Drama",3.01834862385321
+"629","Rude","Drama",3.45740740740741
+"630","Carried Away","Drama",2
+"631","All Dogs Go to Heaven 2","Animation",3.59183673469388
+"632","Land and Freedom","War",2.45
+"633","Denise Calls Up","Comedy",3.66165413533835
+"634","Theodore Rex","Comedy",3.80078895463511
+"635","Family Thing, A","Comedy",2.4
+"636","Frisk","Drama",3.77846790890269
+"637","Sgt. Bilko","Comedy",3.56728232189974
+"638","Jack and Sarah","Romance",2.53571428571429
+"639","Girl 6","Comedy",3.87239366138449
+"640","Diabolique","Drama",3.05405405405405
+"641","Little Indian, Big City","Comedy",3.87547169811321
+"642","Roula","Drama",2.63157894736842
+"643","Peanuts - Die Bank zahlt alles","Comedy",3.43583535108959
+"644","Happy Weekend","Comedy",2.81818181818182
+"645","Nelly & Monsieur Arnaud","Drama",2.87777777777778
+"647","Courage Under Fire","Drama",3.85185185185185
+"648","Mission: Impossible","Action",3.56121212121212
+"649","Cold Fever","Comedy",3.34
+"650","Moll Flanders","Drama",2.88235294117647
+"651","Superweib, Das","Comedy",3.25
+"652","301, 302","Mystery",3.71123491179201
+"653","Dragonheart","Action",3.31034482758621
+"654","Und keiner weint mir nach","Drama",2.42857142857143
+"655","Mutters Courage","Comedy",3.21428571428571
+"656","Eddie","Comedy",3.5
+"657","Yankee Zulu","Comedy",3.17241379310345
+"658","Billy's Holiday","Drama",2.85714285714286
+"659","Purple Noon","Crime",2.45901639344262
+"660","August","Drama",3.56983240223464
+"661","James and the Giant Peach","Animation",3.19318181818182
+"662","Fear","Thriller",2.65
+"663","Kids in the Hall: Brain Candy","Comedy",3.83918918918919
+"664","Faithful","Comedy",4.2
+"665","Underground","War",2.685
+"666","All Things Fair","Drama",2.6
+"667","Bloodsport 2","Action",2.7787610619469
+"668","Pather Panchali","Drama",2.53846153846154
+"669","Aparajito","Drama",3.45945945945946
+"670","World of Apu, The","Drama",3.6
+"671","Mystery Science Theater 3000: The Movie","Comedy",3.5
+"672","Tarantella","Drama",3.18181818181818
+"673","Space Jam","Adventure",3.57009345794393
+"Comedy","Comedy","Comedy",NA
+"674","Barbarella","Adventure",3.76950354609929
+"675","Hostile Intentions","Action",3.9961759082218
+"676","They Bite","Drama",3.09090909090909
+"678","Some Folks Call It a Sling Blade","Drama",2.75675675675676
+"679","Run of the Country, The","Drama",3.82911392405063
+"680","Alphaville","Sci-Fi",1.95833333333333
+"681","Clean Slate","Crime",2.95027624309392
+"682","Tigrero: A Film That Was Never Made","Documentary",3.79094827586207
+"683","Eye of Vichy, The","Documentary",2.17910447761194
+"684","Windows","Drama",3.86169154228856
+"685","It's My Party","Drama",3.76146788990826
+"687","Country Life","Drama",3.5
+"688","Operation Dumbo Drop","Action",3.15596330275229
+"War","War","War",NA
+"690","Promise, The","Romance",3.50328947368421
+"691","Mrs. Winterbourne","Comedy",3.1547619047619
+"692","Solo","Action",2.01769911504425
+"693","Under the Domin Tree","Drama",2.9589216944801
+"694","Substitute, The","Action",2.55
+"695","True Crime","Mystery",3.71794871794872
+"696","Butterfly Kiss","Thriller",3.72611464968153
+"697","Feeling Minnesota","Drama",3.6875
+"698","Delta of Venus","Drama",3.57142857142857
+"699","To Cross the Rubicon","Drama",3.50322580645161
+"700","Angus","Comedy",4.02754491017964
+"701","Daens","Drama",3.14641744548287
+"702","Faces","Drama",3.41549295774648
+"703","Boys","Drama",2.55298013245033
+"704","Quest, The","Action",2.93548387096774
+"705","Cosi","Comedy",4.17635658914729
+"706","Sunset Park","Drama",1.87662337662338
+"707","Mulholland Falls","Crime",2
+"708","Truth About Cats & Dogs, The","Comedy",3.56989247311828
+"709","Oliver & Company","Animation",3.2531847133758
+"710","Celtic Pride","Comedy",3.04329004329004
+"711","Flipper","Adventure",2
+"712","Captives","Drama",3
+"713","Of Love and Shadows","Drama",2.97582417582418
+"714","Dead Man","Western",2.57142857142857
+"715","Horseman on the Roof, The","Drama",4.04461942257218
+"716","Switchblade Sisters","Crime",2.5764192139738
+"717","Mouth to Mouth","Comedy",1.28571428571429
+"718","Visitors, The","Comedy",3.58344113842173
+"719","Multiplicity","Comedy",3.44199535962877
+"720","Wallace & Gromit: The Best of Aardman Animation","Animation",3
+"721","Halfmoon","Drama",3.73913043478261
+"722","Haunted World of Edward D. Wood Jr., The","Documentary",2.77372262773723
+"723","Two Friends","Drama",3.22857142857143
+"724","Craft, The","Drama",3.31818181818182
+"725","Great White Hype, The","Comedy",3.68922651933702
+"726","Last Dance","Drama",2.30851063829787
+"727","War Stories","Documentary",3.72727272727273
+"728","Cold Comfort Farm","Comedy",1.875
+"729","Institute Benjamenta, or This Dream People Call Human Life","Drama",3.7383773928897
+"730","Low Life, The","Drama",3.10975609756098
+"731","Heaven's Prisoners","Mystery",3.82587064676617
+"732","Original Gangstas","Crime",3.20152091254753
+"733","Rock, The","Action",1.36170212765957
+"734","Getting Away With Murder","Comedy",2.30864197530864
+"735","Cemetery Man","Comedy",4
+"736","Twister","Action",3.90909090909091
+"Thriller","Thriller","Thriller",NA
+"737","Barb Wire","Action",2.67532467532468
+"738","Garcu, Le","Drama",2.76363636363636
+"739","Honigmond","Comedy",3.48952590959206
+"741","Ghost in the Shell","Animation",3.4
+"742","Thinner","Horror",3.47727272727273
+"743","Spy Hard","Comedy",2.19047619047619
+"744","Brothers in Trouble","Drama",2.65533980582524
+"745","Close Shave, A","Animation",3.2020202020202
+"746","Force of Evil","Film-Noir",3.38659793814433
+"747","Stupids, The","Comedy",3.53333333333333
+"748","Arrival, The","Action",2.54901960784314
+"749","Man from Down Under, The","Drama",3.65
+"750","Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","Sci-Fi",3.98039215686275
+"751","Careful","Comedy",3.91707317073171
+"752","Vermont Is For Lovers","Comedy",1.87368421052632
+"753","Month by the Lake, A","Comedy",2.73568281938326
+"754","Gold Diggers: The Secret of Bear Mountain","Adventure",3
+"755","Kim","Children's",3
+"756","Carmen Miranda: Bananas Is My Business","Documentary",3.13793103448276
+"757","Ashes of Time","Drama",2.73381294964029
+"758","Jar, The","Drama",3.47368421052632
+"759","Maya Lin: A Strong Clear Vision","Documentary",2.63829787234043
+"760","Stalingrad","War",2.4304347826087
+"761","Phantom, The","Adventure",2.5
+"762","Striptease","Comedy",3.48954895489549
+"763","Last of the High Kings, The","Drama",2.66358595194085
+"764","Heavy","Drama",3.47368421052632
+"765","Jack","Comedy",4.125
+"766","I Shot Andy Warhol","Drama",2.5
+"767","Grass Harp, The","Drama",2.92727272727273
+"768","Someone Else's America","Drama",3.9501404494382
+"769","Marlene Dietrich: Shadow and Light","Documentary",3.38888888888889
+"770","Costa Brava","Drama",3.5
+"771","Vie est belle, La","Comedy",3.95604395604396
+"772","Quartier Mozart","Comedy",2.20833333333333
+"773","Touki Bouki","Drama",2.9622641509434
+"774","Wend Kuuni","Drama",3.171875
+"775","Spirits of the Dead","Horror",2.38461538461538
+"776","Babyfever","Comedy",3.43046357615894
+"777","Pharaoh's Army","War",4.5
+"778","Trainspotting","Drama",2.4
+"779","'Til There Was You","Drama",4.0059880239521
+"780","Independence Day","Action",2.57142857142857
+"781","Stealing Beauty","Drama",3.4131455399061
+"782","Fan, The","Thriller",3.3375796178344
+"783","Hunchback of Notre Dame, The","Animation",3.54767184035477
+"784","Cable Guy, The","Comedy",3.04347826086957
+"785","Kingpin","Comedy",3.03361344537815
+"786","Eraser","Action",3.44568690095847
+"787","Gate of Heavenly Peace, The","Documentary",2.89285714285714
+"788","Nutty Professor, The","Comedy",3.41176470588235
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"789","I, Worst of All","Drama",3.80555555555556
+"790","An Unforgettable Summer","Drama",1.61290322580645
+"791","Last Klezmer: Leopold Kozlowski, His Life and Music, The","Documentary",3.55807365439094
+"792","Hungarian Fairy Tale, A","Fantasy",3.69230769230769
+"793","My Life and Times With Antonin Artaud","Drama",3.47727272727273
+"794","Midnight Dancers","Comedy",3.36
+"795","Somebody to Love","Drama",2
+"796","Very Natural Thing, A","Drama",2.96039603960396
+"797","Old Lady Who Walked in the Sea, The","Comedy",3
+"798","Daylight","Action",3.14285714285714
+"799","Frighteners, The","Comedy",2
+"800","Lone Star","Drama",3.19431279620853
+"801","Harriet the Spy","Children's",2.04761904761905
+"802","Phenomenon","Drama",3.36538461538462
+"803","Walking and Talking","Romance",2.66666666666667
+"804","She's the One","Comedy",1.55
+"805","Time to Kill, A","Drama",4
+"806","American Buffalo","Drama",3
+"807","Rendezvous in Paris","Comedy",3.48275862068966
+"808","Alaska","Adventure",5
+"809","Fled","Action",2.58470764617691
+"810","Kazaam","Children's",4
+"811","Bewegte Mann, Der","Comedy",3.00378787878788
+"812","Magic Hunter","Drama",3.93914807302231
+"813","Larger Than Life","Comedy",3.2896174863388
+"814","Boy Called Hate, A","Drama",3.31111111111111
+"815","Power 98","Action",2.6875
+"816","Two Deaths","Drama",2.26086956521739
+"818","Very Brady Sequel, A","Comedy",3.38125
+"819","Stefano Quantestorie","Comedy",2.94736842105263
+"820","Death in the Garden","Drama",4
+"821","Crude Oasis, The","Romance",3
+"822","Hedd Wyn","Drama",3.86206896551724
+"823","Collectionneuse, La","Drama",3.75083056478405
+"824","Kaspar Hauser","Drama",3.25
+"825","Echte Kerle","Comedy",3.04519774011299
+"826","Diebinnen","Drama",2.57142857142857
+"827","Convent, The","Drama",2.86994727592267
+"828","Adventures of Pinocchio, The","Adventure",2.84615384615385
+"829","Joe's Apartment","Comedy",4
+"830","First Wives Club, The","Comedy",2
+"831","Stonewall","Drama",2
+"832","Ransom","Drama",3.02083333333333
+"833","High School High","Comedy",2.39814814814815
+"834","Phat Beach","Comedy",3.05555555555556
+"835","Foxfire","Drama",3.08333333333333
+"836","Chain Reaction","Action",3.26744186046512
+"837","Matilda","Children's",3.53125
+"838","Emma","Comedy",2.76303317535545
+"839","Crow: City of Angels, The","Action",3.77272727272727
+"840","House Arrest","Comedy",3.33333333333333
+"841","Eyes Without a Face","Horror",2.05050505050505
+"842","Tales from the Crypt Presents: Bordello of Blood","Horror",2.21830985915493
+"843","Lotto Land","Drama",2.72727272727273
+"844","Story of Xinghua, The","Drama",3.55555555555556
+"845","Day the Sun Turned Cold, The","Drama",3.08994708994709
+"846","Flirt","Drama",2.42105263157895
+"847","Big Squeeze, The","Comedy",2
+"848","Spitfire Grill, The","Drama",2.31372549019608
+"849","Escape from L.A.","Action",3.23809523809524
+"Thriller","Thriller","Thriller",NA
+"850","Cyclo","Crime",3.51388888888889
+"851","Basquiat","Drama",4
+"852","Tin Cup","Comedy",3.2
+"853","Dingo","Drama",3.76061776061776
+"854","Ballad of Narayama, The","Drama",3.37037037037037
+"855","Every Other Weekend","Drama",3.40243902439024
+"856","Mille bolle blu","Comedy",3.16648044692737
+"857","Crows and Sparrows","Drama",2.5
+"858","Godfather, The","Action",2
+"859","Hippie Revolution, The","Documentary",3.90909090909091
+"860","Maybe, Maybe Not","Comedy",3.22105263157895
+"861","Supercop","Action",3.42307692307692
+"862","Manny & Lo","Drama",2.77941176470588
+"863","Celestial Clockwork","Comedy",2.32464929859719
+"864","Wife, The","Comedy",3.43524096385542
+"865","Small Faces","Drama",3.34563758389262
+"866","Bound","Crime",3.69243421052632
+"Thriller","Thriller","Thriller",NA
+"867","Carpool","Comedy",2.75
+"868","Death in Brunswick","Comedy",2.48333333333333
+"869","Kansas City","Crime",2.99483204134367
+"870","Gone Fishin'","Comedy",3.87755102040816
+"871","Lover's Knot","Comedy",3.4
+"872","Aiqing wansui","Drama",2.42857142857143
+"873","Shadow of Angels","Drama",1.88888888888889
+"874","Killer: A Journal of Murder","Crime",3.3715710723192
+"875","Nothing to Lose","Drama",3.76190476190476
+"876","Police Story 4: Project S","Action",2.91082802547771
+"877","Girls Town","Drama",3.23856209150327
+"878","Bye-Bye","Drama",3.1063829787234
+"879","Relic, The","Horror",3.50375939849624
+"880","Island of Dr. Moreau, The","Sci-Fi",3.64285714285714
+"881","First Kid","Children's",3.2
+"882","Trigger Effect, The","Drama",2.48071979434447
+"884","Sweet Nothing","Drama",4.16393442622951
+"885","Bogus","Children's",4
+"886","Bulletproof","Action",3.1
+"887","Talk of Angels","Drama",3.33333333333333
+"888","Land Before Time III: The Time of the Great Giving","Animation",3.48672566371681
+"889","1-900","Romance",1.5
+"890","Baton Rouge","Thriller",3.21875
+"891","Halloween: The Curse of Michael Myers","Horror",3.74285714285714
+"892","Twelfth Night","Comedy",3
+"893","Mother Night","Drama",3.4929718875502
+"894","Liebelei","Romance",2.46666666666667
+"895","Venice/Venice","Drama",3.75609756097561
+"896","Wild Reeds","Drama",2.92979127134725
+"897","For Whom the Bell Tolls","Adventure",3.79735682819383
+"898","Philadelphia Story, The","Comedy",3.82634730538922
+"899","Singin' in the Rain","Musical",3.80913978494624
+"900","American in Paris, An","Musical",4
+"901","Funny Face","Comedy",3.50564971751412
+"902","Breakfast at Tiffany's","Drama",3.19189189189189
+"903","Vertigo","Mystery",3.14050822122571
+"904","Rear Window","Mystery",3.17241379310345
+"905","It Happened One Night","Comedy",3
+"906","Gaslight","Mystery",2.81043956043956
+"907","Gay Divorcee, The","Comedy",3.79119086460033
+"908","North by Northwest","Drama",3.42307692307692
+"909","Apartment, The","Comedy",3.90444930707513
+"910","Some Like It Hot","Comedy",2.63453815261044
+"911","Charade","Comedy",3.88888888888889
+"Thriller","Thriller","Thriller",NA
+"912","Casablanca","Drama",3.1875
+"913","Maltese Falcon, The","Film-Noir",4.19402985074627
+"914","My Fair Lady","Musical",3.37931034482759
+"915","Sabrina","Comedy",3.78571428571429
+"916","Roman Holiday","Comedy",2.05069124423963
+"917","Little Princess, The","Children's",3
+"918","Meet Me in St. Louis","Musical",4.03111111111111
+"919","Wizard of Oz, The","Adventure",3.27777777777778
+"Musical","Musical","Musical",NA
+"920","Gone with the Wind","Drama",3.38095238095238
+"921","My Favorite Year","Comedy",4.01298701298701
+"922","Sunset Blvd.","Film-Noir",4.02803738317757
+"923","Citizen Kane","Drama",3.8780487804878
+"924","2001: A Space Odyssey","Drama",3.73015873015873
+"Thriller","Thriller","Thriller",NA
+"925","Golden Earrings","Adventure",3.90983606557377
+"926","All About Eve","Drama",4.1228813559322
+"927","Women, The","Comedy",3.75586854460094
+"928","Rebecca","Romance",3.89010989010989
+"929","Foreign Correspondent","Thriller",3.80530973451327
+"930","Notorious","Film-Noir",4.03361344537815
+"931","Spellbound","Mystery",3.27868852459016
+"932","Affair to Remember, An","Romance",4.09615384615385
+"933","To Catch a Thief","Comedy",4.26974951830443
+"934","Father of the Bride","Comedy",3.97560975609756
+"935","Band Wagon, The","Comedy",4.05781865965834
+"936","Ninotchka","Comedy",3.85858585858586
+"937","Love in the Afternoon","Comedy",4.23287671232877
+"938","Gigi","Musical",2.84146341463415
+"939","Reluctant Debutante, The","Comedy",4.12931034482759
+"940","Adventures of Robin Hood, The","Action",3.69483568075117
+"941","Mark of Zorro, The","Adventure",4.1131221719457
+"942","Laura","Crime",4.09872241579559
+"943","Ghost and Mrs. Muir, The","Drama",3.94331266607617
+"944","Lost Horizon","Drama",3.79646017699115
+"945","Top Hat","Comedy",3.99013806706114
+"946","To Be or Not to Be","Comedy",3.79652996845426
+"947","My Man Godfrey","Comedy",3.60754716981132
+"948","Giant","Drama",3.65335463258786
+"949","East of Eden","Drama",2.82363636363636
+"950","Thin Man, The","Mystery",3.97641509433962
+"951","His Girl Friday","Comedy",4.05338345864662
+"952","Around the World in 80 Days","Adventure",3.87730061349693
+"953","It's a Wonderful Life","Drama",4.0515873015873
+"954","Mr. Smith Goes to Washington","Drama",3.80794701986755
+"955","Bringing Up Baby","Comedy",3.68308921438083
+"956","Penny Serenade","Drama",3.64646464646465
+"957","Scarlet Letter, The","Drama",3.63718411552347
+"958","Lady of Burlesque","Comedy",3.87979207277453
+"959","Of Human Bondage","Drama",2.32116788321168
+"960","Angel on My Shoulder","Crime",3.05882352941176
+"961","Little Lord Fauntleroy","Drama",2.64179104477612
+"962","They Made Me a Criminal","Crime",2.2396694214876
+"963","Inspector General, The","Musical",1.995
+"964","Angel and the Badman","Western",2.18139534883721
+"965","39 Steps, The","Thriller",3.0410094637224
+"966","Walk in the Sun, A","Drama",2.42690058479532
+"967","Outlaw, The","Western",1.97989949748744
+"968","Night of the Living Dead","Horror",2.17751479289941
+"969","African Queen, The","Action",2.07894736842105
+"War","War","War",NA
+"970","Beat the Devil","Comedy",2.17857142857143
+"971","Cat on a Hot Tin Roof","Drama",3.29586776859504
+"972","Last Time I Saw Paris, The","Drama",2.15384615384615
+"973","Meet John Doe","Drama",1.83838383838384
+"974","Algiers","Drama",3.71343873517787
+"975","Something to Sing About","Comedy",2.75384615384615
+"976","Farewell to Arms, A","Romance",2.0952380952381
+"977","Moonlight Murder","Mystery",2.41085271317829
+"978","Blue Angel, The","Drama",2.1259842519685
+"979","Nothing Personal","Drama",2.32967032967033
+"980","In the Line of Duty 2","Action",2.09803921568627
+"981","Dangerous Ground","Drama",1.46666666666667
+"982","Picnic","Drama",3.81196581196581
+"983","Madagascar Skin","Romance",1.6875
+"984","Pompatus of Love, The","Comedy",2.70292887029289
+"985","Small Wonders","Documentary",2.11278195488722
+"986","Fly Away Home","Adventure",1.89690721649485
+"987","Bliss","Drama",3.68427672955975
+"988","Grace of My Heart","Comedy",2.42307692307692
+"989","Schlafes Bruder","Drama",1.83035714285714
+"990","Maximum Risk","Action",3.95593220338983
+"991","Michael Collins","Drama",1.76991150442478
+"992","Rich Man's Wife, The","Thriller",2.74803149606299
+"993","Infinity","Drama",3.20114122681883
+"994","Big Night","Drama",2.5375
+"996","Last Man Standing","Action",3.88690842040565
+"997","Caught","Drama",3.54500494559842
+"998","Set It Off","Action",3.25436408977556
+"999","2 Days in the Valley","Crime",3.2680412371134
+"1000","Curdled","Crime",2.51344086021505
+"1001","Associate, The","Comedy",3.49720670391061
+"1002","Ed's Next Move","Comedy",3.56154628687691
+"1003","Extreme Measures","Drama",2.67692307692308
+"1004","Glimmer Man, The","Action",2.53333333333333
+"1005","D3: The Mighty Ducks","Children's",3.51895734597156
+"1006","Chamber, The","Drama",2.63636363636364
+"1007","Apple Dumpling Gang, The","Children's",4.08247422680412
+"1008","Davy Crockett, King of the Wild Frontier","Western",3.34369602763385
+"1009","Escape to Witch Mountain","Adventure",3.24216027874564
+"1010","Love Bug, The","Children's",3.45498392282958
+"1011","Herbie Rides Again","Adventure",3.17777777777778
+"1012","Old Yeller","Children's",3.45263157894737
+"1013","Parent Trap, The","Children's",2.6605504587156
+"1014","Pollyanna","Children's",2.98765432098765
+"1015","Homeward Bound: The Incredible Journey","Adventure",3.73853989813243
+"1016","Shaggy Dog, The","Children's",4.56050955414013
+"1017","Swiss Family Robinson","Adventure",2.5
+"1018","That Darn Cat!","Children's",3.97153945666235
+"1019","20,000 Leagues Under the Sea","Adventure",3.35614702154626
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"1020","Cool Runnings","Comedy",3.53149606299213
+"1021","Angels in the Outfield","Children's",3.34496124031008
+"1022","Cinderella","Animation",3.31756756756757
+"1023","Winnie the Pooh and the Blustery Day","Animation",3.34389140271493
+"1024","Three Caballeros, The","Animation",2.68944099378882
+"1025","Sword in the Stone, The","Animation",2.44961240310078
+"1026","So Dear to My Heart","Children's",4.33735393893705
+"1027","Robin Hood: Prince of Thieves","Drama",3.67105263157895
+"1028","Mary Poppins","Children's",3.05418719211823
+"1029","Dumbo","Animation",3.02702702702703
+"1030","Pete's Dragon","Adventure",2.925
+"Musical","Musical","Musical",NA
+"1031","Bedknobs and Broomsticks","Adventure",3.165
+"1032","Alice in Wonderland","Animation",2.7728813559322
+"1033","Fox and the Hound, The","Animation",3.10526315789474
+"1034","Freeway","Crime",2.21875
+"1035","Sound of Music, The","Musical",3.53703703703704
+"1036","Die Hard","Action",2.9040404040404
+"1037","Lawnmower Man, The","Action",1
+"1038","Unhook the Stars","Drama",2.92118226600985
+"1039","Synthetic Pleasures","Documentary",2.9453125
+"1040","Secret Agent, The","Drama",2.66896551724138
+"1041","Secrets & Lies","Drama",2.63212435233161
+"1042","That Thing You Do!","Comedy",3.27215189873418
+"1043","To Gillian on Her 37th Birthday","Drama",2.53846153846154
+"1044","Surviving Picasso","Drama",3.45454545454545
+"1045","Love Is All There Is","Comedy",3.46641791044776
+"1046","Beautiful Thing","Drama",3.18181818181818
+"1047","Long Kiss Goodnight, The","Action",3.49618320610687
+"1049","Ghost and the Darkness, The","Action",3.61176470588235
+"1050","Looking for Richard","Documentary",2.53846153846154
+"1051","Trees Lounge","Drama",2.55445544554455
+"1052","Proprietor, The","Drama",2.86885245901639
+"1053","Normal Life","Crime",2.25721784776903
+"1054","Get on the Bus","Drama",2.93301435406699
+"1055","Shadow Conspiracy","Thriller",2.83333333333333
+"1056","Jude","Drama",3.5
+"1057","Everyone Says I Love You","Comedy",3.34065934065934
+"1058","Bitter Sugar","Drama",3.60826032540676
+"1059","William Shakespeare's Romeo and Juliet","Drama",3.28358208955224
+"1060","Swingers","Comedy",3.67073170731707
+"1061","Sleepers","Crime",2.99453551912568
+"1062","Sunchaser, The","Drama",3.57142857142857
+"1063","Johns","Drama",3.2
+"1064","Aladdin and the King of Thieves","Animation",2.5
+"1065","Woman in Question, The","Mystery",4.07393483709273
+"1066","Shall We Dance?","Comedy",3.59916492693111
+"1067","Damsel in Distress, A","Comedy",4.15094339622642
+"1068","Crossfire","Crime",4.06560283687943
+"1069","Murder, My Sweet","Film-Noir",3.8828125
+"1070","Macao","Adventure",3.78571428571429
+"1071","For the Moment","Romance",3.1324200913242
+"1073","Willy Wonka and the Chocolate Factory","Adventure",3.92982456140351
+"Fantasy","Fantasy","Fantasy",NA
+"1075","Sexual Life of the Belgians, The","Comedy",3.66666666666667
+"1076","Innocents, The","Thriller",3.52380952380952
+"1077","Sleeper","Comedy",3.74074074074074
+"1078","Bananas","Comedy",3.76299694189602
+"1079","Fish Called Wanda, A","Comedy",3.49350649350649
+"1080","Monty Python's Life of Brian","Comedy",3.81626506024096
+"1081","Victor/Victoria","Comedy",3.57142857142857
+"1082","Candidate, The","Drama",2.63133640552995
+"1083","Great Race, The","Comedy",3.80439814814815
+"1084","Bonnie and Clyde","Crime",3.75652173913043
+"1085","Old Man and the Sea, The","Adventure",2.88642659279778
+"1086","Dial M for Murder","Mystery",3.60687022900763
+"1087","Madame Butterfly","Musical",3.12903225806452
+"1088","Dirty Dancing","Musical",3.59646017699115
+"1089","Reservoir Dogs","Crime",3.55172413793103
+"1090","Platoon","Drama",3.65993265993266
+"1091","Weekend at Bernie's","Comedy",2.59447983014862
+"1092","Basic Instinct","Mystery",3.19665271966527
+"1093","Doors, The","Drama",2.46153846153846
+"1094","Crying Game, The","Drama",3.47389558232932
+"1095","Glengarry Glen Ross","Drama",2.8494623655914
+"1096","Sophie's Choice","Drama",2.43558282208589
+"1097","E.T. the Extra-Terrestrial","Children's",2.85144927536232
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"1098","Search for One-eye Jimmy, The","Comedy",3.10869565217391
+"1099","Christmas Carol, A","Drama",2.97345132743363
+"1100","Days of Thunder","Action",3.71037181996086
+"1101","Top Gun","Action",3.48826291079812
+"1102","American Strays","Action",3.14473684210526
+"1103","Rebel Without a Cause","Drama",3.60180995475113
+"1104","Streetcar Named Desire, A","Drama",3.62389380530973
+"1105","Children of the Corn IV: The Gathering","Horror",3.14634146341463
+"1106","Leopard Son, The","Documentary",3.43078245915735
+"1107","Loser","Comedy",3.53333333333333
+"1108","Prerokbe Ognja","Documentary",3.38578680203046
+"1109","Charm's Incidents","Drama",3.08108108108108
+"1110","Bird of Prey","Action",3.33962264150943
+"1111","Microcosmos","Documentary",3.35567010309278
+"1112","Palookaville","Action",3.2972972972973
+"1113","Associate, The","Comedy",2.68844221105528
+"1114","Funeral, The","Drama",3.70666666666667
+"1115","Sleepover","Comedy",3.7434554973822
+"1116","Single Girl, A","Drama",3.55882352941176
+"1117","Eighth Day, The","Drama",3.26430517711172
+"1118","Tashunga","Adventure",3.2275641025641
+"1119","Drunks","Drama",3.48843930635838
+"1120","People vs. Larry Flynt, The","Drama",2.15189873417722
+"1121","Glory Daze","Drama",3.6875
+"1122","Plutonium Circus","Documentary",3.67613132209405
+"1123","Perfect Candidate, A","Documentary",3.33333333333333
+"1124","On Golden Pond","Drama",3.71942446043165
+"1125","Return of the Pink Panther, The","Comedy",3.70247933884298
+"1126","Drop Dead Fred","Comedy",2.27210884353741
+"1127","Abyss, The","Action",1.92857142857143
+"Thriller","Thriller","Thriller",NA
+"1128","Fog, The","Horror",2.94214876033058
+"1129","Escape from New York","Action",2.73061224489796
+"Thriller","Thriller","Thriller",NA
+"1130","Howling, The","Horror",2.44635193133047
+"1131","Jean de Florette","Drama",2.86976744186047
+"1132","Manon of the Spring","Drama",3.16946778711485
+"1133","Talking About Sex","Comedy",3.71394230769231
+"1134","Johnny 100 Pesos","Action",2.74545454545455
+"1135","Private Benjamin","Comedy",3.5
+"1136","Monty Python and the Holy Grail","Comedy",3.32
+"1137","Hustler White","Romance",3.75
+"1138","Dadetown","Documentary",4.05691056910569
+"1139","Everything Relative","Drama",3.83223684210526
+"1140","Entertaining Angels: The Dorothy Day Story","Drama",3.73333333333333
+"1141","Hoogste tijd","Drama",4.07407407407407
+"1142","Get Over It","Drama",3.27541589648799
+"1143","Three Lives and Only One Death","Comedy",3.42352941176471
+"1144","Line King: Al Hirschfeld, The","Documentary",3.20168067226891
+"1145","Snowriders","Documentary",3.14864864864865
+"1146","Curtis's Charm","Comedy",3.82293762575453
+"1147","When We Were Kings","Documentary",3.84262295081967
+"1148","Wrong Trousers, The","Animation",3.85094850948509
+"1149","JLG/JLG - autoportrait de décembre","Documentary",4.25
+"1150","Return of Martin Guerre, The","Drama",3.65211267605634
+"1151","Faust","Animation",3.42821782178218
+"1152","He Walked by Night","Crime",2.83084577114428
+"1153","Raw Deal","Film-Noir",3.27042253521127
+"1154","T-Men","Film-Noir",3.71070931849791
+"1155","Invitation, The","Drama",3.36652236652237
+"1156","Children Are Watching us, The","Drama",3.11079545454545
+"1157","Symphonie pastorale, La","Drama",2.54978354978355
+"1158","Here Comes Cookie","Comedy",2.8855421686747
+"1159","Love in Bloom","Romance",2.25242718446602
+"1160","Six of a Kind","Comedy",3.80625
+"1161","Tin Drum, The","Drama",3.72661870503597
+"1162","Ruling Class, The","Comedy",3.171875
+"1163","Mina Tannenbaum","Drama",2.11594202898551
+"1164","Two or Three Things I Know About Her","Drama",1.99652777777778
+"1165","Bloody Child, The","Drama",2.78571428571429
+"1166","Farmer & Chase","Comedy",3.31460674157303
+"1167","Dear God","Comedy",3.77777777777778
+"1168","Bad Moon","Horror",3.25
+"1169","American Dream","Documentary",2.6
+"1170","Best of the Best 3: No Turning Back","Action",3.47945205479452
+"1171","Bob Roberts","Comedy",3.1830985915493
+"1172","Cinema Paradiso","Comedy",3.8188202247191
+"1173","Cook the Thief His Wife & Her Lover, The","Drama",3.60515021459227
+"1174","Grosse Fatigue","Comedy",2.41242937853107
+"1175","Delicatessen","Comedy",2.60679611650485
+"1176","Double Life of Veronique, The","Drama",2.05
+"1177","Enchanted April","Drama",3.37614678899083
+"1178","Paths of Glory","Drama",3.52083333333333
+"1179","Grifters, The","Crime",3.47713226205192
+"1180","Hear My Song","Comedy",3.07594936708861
+"1181","Shooter, The","Action",2.67692307692308
+"1183","English Patient, The","Drama",2.55284552845528
+"1184","Mediterraneo","Comedy",3.68877551020408
+"1185","My Left Foot","Drama",3.25
+"1186","Sex, Lies, and Videotape","Drama",3.56363636363636
+"1187","Passion Fish","Drama",3.56789297658863
+"1188","Strictly Ballroom","Comedy",3.83333333333333
+"1189","Thin Blue Line, The","Documentary",3.89528795811518
+"1190","Tie Me Up! Tie Me Down!","Drama",3.21686746987952
+"1191","Madonna: Truth or Dare","Documentary",3.66315789473684
+"1192","Paris Is Burning","Documentary",3.15384615384615
+"1193","One Flew Over the Cuckoo's Nest","Drama",3.12820512820513
+"1194","Up in Smoke","Comedy",3.32758620689655
+"1196","Star Wars: Episode V - The Empire Strikes Back","Action",3.58163265306122
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"1197","Princess Bride, The","Action",3.93296089385475
+"Romance","Romance","Romance",NA
+"1198","Raiders of the Lost Ark","Action",3.59863945578231
+"1199","Brazil","Sci-Fi",3.58823529411765
+"1200","Aliens","Action",4.30497925311203
+"War","War","War",NA
+"1201","Good, The Bad and The Ugly, The","Action",3.57692307692308
+"1202","Withnail and I","Comedy",2.76447876447876
+"1203","12 Angry Men","Drama",3.71428571428571
+"1204","Lawrence of Arabia","Adventure",3.18181818181818
+"1205","Transformers: The Movie, The","Action",2.84615384615385
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"1206","Clockwork Orange, A","Sci-Fi",2.8
+"1207","To Kill a Mockingbird","Drama",3.28571428571429
+"1208","Apocalypse Now","Drama",3.49625935162095
+"1209","Once Upon a Time in the West","Western",4.00798580301686
+"1210","Star Wars: Episode VI - Return of the Jedi","Action",3.00740740740741
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"1211","Wings of Desire","Comedy",2.44444444444444
+"1212","Third Man, The","Mystery",4.18181818181818
+"1213","GoodFellas","Crime",4
+"1214","Alien","Action",3.34920634920635
+"Thriller","Thriller","Thriller",NA
+"1215","Army of Darkness","Action",1.82142857142857
+"Horror","Horror","Horror",NA
+"1216","Big Blue, The","Adventure",2.5
+"1217","Ran","Drama",3.4
+"1218","Killer, The","Action",3.94366197183099
+"1219","Psycho","Horror",4.27038626609442
+"1220","Blues Brothers, The","Action",3.82022471910112
+"1221","Godfather: Part II, The","Action",3.51515151515152
+"1222","Full Metal Jacket","Action",4.01197604790419
+"1223","Grand Day Out, A","Animation",2.875
+"1224","Henry V","Drama",4.18592964824121
+"1225","Amadeus","Drama",3.3
+"1226","Quiet Man, The","Comedy",3.7037037037037
+"1227","Once Upon a Time in America","Crime",3.52631578947368
+"1228","Raging Bull","Drama",3.8359375
+"1230","Annie Hall","Comedy",3
+"1231","Right Stuff, The","Drama",3.5
+"1232","Stalker","Mystery",1
+"1233","Boat, The","Action",2
+"1234","Sting, The","Comedy",3.4
+"1235","Harold and Maude","Comedy",3.54711246200608
+"1236","Trust","Comedy",3.09090909090909
+"1237","Seventh Seal, The","Drama",3.33333333333333
+"1238","Local Hero","Comedy",3
+"1240","Terminator, The","Action",3.94688385269122
+"1241","Braindead","Comedy",3.60869565217391
+"1242","Glory","Action",3.46781115879828
+"1243","Rosencrantz and Guildenstern Are Dead","Comedy",1.6
+"1244","Manhattan","Comedy",1.875
+"1245","Miller's Crossing","Drama",2
+"1246","Dead Poets Society","Drama",3.60891089108911
+"1247","Graduate, The","Drama",3.59090909090909
+"1248","Touch of Evil","Crime",3.83116883116883
+"1249","Nikita","Thriller",3.74226804123711
+"1250","Bridge on the River Kwai, The","Drama",3.39119170984456
+"1251","8 1/2","Drama",3.50840336134454
+"1252","Chinatown","Film-Noir",2.77519379844961
+"1253","Day the Earth Stood Still, The","Drama",2.5
+"1254","Treasure of the Sierra Madre, The","Adventure",3.74778200253485
+"1255","Bad Taste","Comedy",1.85714285714286
+"1256","Duck Soup","Comedy",3.41439688715953
+"1257","Better Off Dead...","Comedy",2.71428571428571
+"1258","Shining, The","Horror",3.09315068493151
+"1259","Stand by Me","Adventure",4.01750547045952
+"1260","M","Crime",3.19246861924686
+"1261","Evil Dead II","Action",3.17322834645669
+"Horror","Horror","Horror",NA
+"1262","Great Escape, The","Adventure",3.14516129032258
+"1263","Deer Hunter, The","Drama",3.5
+"1264","Diva","Action",3.01612903225806
+"Romance","Romance","Romance",NA
+"1265","Groundhog Day","Comedy",2.56363636363636
+"1266","Unforgiven","Western",2
+"1267","Manchurian Candidate, The","Film-Noir",2.60759493670886
+"1268","Pump Up the Volume","Drama",2.375
+"1269","Arsenic and Old Lace","Comedy",2.94117647058824
+"1270","Back to the Future","Comedy",3
+"1271","Fried Green Tomatoes","Drama",2.71641791044776
+"1272","Patton","Drama",2
+"1273","Down by Law","Comedy",2.79591836734694
+"1274","Akira","Adventure",3.32919254658385
+"Thriller","Thriller","Thriller",NA
+"1275","Highlander","Action",3.15644171779141
+"1276","Cool Hand Luke","Comedy",3.10285714285714
+"1277","Cyrano de Bergerac","Action",2.59036144578313
+"1278","Young Frankenstein","Comedy",2
+"1279","Night on Earth","Comedy",2.87179487179487
+"1280","Raise the Red Lantern","Drama",2.94594594594595
+"1281","Great Dictator, The","Comedy",3.93119698397738
+"1282","Fantasia","Animation",2.73732718894009
+"1283","High Noon","Western",2.67441860465116
+"1284","Big Sleep, The","Film-Noir",3.28947368421053
+"1285","Heathers","Comedy",3.45535714285714
+"1286","Somewhere in Time","Drama",3.56618819776715
+"1287","Ben-Hur","Action",3.36619718309859
+"1288","This Is Spinal Tap","Comedy",3.71428571428571
+"1289","Koyaanisqatsi","Documentary",2
+"1290","Some Kind of Wonderful","Drama",3.5272952853598
+"1291","Indiana Jones and the Last Crusade","Action",2.71681415929204
+"1292","Being There","Comedy",2.15384615384615
+"1293","Gandhi","Drama",3.432
+"1294","M*A*S*H","Comedy",3.45454545454545
+"1295","Unbearable Lightness of Being, The","Drama",3.51898734177215
+"1296","Room with a View, A","Drama",2.91803278688525
+"1297","Real Genius","Comedy",3.7906976744186
+"1298","Pink Floyd - The Wall","Drama",3.88888888888889
+"1299","Killing Fields, The","Drama",2.51162790697674
+"1300","My Life as a Dog","Drama",3.43928571428571
+"1301","Forbidden Planet","Sci-Fi",3.78542510121457
+"1302","Field of Dreams","Drama",3.96319018404908
+"1303","Man Who Would Be King, The","Adventure",3.5
+"1304","Butch Cassidy and the Sundance Kid","Action",3.28099173553719
+"1305","Paris, Texas","Drama",3.59266802443992
+"1306","Until the End of the World","Drama",2.5
+"1307","When Harry Met Sally...","Comedy",3.24
+"1308","I Shot a Man in Vegas","Comedy",3.48372093023256
+"1309","Parallel Sons","Drama",3.81081081081081
+"1310","Hype!","Documentary",2.38194444444444
+"1311","Santa with Muscles","Comedy",3.10704225352113
+"1312","Female Perversions","Drama",1.86666666666667
+"1313","Mad Dog Time","Crime",3.75
+"1314","Breathing Room","Romance",2.85714285714286
+"1315","Paris Was a Woman","Documentary",3.45272206303725
+"1316","Anna","Drama",4.14437689969605
+"1317","I'm Not Rappaport","Comedy",3.59029649595687
+"1318","Blue Juice","Comedy",3.78453038674033
+"1319","Kids of Survival","Documentary",3.92
+"1320","Alien³","Action",3.57142857142857
+"Thriller","Thriller","Thriller",NA
+"1321","American Werewolf in London, An","Horror",3.48
+"1322","Amityville 1992: It's About Time","Horror",2.48888888888889
+"1323","Amityville 3-D","Horror",2.63157894736842
+"1324","Amityville: Dollhouse","Horror",2
+"1325","Amityville: A New Generation","Horror",4.5
+"1326","Amityville II: The Possession","Horror",3.19242424242424
+"1327","Amityville Horror, The","Horror",3.79850746268657
+"1328","Amityville Curse, The","Horror",3.41702127659574
+"1329","Blood For Dracula","Horror",3.82779456193353
+"1330","April Fool's Day","Comedy",4.01312910284464
+"1331","Audrey Rose","Horror",3.13461538461538
+"1332","Believers, The","Horror",2.36734693877551
+"1333","Birds, The","Horror",2.98305084745763
+"1334","Blob, The","Horror",2.625
+"1335","Blood Beach","Action",3.903125
+"1336","Body Parts","Horror",4.07514450867052
+"1337","Body Snatcher, The","Horror",3.10695187165775
+"1339","Bram Stoker's Dracula","Horror",2.93103448275862
+"1340","Bride of Frankenstein","Horror",3.94285714285714
+"1341","Burnt Offerings","Horror",4.32986111111111
+"1342","Candyman","Horror",3.13445378151261
+"1343","Cape Fear","Thriller",3
+"1344","Cape Fear","Film-Noir",2.85
+"1345","Carrie","Horror",2.84971098265896
+"1346","Cat People","Horror",4.2265625
+"1347","Nightmare on Elm Street, A","Horror",3.61276595744681
+"1348","Nosferatu","Horror",4.16304347826087
+"1349","Nosferatu a Venezia","Horror",3.22346368715084
+"1350","Omen, The","Horror",3.25
+"1351","Blood & Wine","Drama",3.81314878892734
+"1352","Albino Alligator","Crime",3.12435233160622
+"1353","Mirror Has Two Faces, The","Comedy",2.92619047619048
+"1354","Breaking the Waves","Drama",4.02985074626866
+"1355","Nightwatch","Horror",3.20634920634921
+"1356","Star Trek: First Contact","Action",2.20338983050847
+"1357","Shine","Drama",2.92592592592593
+"1358","Sling Blade","Drama",2.22448979591837
+"1359","Jingle All the Way","Adventure",3.25290697674419
+"1360","Identification of a Woman","Drama",3.27272727272727
+"1361","Paradise Lost: The Child Murders at Robin Hood Hills","Documentary",3.72727272727273
+"1362","Garden of Finzi-Contini, The","Drama",2
+"1363","Preacher's Wife, The","Drama",3.4228855721393
+"1364","Zero Kelvin","Action",3.37209302325581
+"1365","Ridicule","Drama",3.30666666666667
+"1366","Crucible, The","Drama",3.73684210526316
+"1367","101 Dalmatians","Children's",3.55263157894737
+"1368","Forbidden Christ, The","Drama",3.61077844311377
+"1369","I Can't Sleep","Drama",3.69687162891046
+"1370","Die Hard 2","Action",2.78947368421053
+"1371","Star Trek: The Motion Picture","Action",4.20720720720721
+"1372","Star Trek VI: The Undiscovered Country","Action",3.87470167064439
+"1373","Star Trek V: The Final Frontier","Action",3.68724696356275
+"1374","Star Trek: The Wrath of Khan","Action",2.78014184397163
+"1375","Star Trek III: The Search for Spock","Action",3.85437463300059
+"1376","Star Trek IV: The Voyage Home","Action",2.89583333333333
+"1377","Batman Returns","Action",4.28372093023256
+"Crime","Crime","Crime",NA
+"1378","Young Guns","Action",4
+"1379","Young Guns II","Action",3.87908961593172
+"1380","Grease","Comedy",3.30368098159509
+"1381","Grease 2","Comedy",4.30769230769231
+"1382","Marked for Death","Action",3.24050632911392
+"1383","Adrenalin: Fear the Rush","Action",2.84905660377358
+"1384","Substance of Fire, The","Drama",3.31893687707641
+"1385","Under Siege","Action",2.77685950413223
+"1386","Terror in a Texas Town","Western",2.77205882352941
+"1387","Jaws","Action",3.65608465608466
+"1388","Jaws 2","Action",2.75728155339806
+"1389","Jaws 3-D","Action",1.68965517241379
+"1390","My Fellow Americans","Comedy",2.9547619047619
+"1391","Mars Attacks!","Action",2.9727626459144
+"War","War","War",NA
+"1392","Citizen Ruth","Comedy",3.51408450704225
+"1393","Jerry Maguire","Drama",3.59432387312187
+"1394","Raising Arizona","Comedy",2.96638655462185
+"1395","Tin Men","Comedy",2.48148148148148
+"1396","Sneakers","Crime",2.93032786885246
+"1397","Bastard Out of Carolina","Drama",2.89234449760766
+"1398","In Love and War","Romance",3.26769230769231
+"1399","Marvin's Room","Drama",2.94535519125683
+"1400","Somebody is Waiting","Drama",2.99757869249395
+"1401","Ghosts of Mississippi","Drama",2.38666666666667
+"1404","Night Falls on Manhattan","Crime",1.91379310344828
+"1405","Beavis and Butt-head Do America","Animation",1.76666666666667
+"1406","Cérémonie, La","Drama",1.65771812080537
+"1407","Scream","Horror",3.2906309751434
+"1408","Last of the Mohicans, The","Action",2.57534246575342
+"1409","Michael","Comedy",1.96610169491525
+"1410","Evening Star, The","Comedy",2.7741935483871
+"1411","Hamlet","Drama",3.46666666666667
+"1412","Some Mother's Son","Drama",2.65151515151515
+"1413","Whole Wide World, The","Drama",2.875
+"1414","Mother","Comedy",3.69090909090909
+"1415","Thieves","Crime",3.75167785234899
+"1416","Evita","Drama",2.23414634146341
+"1417","Portrait of a Lady, The","Drama",3.34820322180917
+"1419","Walkabout","Drama",3.84098360655738
+"1420","Message to Love: The Isle of Wight Festival","Documentary",4.12747994934572
+"1421","Grateful Dead","Documentary",3.30434782608696
+"1422","Murder at 1600","Mystery",3.96052631578947
+"1423","Hearts and Minds","Drama",2.66816143497758
+"1424","Inside","Action",3.17948717948718
+"1425","Fierce Creatures","Comedy",2.71111111111111
+"1426","Zeus and Roxanne","Children's",2.86046511627907
+"1427","Turbulence","Thriller",3.76923076923077
+"1428","Angel Baby","Drama",2.82543640897756
+"1429","Jackie Chan's First Strike","Action",3.57178841309824
+"1430","Underworld","Thriller",2.3421926910299
+"1431","Beverly Hills Ninja","Action",3.16344725111441
+"1432","Metro","Action",3.68921933085502
+"1433","Machine, The","Comedy",3.53777335984095
+"1434","Stranger, The","Action",2.52895752895753
+"1436","Falling in Love Again","Comedy",3.31034482758621
+"1437","Cement Garden, The","Drama",2.87531172069825
+"1438","Dante's Peak","Action",2.64533333333333
+"1439","Meet Wally Sparks","Comedy",2.1021897810219
+"1440","Amos & Andrew","Comedy",3.24830699774266
+"1441","Benny & Joon","Comedy",3.39050131926121
+"1442","Prefontaine","Drama",2.8
+"1443","Tickle in the Heart, A","Documentary",3.14971751412429
+"1444","Guantanamera","Comedy",2.94594594594595
+"1445","McHale's Navy","Comedy",3.07272727272727
+"1446","Kolya","Comedy",3.20289855072464
+"1447","Gridlock'd","Crime",3.5
+"1448","Fire on the Mountain","Documentary",3.41784989858012
+"1449","Waiting for Guffman","Comedy",2.67714884696017
+"1450","Prisoner of the Mountains","War",2.12237762237762
+"1453","Beautician and the Beast, The","Comedy",3.62068965517241
+"1454","SubUrbia","Comedy",2.96296296296296
+"1455","Hotel de Love","Comedy",3.39850560398506
+"1456","Pest, The","Comedy",2.77777777777778
+"1457","Fools Rush In","Comedy",2.82777777777778
+"1458","Touch","Romance",2.1
+"1459","Absolute Power","Mystery",3.11111111111111
+"1460","That Darn Cat!","Children's",3.13713080168776
+"1461","Vegas Vacation","Comedy",3.13698630136986
+"1462","Unforgotten: Twenty-Five Years After Willowbrook","Documentary",3.35947712418301
+"1463","That Old Feeling","Comedy",3.63333333333333
+"1464","Lost Highway","Mystery",3.08080808080808
+"1465","Rosewood","Drama",3.59016393442623
+"1466","Donnie Brasco","Crime",3.64705882352941
+"1467","Salut cousin!","Comedy",4
+"1468","Booty Call","Comedy",3.61111111111111
+"1470","Rhyme & Reason","Documentary",3.36170212765957
+"1471","Boys Life 2","Drama",3.03846153846154
+"1472","City of Industry","Crime",3.825
+"1473","Best Men","Action",3.5952380952381
+"Drama","Drama","Drama",NA
+"1474","Jungle2Jungle","Children's",4
+"1475","Kama Sutra: A Tale of Love","Romance",2.7972972972973
+"1476","Private Parts","Comedy",2.53968253968254
+"1477","Love Jones","Romance",3.06015037593985
+"1479","Saint, The","Action",1.53125
+"1480","Smilla's Sense of Snow","Action",3
+"1482","Van, The","Comedy",2.64601769911504
+"1483","Crash","Drama",1.68421052631579
+"1484","Daytrippers, The","Mystery",3.25
+"1485","Liar Liar","Comedy",3.35833333333333
+"1486","Quiet Room, The","Drama",3.44070961718021
+"1487","Selena","Drama",2.31338028169014
+"1488","Devil's Own, The","Action",3.38223938223938
+"War","War","War",NA
+"1489","Cats Don't Dance","Animation",2.47692307692308
+"1490","B*A*P*S","Comedy",3.22267206477733
+"1493","Love and Other Catastrophes","Romance",2.09677419354839
+"1494","Sixth Man, The","Comedy",1.83333333333333
+"1495","Turbo: A Power Rangers Movie","Action",3.46105263157895
+"1496","Anna Karenina","Drama",2.625
+"1497","Double Team","Action",2.02380952380952
+"1498","Inventing the Abbotts","Drama",3.46153846153846
+"1499","Anaconda","Action",3.90123456790123
+"1500","Grosse Pointe Blank","Comedy",2.77005347593583
+"1501","Keys to Tulsa","Crime",3.27667984189723
+"1502","Kissed","Romance",3.86582809224319
+"1503","8 Heads in a Duffel Bag","Comedy",3.4265350877193
+"1504","Hollow Reed","Drama",2.6280193236715
+"1507","Paradise Road","Drama",3.46064139941691
+"1508","Traveller","Drama",3.3
+"1509","All Over Me","Drama",3.34666666666667
+"1510","Brother's Kiss, A","Drama",2.28571428571429
+"1511","A Chef in Love","Comedy",3.11775043936731
+"1513","Romy and Michele's High School Reunion","Comedy",2.91304347826087
+"1514","Temptress Moon","Romance",4.5
+"1515","Volcano","Drama",3.6
+"1516","Children of the Revolution","Comedy",3.33333333333333
+"1517","Austin Powers: International Man of Mystery","Comedy",2.92
+"1518","Breakdown","Action",2
+"1519","Broken English","Drama",3.05121951219512
+"1520","Commandments","Romance",1.77777777777778
+"1522","Ripe","Drama",3.85882352941176
+"1523","Truth or Consequences, N.M.","Action",3.75862068965517
+"1524","Turning, The","Drama",3.50582147477361
+"1525","Warriors of Virtue","Action",2.73913043478261
+"Fantasy","Fantasy","Fantasy",NA
+"1526","Fathers' Day","Comedy",2.85611510791367
+"1527","Fifth Element, The","Action",4.14285714285714
+"1528","Intimate Relations","Comedy",4
+"1529","Nowhere","Drama",3.60204081632653
+"1531","Losing Chase","Drama",2.83529411764706
+"1532","Sprung","Comedy",2.33333333333333
+"1533","Promise, The","Drama",3.53846153846154
+"1534","Bonheur, Le","Drama",3.65102040816327
+"1535","Love! Valour! Compassion!","Drama",2.6
+"1537","Shall We Dance?","Comedy",4.13775510204082
+"1538","Second Jungle Book: Mowgli & Baloo, The","Adventure",3.82110091743119
+"1539","Twin Town","Comedy",4.66666666666667
+"1541","Addicted to Love","Comedy",2.86397058823529
+"1542","Brassed Off","Comedy",3.34355828220859
+"1543","Designated Mourner, The","Drama",2.98148148148148
+"1544","Lost World: Jurassic Park, The","Action",2.77777777777778
+"Thriller","Thriller","Thriller",NA
+"1545","Ponette","Drama",3.27777777777778
+"1546","Schizopolis","Comedy",3.66666666666667
+"1547","Shiloh","Children's",3.86585365853659
+"1548","War at Home, The","Drama",3.94736842105263
+"1549","Rough Magic","Drama",2.96065573770492
+"1550","Trial and Error","Comedy",2.06034482758621
+"1551","Buddy","Adventure",1.78846153846154
+"1552","Con Air","Action",1.84444444444444
+"1553","Late Bloomers","Comedy",3.06227106227106
+"1554","Pillow Book, The","Drama",3.47278911564626
+"1555","To Have, or Not","Drama",3.22916666666667
+"1556","Speed 2: Cruise Control","Action",3.26975476839237
+"1557","Squeeze","Drama",3.14525139664804
+"1558","Sudden Manhattan","Comedy",2.63095238095238
+"1559","Next Step, The","Drama",2.35443037974684
+"1561","Wedding Bell Blues","Comedy",3.0187969924812
+"1562","Batman & Robin","Action",2.23529411764706
+"1563","Dream With the Fishes","Drama",2.36641221374046
+"1564","Roseanna's Grave","Comedy",3.42138364779874
+"1565","Head Above Water","Comedy",3.46964856230032
+"1566","Hercules","Adventure",3.71256454388985
+"Comedy","Comedy","Comedy",NA
+"1567","Last Time I Committed Suicide, The","Drama",3.52439024390244
+"1568","MURDER and murder","Crime",2.94520547945205
+"1569","My Best Friend's Wedding","Comedy",2.83333333333333
+"1570","Tetsuo II: Body Hammer","Sci-Fi",2.84357541899441
+"1571","When the Cats Away","Comedy",3.04103671706264
+"1572","Contempt","Drama",2.52941176470588
+"1573","Face/Off","Action",2.84873949579832
+"1574","Fall","Romance",1.89189189189189
+"1575","Gabbeh","Drama",1.94117647058824
+"1577","Mondo","Drama",3.39448051948052
+"1578","Innocent Sleep, The","Crime",3.07894736842105
+"1579","For Ever Mozart","Drama",3.03205128205128
+"1580","Men in Black","Action",3.22182468694097
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"1581","Out to Sea","Comedy",3.8976
+"1582","Wild America","Adventure",3.5
+"1583","Simple Wish, A","Children's",2.77777777777778
+"1584","Contact","Drama",2.83333333333333
+"1585","Love Serenade","Comedy",2.94082840236686
+"1586","G.I. Jane","Action",2.22857142857143
+"1587","Conan the Barbarian","Action",2.22857142857143
+"1588","George of the Jungle","Children's",2.06060606060606
+"1589","Cop Land","Crime",3.50273224043716
+"1590","Event Horizon","Action",3.29100529100529
+"Thriller","Thriller","Thriller",NA
+"1591","Spawn","Action",2.21621621621622
+"Thriller","Thriller","Thriller",NA
+"1592","Air Bud","Children's",3.35616438356164
+"1593","Picture Perfect","Comedy",3.17647058823529
+"1594","In the Company of Men","Drama",1.70121951219512
+"1595","Free Willy 3: The Rescue","Adventure",3
+"1596","Career Girls","Drama",3.4
+"1597","Conspiracy Theory","Action",2.74468085106383
+"Thriller","Thriller","Thriller",NA
+"1598","Desperate Measures","Crime",2.59259259259259
+"1599","Steel","Action",2.65137614678899
+"1600","She's So Lovely","Drama",3.11111111111111
+"1601","Hoodlum","Crime",3.0381679389313
+"1602","Leave It to Beaver","Comedy",3.77777777777778
+"1603","Mimic","Sci-Fi",3
+"1604","Money Talks","Action",3.95430107526882
+"1605","Excess Baggage","Adventure",2.425
+"1606","Kull the Conqueror","Action",3.20198675496689
+"1608","Air Force One","Action",3.77777777777778
+"1609","187","Drama",3.2280701754386
+"1610","Hunt for Red October, The","Action",3.59803921568627
+"1611","My Own Private Idaho","Drama",4.31583011583012
+"1612","Kiss Me, Guido","Comedy",3.42285714285714
+"1613","Star Maps","Drama",3.41666666666667
+"1614","In & Out","Comedy",2.66834170854271
+"1615","Edge, The","Adventure",4
+"1616","Peacemaker, The","Action",2
+"1617","L.A. Confidential","Crime",3.28571428571429
+"Thriller","Thriller","Thriller",NA
+"1619","Seven Years in Tibet","Drama",3.79310344827586
+"1620","Kiss the Girls","Crime",2.42361111111111
+"1621","Soul Food","Drama",3.85477178423237
+"1622","Kicked in the Head","Comedy",3.16826923076923
+"1623","Wishmaster","Horror",3.10606060606061
+"1624","Thousand Acres, A","Drama",3.60851063829787
+"1625","Game, The","Mystery",3
+"1626","Fire Down Below","Action",3.85416666666667
+"1627","U Turn","Action",2.96
+"1628","Locusts, The","Drama",2.96078431372549
+"1629","MatchMaker, The","Comedy",2.734375
+"1630","Lay of the Land, The","Comedy",2.84313725490196
+"1631","Assignment, The","Thriller",3.04166666666667
+"1632","Smile Like Yours, A","Comedy",2
+"1633","Ulee's Gold","Drama",3
+"1635","Ice Storm, The","Drama",3.95161290322581
+"1636","Stag","Action",3.61870503597122
+"1639","Chasing Amy","Drama",3.93035479632063
+"1640","How to Be a Player","Comedy",3.53
+"1641","Full Monty, The","Comedy",4.45369441658308
+"1642","Indian Summer","Comedy",3.25609756097561
+"1643","Mrs. Brown","Drama",2.83333333333333
+"1644","I Know What You Did Last Summer","Horror",3.16859716859717
+"1645","Devil's Advocate, The","Crime",2.72463768115942
+"Thriller","Thriller","Thriller",NA
+"1646","Rocket Man","Comedy",4.08823529411765
+"1647","Playing God","Crime",2.6
+"1648","House of Yes, The","Comedy",4.22388059701493
+"1649","Fast, Cheap & Out of Control","Documentary",3.64912280701754
+"1650","Washington Square","Drama",3.8780487804878
+"1651","Telling Lies in America","Drama",3.91095890410959
+"1652","Year of the Horse","Documentary",4.08823529411765
+"1653","Gattaca","Drama",3.09608540925267
+"1654","FairyTale: A True Story","Children's",1.93181818181818
+"1655","Phantoms","Horror",3.01058201058201
+"1656","Swept from the Sea","Romance",2.68269230769231
+"1657","Wonderland","Documentary",3.32174776564052
+"1658","Life Less Ordinary, A","Romance",3.89130434782609
+"1659","Hurricane Streets","Drama",3
+"1660","Eve's Bayou","Drama",3.87209302325581
+"1661","Switchback","Thriller",3.69444444444444
+"1662","Gang Related","Crime",3.65217391304348
+"1663","Stripes","Comedy",3.34939759036145
+"1664","Nénette et Boni","Drama",2.75
+"1665","Bean","Comedy",4.08823529411765
+"1666","Hugo Pool","Romance",3.07575757575758
+"1667","Mad City","Action",3.57142857142857
+"1668","One Night Stand","Drama",3.42857142857143
+"1669","Tango Lesson, The","Romance",3.40977777777778
+"1670","Welcome To Sarajevo","Drama",2.75
+"1671","Deceiver","Crime",3.85714285714286
+"1672","Rainmaker, The","Drama",3.51219512195122
+"1673","Boogie Nights","Drama",2
+"1674","Witness","Drama",3.27272727272727
+"1675","Incognito","Crime",3.53703703703704
+"1676","Starship Troopers","Action",3.24731182795699
+"War","War","War",NA
+"1677","Critical Care","Comedy",3.03225806451613
+"1678","Joy Luck Club, The","Drama",2.46153846153846
+"1679","Chairman of the Board","Comedy",2.66666666666667
+"1680","Sliding Doors","Drama",2.83333333333333
+"1681","Mortal Kombat: Annihilation","Action",3.20245398773006
+"1682","Truman Show, The","Drama",3.2
+"1683","Wings of the Dove, The","Drama",3.53682487725041
+"1684","Mrs. Dalloway","Romance",3.16430260047281
+"1685","I Love You, I Love You Not","Romance",2.33659491193738
+"1686","Red Corner","Crime",1.88855421686747
+"1687","Jackal, The","Action",3.82773109243697
+"1688","Anastasia","Animation",3.34313725490196
+"1689","Man Who Knew Too Little, The","Comedy",2.87179487179487
+"1690","Alien: Resurrection","Action",3.19230769230769
+"1692","Alien Escape","Horror",3.32307692307692
+"1693","Amistad","Drama",3.93264248704663
+"1694","Apostle, The","Drama",2.75757575757576
+"1695","Artemisia","Drama",3.14634146341463
+"1696","Bent","Drama",2.92156862745098
+"1697","Big Bang Theory, The","Crime",2.76190476190476
+"1698","Boys, Les","Comedy",3.76119402985075
+"1699","Butcher Boy, The","Drama",1.76595744680851
+"1701","Deconstructing Harry","Comedy",3.2911597729116
+"1702","Flubber","Children's",3.09090909090909
+"1703","For Richer or Poorer","Comedy",3.17391304347826
+"1704","Good Will Hunting","Drama",3.42553191489362
+"1705","Guy","Drama",3.8962962962963
+"1706","Harlem River Drive","Drama",3.36170212765957
+"1707","Home Alone 3","Children's",3.85840707964602
+"1708","Ill Gotten Gains","Drama",3.07547169811321
+"1709","Legal Deceit","Thriller",3.9124203821656
+"1710","Man of Her Dreams","Drama",3.42253521126761
+"1711","Midnight in the Garden of Good and Evil","Comedy",3.21428571428571
+"Mystery","Mystery","Mystery",NA
+"1713","Mouse Hunt","Children's",2.53479853479853
+"1714","Never Met Picasso","Romance",3.73831775700935
+"1715","Office Killer","Thriller",2.72857142857143
+"1716","Other Voices, Other Rooms","Drama",4
+"1717","Scream 2","Horror",3.66282051282051
+"1718","Stranger in the House","Thriller",3.18925831202046
+"1719","Sweet Hereafter, The","Drama",3.85714285714286
+"1720","Time Tracers","Action",2.69230769230769
+"1721","Titanic","Drama",3.4
+"1722","Tomorrow Never Dies","Action",3.13533834586466
+"1723","Twisted","Comedy",4.05652173913044
+"1724","Full Speed","Drama",3.12
+"1725","Education of Little Tree, The","Drama",2.6
+"1726","Postman, The","Drama",3.37037037037037
+"1727","Horse Whisperer, The","Drama",3.6046511627907
+"1728","Winter Guest, The","Drama",4.05681818181818
+"1729","Jackie Brown","Crime",3.3884239888424
+"1730","Kundun","Drama",3
+"1731","Mr. Magoo","Comedy",3.9622641509434
+"1732","Big Lebowski, The","Comedy",3.66515837104072
+"Thriller","Thriller","Thriller",NA
+"1733","Afterglow","Drama",3.14182344428365
+"1734","My Life in Pink","Comedy",3.39024390243902
+"1735","Great Expectations","Drama",3.52727272727273
+"1738","Vermin","Comedy",4.22481343283582
+"1739","3 Ninjas: High Noon On Mega Mountain","Action",3.85714285714286
+"1740","Men of Means","Action",3.13527180783818
+"1741","Midaq Alley","Drama",2.18181818181818
+"1742","Caught Up","Crime",3.69135802469136
+"1743","Arguing the World","Documentary",3.72916666666667
+"1744","Firestorm","Action",3.00292611558157
+"1746","Senseless","Comedy",3.0379746835443
+"1747","Wag the Dog","Comedy",3.76044129235619
+"1748","Dark City","Film-Noir",2.15853658536585
+"1749","Leading Man, The","Romance",3.07088607594937
+"1750","Star Kid","Adventure",3
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"1752","Hard Rain","Action",2.71428571428571
+"1753","Half Baked","Comedy",3.70986321094312
+"1754","Fallen","Action",3.50473186119874
+"1755","Shooting Fish","Romance",3.82978723404255
+"1756","Prophecy II, The","Horror",3.17672413793103
+"1757","Duoluo tianshi","Drama",3.14285714285714
+"1758","Dangerous Beauty","Drama",3.03152789005659
+"1759","Four Days in September","Drama",3.5625
+"1760","Spice World","Comedy",3.2010582010582
+"1762","Deep Rising","Action",3.25287356321839
+"1764","Tainted","Comedy",3.90554791380101
+"1765","Letter From Death Row, A","Crime",2.90619469026549
+"1767","Music From Another Room","Drama",2.38235294117647
+"1768","Mat' i syn","Drama",3.72584856396867
+"1769","Replacement Killers, The","Action",2.16621983914209
+"1770","B. Monkey","Romance",3.76470588235294
+"1771","Night Flier","Horror",2.87290969899666
+"1772","Blues Brothers 2000","Action",3.010550996483
+"1773","Tokyo Fist","Action",3.12
+"1774","Mass Transit","Comedy",3.74736842105263
+"1776","Ride","Drama",3.46875
+"1777","Wedding Singer, The","Comedy",4.018779342723
+"1779","Sphere","Adventure",2.89754098360656
+"1780","Ayn Rand: A Sense of Life","Documentary",3.55029585798817
+"1781","Further Gesture, A","Drama",4.32085561497326
+"1782","Little City","Comedy",3.97972972972973
+"1783","Palmetto","Film-Noir",2.44
+"1784","As Good As It Gets","Comedy",3.35836909871245
+"1785","King of New York","Action",2.89760348583878
+"1787","Paralyzing Fear: The Story of Polio in America, A","Documentary",2.91304347826087
+"1788","Men With Guns","Action",3.45569620253165
+"1789","Sadness of Sex, The","Drama",3.85555555555556
+"1791","Twilight","Crime",2.64705882352941
+"1792","U.S. Marshalls","Action",3.01639344262295
+"1793","Welcome to Woop-Woop","Comedy",2
+"1794","Love and Death on Long Island","Comedy",3.375
+"1795","Callejón de los milagros, El","Drama",3.68421052631579
+"1796","In God's Hands","Action",3.89519650655022
+"1797","Everest","Documentary",3.33226495726496
+"1798","Hush","Thriller",3.31179775280899
+"1799","Suicide Kings","Crime",2.05109489051095
+"1801","Man in the Iron Mask, The","Action",2.5375
+"1804","Newton Boys, The","Crime",2.96216216216216
+"1805","Wild Things","Crime",3.49122807017544
+"Thriller","Thriller","Thriller",NA
+"1806","Paulie","Adventure",1.83333333333333
+"1807","Cool Dry Place, A","Drama",2.67741935483871
+"1809","Hana-bi","Comedy",3.82222222222222
+"1810","Primary Colors","Drama",2.83870967741935
+"1811","Niagara, Niagara","Drama",3.35116279069767
+"1812","Wide Awake","Children's",2.69298245614035
+"1814","Price Above Rubies, A","Drama",4.04747774480712
+"1815","Eden","Drama",4.40626270841806
+"1816","Two Girls and a Guy","Comedy",3.64187327823691
+"1817","No Looking Back","Comedy",3.6
+"1819","Storefront Hitchcock","Drama",3.51515151515152
+"1820","Proposition, The","Drama",3.08
+"1821","Object of My Affection, The","Comedy",3.23076923076923
+"1822","Meet the Deedles","Children's",3.22077922077922
+"1824","Homegrown","Comedy",3.2620320855615
+"1825","Player's Club, The","Action",2.88888888888889
+"1826","Barney's Great Adventure","Adventure",3.03252032520325
+"1827","Big One, The","Comedy",2.92857142857143
+"1829","Chinese Box","Drama",3.28571428571429
+"1830","Follow the Bitch","Comedy",3.76923076923077
+"1831","Lost in Space","Action",2
+"1832","Heaven's Burning","Action",2.55172413793103
+"1833","Mercury Rising","Action",3.62028985507246
+"1834","Spanish Prisoner, The","Drama",2.75
+"1835","City of Angels","Romance",3.18292682926829
+"1836","Last Days of Disco, The","Drama",3.17460317460317
+"1837","Odd Couple II, The","Comedy",3.50467289719626
+"1839","My Giant","Comedy",3.20634920634921
+"1840","He Got Game","Drama",3.04
+"1841","Gingerbread Man, The","Drama",2.41666666666667
+"1842","Illtown","Crime",2.90123456790123
+"1843","Slappy and the Stinkers","Children's",4.13747228381375
+"1844","Live Flesh","Drama",2.99393939393939
+"1845","Zero Effect","Comedy",3.71739130434783
+"1846","Nil By Mouth","Drama",2.65573770491803
+"1847","Ratchet","Drama",3.97111496244945
+"1848","Borrowers, The","Adventure",2.98028673835125
+"Fantasy","Fantasy","Fantasy",NA
+"1849","Prince Valiant","Adventure",2.75471698113208
+"1850","I Love You, Don't Touch Me!","Drama",2.92207792207792
+"1851","Leather Jacket Love Story","Drama",3.84153005464481
+"1852","Love Walked In","Drama",2.95
+"1853","Alan Smithee Film: Burn Hollywood Burn, An","Comedy",3.85580147551979
+"1854","Kissing a Fool","Comedy",1.925
+"1855","Krippendorf's Tribe","Comedy",1.55555555555556
+"1856","Kurt & Courtney","Documentary",4.05586592178771
+"1857","Real Blonde, The","Comedy",3.57075471698113
+"1858","Mr. Nice Guy","Action",3.04545454545455
+"1859","Taste of Cherry","Drama",3.51648351648352
+"1860","Character","Drama",3.08823529411765
+"1861","Junk Mail","Comedy",3.27456647398844
+"1862","Species II","Horror",4.23890532544379
+"1863","Major League: Back to the Minors","Comedy",2.86830357142857
+"1864","Sour Grapes","Comedy",2.63316582914573
+"1865","Wild Man Blues","Documentary",1.75824175824176
+"1866","Big Hit, The","Action",2.512
+"1867","Tarzan and the Lost City","Action",2.55
+"1868","Truce, The","Drama",3.6480686695279
+"1869","Black Dog","Action",3.92682926829268
+"1870","Dancer, Texas Pop. 81","Comedy",4
+"1871","Friend of the Deceased, A","Comedy",3.23913043478261
+"1872","Go Now","Drama",3.6551724137931
+"1873","Misérables, Les","Drama",2.625
+"1874","Still Breathing","Comedy",2.59409594095941
+"1875","Clockwatchers","Comedy",1.86486486486486
+"1876","Deep Impact","Action",1.64
+"Thriller","Thriller","Thriller",NA
+"1877","Little Men","Drama",1.60344827586207
+"1878","Woo","Comedy",4.04075235109718
+"1879","Hanging Garden, The","Drama",3.22325581395349
+"1880","Lawn Dogs","Drama",3.56603773584906
+"1881","Quest for Camelot","Adventure",2.66666666666667
+"Fantasy","Fantasy","Fantasy",NA
+"1882","Godzilla","Action",3.04942965779468
+"1883","Bulworth","Comedy",2.5
+"1884","Fear and Loathing in Las Vegas","Comedy",3.92857142857143
+"1885","Opposite of Sex, The","Comedy",2.75
+"1886","I Got the Hook Up","Comedy",3.15866666666667
+"1887","Almost Heroes","Adventure",2.44207317073171
+"1888","Hope Floats","Comedy",2.10743801652893
+"1889","Insomnia","Thriller",2.95541401273885
+"1890","Little Boy Blue","Drama",3
+"1891","Ugly, The","Horror",3.54545454545455
+"1892","Perfect Murder, A","Mystery",3.25
+"1893","Beyond Silence","Drama",3.66666666666667
+"1894","Six Days Seven Nights","Adventure",3.55555555555556
+"1895","Can't Hardly Wait","Comedy",2.53571428571429
+"1896","Cousin Bette","Comedy",3.29447852760736
+"1897","High Art","Drama",3.38095238095238
+"1898","Land Girls, The","Drama",4.3
+"1899","Passion in the Desert","Adventure",2.89976133651551
+"1900","Children of Heaven, The","Drama",3.62628336755647
+"1901","Dear Jesse","Documentary",3.45238095238095
+"1902","Dream for an Insomniac","Drama",3.8695652173913
+"1903","Hav Plenty","Comedy",3.18072289156627
+"1904","Henry Fool","Comedy",1
+"1905","Marie Baie Des Anges","Drama",3.36746987951807
+"1906","Mr. Jealousy","Comedy",3.90909090909091
+"1907","Mulan","Animation",3.95121951219512
+"1908","Resurrection Man","Drama",2.8
+"1909","X-Files: Fight the Future, The","Mystery",2.71428571428571
+"1910","I Went Down","Action",2.44360902255639
+"1911","Doctor Dolittle","Comedy",3.73780487804878
+"1912","Out of Sight","Action",2.89285714285714
+"1913","Picnic at Hanging Rock","Drama",2.36363636363636
+"1914","Smoke Signals","Comedy",2.3
+"1915","Voyage to the Beginning of the World","Drama",2.77777777777778
+"1916","Buffalo 66","Action",3.69674185463659
+"1917","Armageddon","Action",4.31738623103851
+"Thriller","Thriller","Thriller",NA
+"1918","Lethal Weapon 4","Action",4.23430962343096
+"Drama","Drama","Drama",NA
+"1919","Madeline","Children's",3
+"1920","Small Soldiers","Animation",3.2578125
+"War","War","War",NA
+"1921","Pi","Sci-Fi",3.15254237288136
+"1922","Whatever","Drama",2.58426966292135
+"1923","There's Something About Mary","Comedy",3.88996138996139
+"1924","Plan 9 from Outer Space","Horror",2.82142857142857
+"1925","Wings","Drama",3.05
+"1926","Broadway Melody, The","Musical",3.68844221105528
+"1927","All Quiet on the Western Front","War",3.43464052287582
+"1928","Cimarron","Western",2.3015873015873
+"1929","Grand Hotel","Drama",2.66666666666667
+"1930","Cavalcade","Drama",2.9047619047619
+"1931","Mutiny on the Bounty","Adventure",3.59067357512953
+"1932","Great Ziegfeld, The","Musical",3.94101508916324
+"1933","Life of Émile Zola, The","Drama",3.81266846361186
+"1934","You Can't Take It With You","Comedy",2.68181818181818
+"1935","How Green Was My Valley","Drama",3.52238805970149
+"1936","Mrs. Miniver","Drama",3.25773195876289
+"1937","Going My Way","Comedy",2.65116279069767
+"1938","Lost Weekend, The","Drama",3.01421800947867
+"1939","Best Years of Our Lives, The","Drama",2.26470588235294
+"1940","Gentleman's Agreement","Drama",3.46341463414634
+"1941","Hamlet","Drama",3.14428571428571
+"1942","All the King's Men","Drama",3.45833333333333
+"1943","Greatest Show on Earth, The","Drama",3.20101781170483
+"1944","From Here to Eternity","Drama",2.79661016949153
+"1945","On the Waterfront","Crime",3.54873646209386
+"1946","Marty","Drama",2.57142857142857
+"1947","West Side Story","Musical",3.36065573770492
+"1948","Tom Jones","Comedy",2.24242424242424
+"1949","Man for All Seasons, A","Drama",2.25
+"1950","In the Heat of the Night","Drama",2.78151260504202
+"1951","Oliver!","Musical",3.43554006968641
+"1952","Midnight Cowboy","Drama",3.34177215189873
+"1953","French Connection, The","Action",3.80705190989226
+"Thriller","Thriller","Thriller",NA
+"1954","Rocky","Action",3.49189189189189
+"1955","Kramer Vs. Kramer","Drama",2.5
+"1956","Ordinary People","Drama",2.88095238095238
+"1957","Chariots of Fire","Drama",2.625
+"1958","Terms of Endearment","Comedy",3
+"1959","Out of Africa","Drama",3.32142857142857
+"1960","Last Emperor, The","Drama",3.25
+"1961","Rain Man","Drama",2.74509803921569
+"1962","Driving Miss Daisy","Drama",3.54700854700855
+"1963","Take the Money and Run","Comedy",4.06203473945409
+"1964","Klute","Drama",3.91666666666667
+"1965","Repo Man","Comedy",2.6832298136646
+"1966","Metropolitan","Comedy",3.2030303030303
+"1967","Labyrinth","Adventure",2.42073170731707
+"1968","Breakfast Club, The","Comedy",2.05102040816327
+"1969","Nightmare on Elm Street Part 2: Freddy's Revenge, A","Horror",3.76470588235294
+"1970","Nightmare on Elm Street 3: Dream Warriors, A","Horror",4.60869565217391
+"1971","Nightmare on Elm Street 4: The Dream Master, A","Horror",2.328
+"1972","Nightmare on Elm Street 5: The Dream Child, A","Horror",2.44600938967136
+"1973","Freddy's Dead: The Final Nightmare","Horror",4.01411764705882
+"1974","Friday the 13th","Horror",4
+"1975","Friday the 13th Part 2","Horror",2.20833333333333
+"1976","Friday the 13th Part 3: 3D","Horror",3.28571428571429
+"1977","Friday the 13th: The Final Chapter","Horror",3.67932489451477
+"1978","Friday the 13th Part V: A New Beginning","Horror",3.29411764705882
+"1979","Friday the 13th Part VI: Jason Lives","Horror",2.18181818181818
+"1980","Friday the 13th Part VII: The New Blood","Horror",3.63967136150235
+"1981","Friday the 13th Part VIII: Jason Takes Manhattan","Horror",3.68236472945892
+"1982","Halloween","Horror",4.03174603174603
+"1983","Halloween II","Horror",4.11744738628649
+"1984","Halloween III: Season of the Witch","Horror",3.89514066496164
+"1985","Halloween 4: The Return of Michael Myers","Horror",3.268758526603
+"1986","Halloween 5: The Revenge of Michael Myers","Horror",4.19
+"1987","Prom Night","Horror",3.88328075709779
+"1988","Hello Mary Lou: Prom Night II","Horror",3.74688796680498
+"1989","Prom Night III: The Last Kiss","Horror",3.41176470588235
+"1990","Prom Night IV: Deliver Us From Evil","Horror",3.90977443609023
+"1991","Child's Play","Horror",4.2280701754386
+"1992","Child's Play 2","Horror",3.35056179775281
+"1993","Child's Play 3","Horror",4.08080808080808
+"1994","Poltergeist","Horror",3.33766233766234
+"1995","Poltergeist II: The Other Side","Horror",3.47441860465116
+"1996","Poltergeist III","Horror",4.10617551462622
+"1997","Exorcist, The","Horror",4.4
+"1998","Exorcist II: The Heretic","Horror",4.3
+"1999","Exorcist III, The","Horror",3.95762711864407
+"2000","Lethal Weapon","Action",3.44444444444444
+"Drama","Drama","Drama",NA
+"2001","Lethal Weapon 2","Action",2.4
+"Drama","Drama","Drama",NA
+"2002","Lethal Weapon 3","Action",4.19310344827586
+"Drama","Drama","Drama",NA
+"2003","Gremlins","Comedy",4.09316770186335
+"2004","Gremlins 2: The New Batch","Comedy",4.28846153846154
+"2005","Goonies, The","Adventure",3.74193548387097
+"2006","Mask of Zorro, The","Action",3.5
+"2007","Polish Wedding","Comedy",3.0952380952381
+"2008","This World, Then the Fireworks","Crime",4.00934579439252
+"2009","Soylent Green","Sci-Fi",3.61428571428571
+"2010","Metropolis","Sci-Fi",3.09944751381215
+"2011","Back to the Future Part II","Comedy",3.78125
+"2012","Back to the Future Part III","Comedy",4.004243281471
+"2013","Poseidon Adventure, The","Action",2.67857142857143
+"2014","Freaky Friday","Children's",3.77319587628866
+"2015","Absent Minded Professor, The","Children's",3.97101449275362
+"2016","Apple Dumpling Gang Rides Again, The","Children's",3.88975356679637
+"2017","Babes in Toyland","Children's",3.87461300309598
+"2018","Bambi","Animation",2.75862068965517
+"2019","Seven Samurai","Action",2.33236994219653
+"2020","Dangerous Liaisons","Drama",3.99425287356322
+"2021","Dune","Fantasy",3.74731182795699
+"2022","Last Temptation of Christ, The","Drama",2.39296187683284
+"2023","Godfather: Part III, The","Action",2
+"2024","Rapture, The","Drama",3.13475177304965
+"2025","Lolita","Drama",4.07718814610613
+"2026","Disturbing Behavior","Horror",4.27821280515891
+"2027","Mafia!","Comedy",2.75
+"2028","Saving Private Ryan","Action",2.81785714285714
+"2029","Billy's Hollywood Screen Kiss","Comedy",3.4
+"2030","East Palace West Palace","Drama",3.70588235294118
+"2031","$1,000,000 Duck","Children's",3.33333333333333
+"2032","Barefoot Executive, The","Children's",2.02777777777778
+"2033","Black Cauldron, The","Animation",4.05594405594406
+"2034","Black Hole, The","Sci-Fi",3.74803149606299
+"2035","Blackbeard's Ghost","Children's",3.69405940594059
+"2036","Blank Check","Children's",3.91208791208791
+"2037","Candleshoe","Adventure",3.10714285714286
+"2038","Cat from Outer Space, The","Children's",3.95918367346939
+"2039","Cheetah","Adventure",3.82334384858044
+"2040","Computer Wore Tennis Shoes, The","Children's",4.01538461538462
+"2041","Condorman","Action",4.05
+"Comedy","Comedy","Comedy",NA
+"2042","D2: The Mighty Ducks","Children's",1.83582089552239
+"2043","Darby O'Gill and the Little People","Adventure",3.03603603603604
+"2044","Devil and Max Devlin, The","Comedy",3.07181328545781
+"2045","Far Off Place, A","Adventure",2.91111111111111
+"Romance","Romance","Romance",NA
+"2046","Flight of the Navigator","Adventure",2.84466019417476
+"2047","Gnome-Mobile, The","Children's",2.18918918918919
+"2048","Great Mouse Detective, The","Animation",3.91304347826087
+"2049","Happiest Millionaire, The","Comedy",3.73333333333333
+"2050","Herbie Goes Bananas","Adventure",2.10526315789474
+"2051","Herbie Goes to Monte Carlo","Adventure",3.98765432098765
+"2052","Hocus Pocus","Children's",3.44444444444444
+"2053","Honey, I Blew Up the Kid","Children's",3.45158665581774
+"2054","Honey, I Shrunk the Kids","Adventure",2.38133874239351
+"Fantasy","Fantasy","Fantasy",NA
+"2055","Hot Lead and Cold Feet","Comedy",3.67982212340189
+"2056","In Search of the Castaways","Adventure",3.63888888888889
+"2057","Incredible Journey, The","Adventure",3.50117647058824
+"2058","Negotiator, The","Action",3.66433566433566
+"2059","Parent Trap, The","Children's",3.2
+"2060","BASEketball","Comedy",3.59241706161137
+"2061","Full Tilt Boogie","Documentary",2.48387096774194
+"2062","Governess, The","Drama",3.70544554455446
+"2063","Seventh Heaven","Drama",3.5
+"2064","Roger & Me","Comedy",2.30791788856305
+"2065","Purple Rose of Cairo, The","Comedy",3.42857142857143
+"2066","Out of the Past","Film-Noir",4.12539045069166
+"2067","Doctor Zhivago","Drama",3.53846153846154
+"2068","Fanny and Alexander","Drama",4
+"2069","Trip to Bountiful, The","Drama",3.01673640167364
+"2070","Tender Mercies","Drama",3.64864864864865
+"2071","And the Band Played On","Drama",3.75886524822695
+"2072","'burbs, The","Comedy",4.14782608695652
+"2073","Fandango","Comedy",1.66666666666667
+"2074","Night Porter, The","Drama",3.91428571428571
+"2075","Mephisto","Drama",3.25
+"2076","Blue Velvet","Drama",2.48015873015873
+"2077","Journey of Natty Gann, The","Adventure",3.3765625
+"2078","Jungle Book, The","Animation",4.05882352941176
+"Musical","Musical","Musical",NA
+"2079","Kidnapped","Children's",4.0135593220339
+"2080","Lady and the Tramp","Animation",3.72549019607843
+"Musical","Musical","Musical",NA
+"2081","Little Mermaid, The","Animation",3.30232558139535
+"Musical","Musical","Musical",NA
+"2082","Mighty Ducks, The","Children's",3.6
+"2083","Muppet Christmas Carol, The","Children's",3.61073825503356
+"2084","Newsies","Children's",3.4
+"2085","101 Dalmatians","Animation",2.89230769230769
+"2086","One Magic Christmas","Drama",2.91836734693878
+"2087","Peter Pan","Animation",3.375
+"Musical","Musical","Musical",NA
+"2088","Popeye","Adventure",3.15883668903803
+"2089","Rescuers Down Under, The","Animation",2.52884615384615
+"2090","Rescuers, The","Animation",3.4758064516129
+"2091","Return from Witch Mountain","Children's",3.92067307692308
+"2092","Return of Jafar, The","Animation",3.81395348837209
+"2093","Return to Oz","Adventure",3.45229007633588
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"2094","Rocketeer, The","Action",2.86111111111111
+"2095","Shaggy D.A., The","Children's",4.36893203883495
+"2096","Sleeping Beauty","Animation",2.34782608695652
+"2097","Something Wicked This Way Comes","Children's",3.28571428571429
+"2098","Son of Flubber","Children's",1.5
+"2099","Song of the South","Adventure",1.14285714285714
+"Musical","Musical","Musical",NA
+"2100","Splash","Comedy",3.76258992805755
+"2101","Squanto: A Warrior's Tale","Adventure",3.27368421052632
+"2102","Steamboat Willie","Animation",2.97607655502392
+"Musical","Musical","Musical",NA
+"2103","Tall Tale","Adventure",4.4046511627907
+"2104","Tex","Drama",2.15094339622642
+"2105","Tron","Action",3.54017857142857
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"2106","Swing Kids","Drama",3.28364849833148
+"2107","Halloween: H20","Horror",3.74344023323615
+"2108","L.A. Story","Comedy",4.14964370546318
+"2109","Jerk, The","Comedy",3.22988505747126
+"2110","Dead Men Don't Wear Plaid","Comedy",4.04399323181049
+"2111","Man with Two Brains, The","Comedy",4.2027027027027
+"2112","Grand Canyon","Crime",3.82836710369487
+"2113","Graveyard Shift","Horror",3.14285714285714
+"2114","Outsiders, The","Drama",3.31111111111111
+"2115","Indiana Jones and the Temple of Doom","Action",1.6986301369863
+"2116","Lord of the Rings, The","Adventure",1.55384615384615
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"2117","Nineteen Eighty-Four","Drama",1.725
+"2118","Dead Zone, The","Horror",3.85591766723842
+"2119","Maximum Overdrive","Horror",3.09322033898305
+"2120","Needful Things","Drama",3.49411764705882
+"2121","Cujo","Horror",3.55555555555556
+"2122","Children of the Corn","Horror",2.35211267605634
+"2123","All Dogs Go to Heaven","Animation",3.24324324324324
+"2124","Addams Family, The","Comedy",2.50393700787402
+"2125","Ever After: A Cinderella Story","Drama",3.125
+"2126","Snake Eyes","Action",2.95031055900621
+"Thriller","Thriller","Thriller",NA
+"2127","First Love, Last Rites","Drama",3.71284125379171
+"2128","Safe Men","Comedy",3.01759530791789
+"2129","Saltmen of Tibet, The","Documentary",1.97794117647059
+"2130","Atlantic City","Crime",3.39024390243902
+"2131","Autumn Sonata","Drama",3.66666666666667
+"2132","Who's Afraid of Virginia Woolf?","Drama",4
+"2133","Adventures in Babysitting","Adventure",2.16666666666667
+"2134","Weird Science","Comedy",4.22754491017964
+"2135","Doctor Dolittle","Adventure",3.83154121863799
+"2136","Nutty Professor, The","Comedy",3.88
+"2137","Charlotte's Web","Animation",3.97159090909091
+"2138","Watership Down","Animation",2.71942446043165
+"Fantasy","Fantasy","Fantasy",NA
+"2139","Secret of NIMH, The","Animation",2.5
+"2140","Dark Crystal, The","Children's",4
+"2141","American Tail, An","Animation",3.70103092783505
+"2142","American Tail: Fievel Goes West, An","Animation",3.89235127478754
+"2143","Legend","Adventure",3.86543535620053
+"2144","Sixteen Candles","Comedy",3.81818181818182
+"2145","Pretty in Pink","Comedy",4.09876543209877
+"2146","St. Elmo's Fire","Drama",3.38788870703764
+"2147","Clan of the Cave Bear, The","Drama",3.76452599388379
+"2148","House","Comedy",3.78716904276986
+"2149","House II: The Second Story","Comedy",3.24242424242424
+"2150","Gods Must Be Crazy, The","Comedy",3.78828828828829
+"2151","Gods Must Be Crazy II, The","Comedy",3.98550724637681
+"2152","Air Bud: Golden Receiver","Children's",3.70967741935484
+"2153","Avengers, The","Action",4.22727272727273
+"2154","How Stella Got Her Groove Back","Drama",3.65161290322581
+"2155","Slums of Beverly Hills, The","Comedy",3.88275862068966
+"2156","Best Man, The","Comedy",3.96534653465347
+"2157","Chambermaid on the Titanic, The","Romance",3.51688555347092
+"2158","Henry: Portrait of a Serial Killer, Part 2","Crime",3.37935034802784
+"2159","Henry: Portrait of a Serial Killer","Crime",4.08629441624366
+"2160","Rosemary's Baby","Horror",3.5
+"2161","NeverEnding Story, The","Adventure",2.5
+"2162","NeverEnding Story II: The Next Chapter, The","Adventure",3.58024691358025
+"2163","Attack of the Killer Tomatoes!","Comedy",3.47868217054264
+"2164","Surf Nazis Must Die","Drama",4.08988764044944
+"2165","Your Friends and Neighbors","Drama",4.35714285714286
+"2166","Return to Paradise","Drama",3.6875
+"2167","Blade","Action",4.14124293785311
+"2168","Dance with Me","Drama",4.28368794326241
+"2169","Dead Man on Campus","Comedy",4
+"2170","Wrongfully Accused","Action",3.69711538461538
+"2171","Next Stop, Wonderland","Comedy",3.85148514851485
+"2172","Strike!","Comedy",4.13435700575816
+"2173","Navigator: A Mediaeval Odyssey, The","Adventure",3.95698924731183
+"2174","Beetlejuice","Comedy",4.03883495145631
+"2175","Déjà Vu","Drama",3.83211678832117
+"2176","Rope","Thriller",3.23809523809524
+"2177","Family Plot","Comedy",3.11347517730496
+"2178","Frenzy","Thriller",2.66666666666667
+"2179","Topaz","Thriller",3.75601926163724
+"2180","Torn Curtain","Thriller",3.66957605985037
+"2181","Marnie","Thriller",3.64344262295082
+"2182","Wrong Man, The","Drama",3.05882352941176
+"2183","Man Who Knew Too Much, The","Thriller",3.8562091503268
+"2184","Trouble with Harry, The","Mystery",3.78088235294118
+"2185","I Confess","Thriller",3.24
+"2186","Strangers on a Train","Film-Noir",3.44073647871116
+"2187","Stage Fright","Mystery",3.62645502645503
+"2188","54","Drama",3.21875
+"2189","I Married A Strange Person","Animation",3
+"2190","Why Do Fools Fall In Love?","Drama",3.39393939393939
+"2191","Merry War, A","Comedy",3.69953051643192
+"2192","See the Sea","Drama",3.37142857142857
+"2193","Willow","Action",2.62943262411348
+"2194","Untouchables, The","Action",4.21892744479495
+"2195","Dirty Work","Comedy",3.16363636363636
+"2196","Knock Off","Action",2.72727272727273
+"2197","Firelight","Drama",3.3013698630137
+"2198","Modulations","Documentary",3.53030303030303
+"2199","Phoenix","Crime",1.66666666666667
+"2200","Under Capricorn","Drama",2.4375
+"2201","Paradine Case, The","Drama",3.01538461538462
+"2202","Lifeboat","Drama",3.55555555555556
+"2203","Shadow of a Doubt","Film-Noir",3.37931034482759
+"2204","Saboteur","Thriller",1
+"2205","Mr. & Mrs. Smith","Comedy",3.32352941176471
+"2206","Suspicion","Mystery",3.515
+"2207","Jamaica Inn","Drama",4
+"2208","Lady Vanishes, The","Comedy",3.23214285714286
+"Thriller","Thriller","Thriller",NA
+"2209","Young and Innocent","Crime",3.45098039215686
+"2210","Sabotage","Thriller",3.70138888888889
+"2211","Secret Agent","Thriller",2.88888888888889
+"2212","Man Who Knew Too Much, The","Thriller",2.3728813559322
+"2213","Waltzes from Vienna","Comedy",3.5
+"2214","Number Seventeen","Thriller",3.63157894736842
+"2215","Rich and Strange","Comedy",3.71428571428571
+"2216","Skin Game, The","Drama",4.33939393939394
+"2217","Elstree Calling","Comedy",3.94871794871795
+"2218","Juno and Paycock","Drama",3
+"2219","Murder!","Mystery",3.8125
+"2220","Manxman, The","Drama",3.1969696969697
+"2221","Blackmail","Thriller",3.17647058823529
+"2222","Champagne","Comedy",3.85
+"2223","Farmer's Wife, The","Comedy",3.44444444444444
+"2224","Downhill","Drama",3.04838709677419
+"2225","Easy Virtue","Drama",3.38461538461538
+"2226","Ring, The","Drama",3.6969696969697
+"2227","Lodger, The","Thriller",3.26530612244898
+"2228","Mountain Eagle, The","Drama",3.35907335907336
+"2229","Pleasure Garden, The","Drama",2.76298701298701
+"2230","Always Tell Your Wife","Comedy",4.15466448445172
+"2231","Rounders","Crime",3.9521800281294
+"2232","Cube","Sci-Fi",2.44444444444444
+"2233","Digging to China","Drama",2.65359477124183
+"2234","Let's Talk About Sex","Drama",3.68333333333333
+"2235","One Man's Hero","Drama",2
+"2236","Simon Birch","Drama",3.97175141242938
+"2237","Without Limits","Drama",3.61627906976744
+"2238","Seven Beauties","Comedy",3.5
+"2239","Swept Away","Comedy",3.41441441441441
+"2240","My Bodyguard","Drama",2.90600522193211
+"2241","Class","Comedy",3.15
+"2242","Grandview, U.S.A.","Drama",3.63636363636364
+"2243","Broadcast News","Comedy",3.80573951434879
+"2244","Allnighter, The","Comedy",3.49014336917563
+"2245","Working Girl","Comedy",3.89398023360288
+"2246","Stars and Bars","Comedy",3.47368421052632
+"2247","Married to the Mob","Comedy",2.47619047619048
+"2248","Say Anything...","Comedy",3.70394736842105
+"2249","My Blue Heaven","Comedy",4
+"2250","Men Don't Leave","Drama",2.62295081967213
+"2251","Cabinet of Dr. Ramirez, The","Comedy",1.16666666666667
+"2252","Hero","Comedy",3.63253012048193
+"2253","Toys","Action",3.77113402061856
+"2254","Choices","Drama",3.51383399209486
+"2255","Young Doctors in Love","Comedy",3.19188767550702
+"2256","Parasite","Horror",3.92
+"2257","No Small Affair","Comedy",5
+"2258","Master Ninja I","Action",3.12629399585921
+"2259","Blame It on Rio","Comedy",3.48512585812357
+"2260","Wisdom","Action",3.77141203703704
+"2261","One Crazy Summer","Comedy",3.50338091660406
+"2262","About Last Night...","Comedy",2.60119047619048
+"2263","Seventh Sign, The","Thriller",3.84872298624754
+"2264","We're No Angels","Drama",3.41333333333333
+"2265","Nothing But Trouble","Adventure",4.55455770094297
+"2266","Butcher's Wife, The","Comedy",2.2
+"2267","Mortal Thoughts","Mystery",3.71165644171779
+"2268","Few Good Men, A","Crime",3.95967741935484
+"2269","Indecent Proposal","Drama",3.62222222222222
+"2270","Century of Cinema, A","Documentary",3
+"2271","Permanent Midnight","Drama",3.41206030150754
+"2272","One True Thing","Drama",3.47795823665893
+"2273","Rush Hour","Action",3
+"2274","Lilian's Story","Drama",3.7037037037037
+"2275","Six-String Samurai","Action",3.64333333333333
+"2276","Soldier's Daughter Never Cries, A","Drama",3.89377289377289
+"2277","Somewhere in the City","Drama",2.14906832298137
+"2278","Ronin","Action",4.08333333333333
+"2279","Urban Legend","Horror",3.30454545454545
+"2280","Clay Pigeons","Crime",4.22842639593909
+"2281","Monument Ave.","Crime",3.30278884462151
+"2282","Pecker","Comedy",4.07384615384615
+"2283","Sheltering Sky, The","Drama",3.34722222222222
+"2284","Bandit Queen","Drama",3.94573130377234
+"2285","If....","Drama",3.40625
+"2286","Fiendish Plot of Dr. Fu Manchu, The","Comedy",3.84883720930233
+"2287","Them!","Sci-Fi",3.95264623955432
+"2288","Thing, The","Action",1
+"Thriller","Thriller","Thriller",NA
+"2289","Player, The","Comedy",3.67806841046278
+"2290","Stardust Memories","Comedy",3.66176470588235
+"2291","Edward Scissorhands","Drama",2.25
+"2292","Overnight Delivery","Romance",3.24812030075188
+"2293","Shadrach","Drama",3.2
+"2294","Antz","Animation",2.76136363636364
+"2295","Impostors, The","Comedy",1
+"2296","Night at the Roxbury, A","Comedy",3.75409836065574
+"2297","What Dreams May Come","Drama",3.83747178329571
+"2298","Strangeland","Thriller",3.51515151515152
+"2299","Battle of the Sexes, The","Comedy",2.5
+"2300","Producers, The","Comedy",3.56034482758621
+"2301","History of the World: Part I","Comedy",3.3298969072165
+"2302","My Cousin Vinny","Comedy",3.18181818181818
+"2303","Nashville","Drama",3.33333333333333
+"2304","Love Is the Devil","Drama",3.35164835164835
+"2305","Slam","Drama",3.1875
+"2306","Holy Man","Comedy",3.25503355704698
+"2307","One Tough Cop","Action",3.71291866028708
+"2308","Detroit 9000","Action",2
+"2309","Inheritors, The","Drama",3.41379310344828
+"2310","Mighty, The","Drama",4.16666666666667
+"2311","2010","Mystery",3.41379310344828
+"2312","Children of a Lesser God","Drama",4.05194805194805
+"2313","Elephant Man, The","Drama",2.68852459016393
+"2314","Beloved","Drama",1
+"2315","Bride of Chucky","Horror",4
+"2316","Practical Magic","Drama",3.66666666666667
+"2317","Alarmist, The","Comedy",4
+"2318","Happiness","Comedy",5
+"2319","Reach the Rock","Comedy",3
+"2320","Apt Pupil","Drama",3.5
+"2321","Pleasantville","Comedy",1
+"2322","Soldier","Action",2.13483146067416
+"Thriller","Thriller","Thriller",NA
+"2323","Cruise, The","Documentary",2.37837837837838
+"2324","Life Is Beautiful","Comedy",3.96969696969697
+"2325","Orgazmo","Comedy",3.27272727272727
+"2326","Shattered Image","Drama",3.66666666666667
+"2327","Tales from the Darkside: The Movie","Horror",3.66666666666667
+"2328","Vampires","Horror",2.50170648464164
+"2329","American History X","Drama",3.69565217391304
+"2330","Hands on a Hard Body","Documentary",4.8
+"2331","Living Out Loud","Comedy",3.90315789473684
+"2332","Belly","Crime",3.16816816816817
+"2333","Gods and Monsters","Drama",2.53960396039604
+"2334","Siege, The","Action",3.13529411764706
+"2335","Waterboy, The","Comedy",2.44897959183673
+"2336","Elizabeth","Drama",3.40163934426229
+"2337","Velvet Goldmine","Drama",3.3804347826087
+"2338","I Still Know What You Did Last Summer","Horror",3.71351351351351
+"2339","I'll Be Home For Christmas","Comedy",3.60089285714286
+"2340","Meet Joe Black","Romance",2.88452655889146
+"2341","Dancing at Lughnasa","Drama",3.67970882620564
+"2342","Hard Core Logo","Comedy",3.75
+"2343","Naked Man, The","Drama",2.8594249201278
+"2344","Runaway Train","Action",2.75221238938053
+"Thriller","Thriller","Thriller",NA
+"2345","Desert Bloom","Drama",3.3697270471464
+"2346","Stepford Wives, The","Sci-Fi",4.34426229508197
+"2347","Pope of Greenwich Village, The","Action",3.72916666666667
+"2348","Sid and Nancy","Drama",3.48251748251748
+"2349","Mona Lisa","Comedy",2.96932515337423
+"2350","Heart Condition","Comedy",3.18890554722639
+"2351","Nights of Cabiria","Drama",3.091796875
+"2352","Big Chill, The","Comedy",4.13761467889908
+"2353","Enemy of the State","Action",3.65584415584416
+"2354","Rugrats Movie, The","Animation",3.68737060041408
+"2355","Bug's Life, A","Animation",1.78212290502793
+"2356","Celebrity","Comedy",3.20335429769392
+"2357","Central Station","Drama",2.6145251396648
+"2358","Savior","Drama",3.285
+"2359","Waking Ned Devine","Comedy",3.84756097560976
+"2360","Celebration, The","Drama",3.2046783625731
+"2361","Pink Flamingos","Comedy",2.73310225303293
+"2362","Glen or Glenda","Drama",3.10730593607306
+"2363","Godzilla","Action",3.6195652173913
+"2364","Godzilla","Action",2.65217391304348
+"2365","King Kong vs. Godzilla","Action",4
+"2366","King Kong","Action",3.11111111111111
+"2367","King Kong","Action",5
+"2368","King Kong Lives","Action",4.04081632653061
+"2369","Desperately Seeking Susan","Comedy",3.7
+"2370","Emerald Forest, The","Action",3.46666666666667
+"2371","Fletch","Comedy",3.73333333333333
+"2372","Fletch Lives","Comedy",2.70212765957447
+"2373","Red Sonja","Action",2.21311475409836
+"2374","Gung Ho","Comedy",2.72868217054264
+"2375","Money Pit, The","Comedy",3
+"2376","View to a Kill, A","Action",3.76923076923077
+"2377","Lifeforce","Horror",3.37676767676768
+"2378","Police Academy","Comedy",3
+"2379","Police Academy 2: Their First Assignment","Comedy",2
+"2380","Police Academy 3: Back in Training","Comedy",3.83333333333333
+"2381","Police Academy 4: Citizens on Patrol","Comedy",3.4
+"2382","Police Academy 5: Assignment: Miami Beach","Comedy",2.5
+"2383","Police Academy 6: City Under Siege","Comedy",3.5
+"2384","Babe: Pig in the City","Children's",3.79310344827586
+"2385","Home Fries","Comedy",2
+"2386","Jerry Springer: Ringmaster","Drama",3.45932203389831
+"2387","Very Bad Things","Comedy",2.29545454545455
+"2388","Steam: The Turkish Bath","Drama",3
+"2389","Psycho","Crime",2.73154362416107
+"2390","Little Voice","Comedy",3.30073800738007
+"2391","Simple Plan, A","Crime",3.37873754152824
+"2392","Jack Frost","Comedy",3.33962264150943
+"2393","Star Trek: Insurrection","Action",3.5
+"2394","Prince of Egypt, The","Animation",3.57142857142857
+"2395","Rushmore","Comedy",4
+"2396","Shakespeare in Love","Comedy",3.95833333333333
+"2397","Mass Appeal","Drama",4.38745387453875
+"2398","Miracle on 34th Street","Drama",3.19727891156463
+"2399","Santa Claus: The Movie","Adventure",3.66666666666667
+"2400","Prancer","Children's",3.0952380952381
+"2401","Pale Rider","Western",3.79032258064516
+"2402","Rambo: First Blood Part II","Action",3.78787878787879
+"2403","First Blood","Action",1
+"2404","Rambo III","Action",2.25
+"2405","Jewel of the Nile, The","Action",3.25
+"Romance","Romance","Romance",NA
+"2406","Romancing the Stone","Action",2
+"Romance","Romance","Romance",NA
+"2407","Cocoon","Comedy",2.7681660899654
+"2408","Cocoon: The Return","Comedy",3.94959677419355
+"2409","Rocky II","Action",3.47916666666667
+"2410","Rocky III","Action",3.10714285714286
+"2411","Rocky IV","Action",2.54658385093168
+"2412","Rocky V","Action",3.51111111111111
+"2413","Clue","Comedy",2
+"2414","Young Sherlock Holmes","Action",2.75
+"2415","Violets Are Blue...","Drama",3
+"2416","Back to School","Comedy",2.76315789473684
+"2417","Heartburn","Comedy",2.33125
+"2418","Nothing in Common","Comedy",2.85555555555556
+"2419","Extremities","Drama",3.52985074626866
+"2420","Karate Kid, The","Drama",3.84394904458599
+"2421","Karate Kid, Part II, The","Action",3.81481481481481
+"2422","Karate Kid III, The","Action",3.50243902439024
+"2423","Christmas Vacation","Comedy",3.75925925925926
+"2424","You've Got Mail","Comedy",2.31428571428571
+"2425","General, The","Crime",3.5
+"2426","Theory of Flight, The","Comedy",4.0824295010846
+"2427","Thin Red Line, The","Action",2.66666666666667
+"2428","Faculty, The","Horror",3
+"2429","Mighty Joe Young","Adventure",3.5
+"2430","Mighty Joe Young","Adventure",4.44444444444444
+"2431","Patch Adams","Comedy",3.74418604651163
+"2432","Stepmom","Drama",3.85964912280702
+"2433","Civil Action, A","Drama",2.80281690140845
+"2434","Down in the Delta","Drama",4.03954802259887
+"2435","Hurlyburly","Drama",3.85650224215247
+"2436","Tea with Mussolini","Comedy",2.375
+"2437","Wilde","Drama",2.6
+"2438","Outside Ozona","Drama",3.1304347826087
+"2439","Affliction","Drama",2.8
+"2440","Another Day in Paradise","Drama",3.9811320754717
+"2441","Hi-Lo Country, The","Drama",3.4
+"2442","Hilary and Jackie","Drama",3.48780487804878
+"2443","Playing by Heart","Drama",3.97202797202797
+"2444","24 7: Twenty Four Seven","Comedy",3.26666666666667
+"2445","At First Sight","Drama",2.66666666666667
+"2446","In Dreams","Thriller",4
+"2447","Varsity Blues","Comedy",2.59520807061791
+"2448","Virus","Horror",2.8758389261745
+"2449","Garbage Pail Kids Movie, The","Adventure",3.76699029126214
+"2450","Howard the Duck","Adventure",3.68161434977578
+"2451","Gate, The","Horror",4.08076923076923
+"2452","Gate II: Trespassers, The","Horror",2.68421052631579
+"2453","Boy Who Could Fly, The","Drama",3.91864406779661
+"2454","Fly, The","Horror",3.83744292237443
+"2455","Fly, The","Horror",3.96993464052288
+"2456","Fly II, The","Horror",4.02626262626263
+"2457","Running Scared","Action",3.92715231788079
+"2458","Armed and Dangerous","Comedy",4.08571428571429
+"2459","Texas Chainsaw Massacre, The","Horror",3.81132075471698
+"2460","Texas Chainsaw Massacre 2, The","Horror",3.37209302325581
+"2461","Leatherface: Texas Chainsaw Massacre III","Horror",3.65079365079365
+"2462","Return of the Texas Chainsaw Massacre, The","Horror",3.84126984126984
+"2463","Ruthless People","Comedy",3.43023255813953
+"2464","Trick or Treat","Horror",3.70833333333333
+"2465","Deadly Friend","Horror",3.55357142857143
+"2466","Belizaire the Cajun","Drama",2.66666666666667
+"2467","Name of the Rose, The","Mystery",2.6
+"2468","Jumpin' Jack Flash","Action",3.33846153846154
+"Thriller","Thriller","Thriller",NA
+"2469","Peggy Sue Got Married","Comedy",1
+"2470","Crocodile Dundee","Adventure",3.5
+"2471","Crocodile Dundee II","Adventure",3.25
+"2472","Tough Guys","Comedy",3.94736842105263
+"2473","Soul Man","Comedy",2.88235294117647
+"2474","Color of Money, The","Drama",3
+"2475","52 Pick-Up","Action",3.5
+"2476","Heartbreak Ridge","Action",5
+"2477","Firewalker","Adventure",3.80072463768116
+"2478","Three Amigos!","Comedy",2.5531914893617
+"2479","Gloria","Drama",3.75529100529101
+"2480","Dry Cleaning","Drama",2.72254335260116
+"2481","My Name Is Joe","Drama",2.71812080536913
+"2482","Still Crazy","Comedy",2.71052631578947
+"2483","Day of the Beast, The","Comedy",3.49925705794948
+"2484","Tinseltown","Comedy",1.66666666666667
+"2485","She's All That","Comedy",2.28125
+"2486","24-hour Woman","Drama",1.93630573248408
+"2487","Blood, Guts, Bullets and Octane","Action",2.13725490196078
+"2488","Peeping Tom","Drama",2.67142857142857
+"2489","Spanish Fly","Drama",2.83636363636364
+"2490","Payback","Action",3.85618279569892
+"2491","Simply Irresistible","Comedy",3.73743016759777
+"2492","20 Dates","Comedy",3.50439882697947
+"2493","Harmonists, The","Drama",3.1264367816092
+"2494","Last Days, The","Documentary",3.89149057681325
+"2495","Fantastic Planet, The","Animation",3.27380952380952
+"2496","Blast from the Past","Comedy",2.51724137931034
+"2497","Message in a Bottle","Romance",2.10619469026549
+"2498","My Favorite Martian","Comedy",3.34782608695652
+"2499","God Said 'Ha!'","Comedy",2.78125
+"2500","Jawbreaker","Comedy",3.45205479452055
+"2501","October Sky","Drama",3.875
+"2502","Office Space","Comedy",3.75238095238095
+"2503","Apple, The","Drama",1.66666666666667
+"2504","200 Cigarettes","Comedy",3.8638783269962
+"2505","8MM","Thriller",3.2723311546841
+"2506","Other Sister, The","Comedy",3.83870967741935
+"2507","Breakfast of Champions","Comedy",4.33333333333333
+"2508","Breaks, The","Drama",3.37142857142857
+"2509","Eight Days a Week","Comedy",3.5
+"2510","Just the Ticket","Comedy",3.26
+"2511","Long Goodbye, The","Crime",3.82608695652174
+"2512","Ballad of Narayama, The","Drama",3.94117647058824
+"2513","Pet Sematary","Horror",3.58904109589041
+"2514","Pet Sematary II","Horror",3.6803105151729
+"2515","Children of the Corn II: The Final Sacrifice","Horror",3.15384615384615
+"2516","Children of the Corn III","Horror",3.67760617760618
+"2517","Christine","Horror",3.71356783919598
+"2518","Night Shift","Comedy",4.05302402651201
+"2519","House on Haunted Hill","Horror",3.4
+"2520","Airport","Drama",2.91891891891892
+"2521","Airport 1975","Drama",3.8809218950064
+"2522","Airport '77","Drama",3.29113924050633
+"2523","Rollercoaster","Drama",3.1953488372093
+"2524","Towering Inferno, The","Action",3.33783783783784
+"2525","Alligator","Action",2.94915254237288
+"2526","Meteor","Sci-Fi",4.33576642335766
+"2527","Westworld","Action",2.42857142857143
+"Western","Western","Western",NA
+"2528","Logan's Run","Action",3.34090909090909
+"2529","Planet of the Apes","Action",2.67058823529412
+"2530","Beneath the Planet of the Apes","Action",2.26388888888889
+"2531","Battle for the Planet of the Apes","Action",2.14583333333333
+"2532","Conquest of the Planet of the Apes","Action",2.26315789473684
+"2533","Escape from the Planet of the Apes","Action",4.41560798548094
+"2534","Avalanche","Action",2.7890625
+"2535","Earthquake","Action",2
+"2536","Concorde: Airport '79, The","Drama",2.67790262172285
+"2537","Beyond the Poseidon Adventure","Adventure",2.12749003984064
+"2538","Dancemaker","Documentary",3.14882506527415
+"2539","Analyze This","Comedy",1.92021276595745
+"2540","Corruptor, The","Action",3.27578947368421
+"Thriller","Thriller","Thriller",NA
+"2541","Cruel Intentions","Drama",2.30769230769231
+"2542","Lock, Stock & Two Smoking Barrels","Comedy",3.8
+"2543","Six Ways to Sunday","Comedy",3.22522522522523
+"2544","School of Flesh, The","Drama",3.19424460431655
+"2545","Relax... It's Just Sex","Comedy",3.41025641025641
+"2546","Deep End of the Ocean, The","Drama",3.72222222222222
+"2547","Harvest","Drama",3.73382624768946
+"2548","Rage: Carrie 2, The","Horror",2.97058823529412
+"2549","Wing Commander","Action",3.80597014925373
+"2550","Haunting, The","Horror",3.41532756489493
+"2551","Dead Ringers","Drama",3.92
+"2552","My Boyfriend's Back","Comedy",3.14199395770393
+"2553","Village of the Damned","Horror",2.48314606741573
+"2554","Children of the Damned","Horror",2.69767441860465
+"2555","Baby Geniuses","Comedy",3.93846153846154
+"2556","Telling You","Comedy",2.99290780141844
+"2557","I Stand Alone","Drama",3
+"2558","Forces of Nature","Comedy",2.7741935483871
+"2559","King and I, The","Animation",3.525
+"2560","Ravenous","Drama",1
+"2561","True Crime","Crime",3.6657223796034
+"2562","Bandits","Drama",4.23606557377049
+"2563","Beauty","Drama",1.8
+"2564","Empty Mirror, The","Drama",2.45
+"2565","King and I, The","Musical",2.77777777777778
+"2566","Doug's 1st Movie","Animation",3.54794520547945
+"2567","EDtv","Comedy",4.02150537634409
+"2568","Mod Squad, The","Action",4.24
+"2569","Among Giants","Drama",4.27985074626866
+"2570","Walk on the Moon, A","Drama",3.17391304347826
+"2571","Matrix, The","Action",4.32608695652174
+"2572","10 Things I Hate About You","Comedy",4.0144727773949
+"2573","Tango","Drama",1.75
+"2574","Out-of-Towners, The","Comedy",3.41666666666667
+"2575","Dreamlife of Angels, The","Drama",3.1875
+"2576","Love, etc.","Drama",3.96268656716418
+"2577","Metroland","Comedy",3.57871064467766
+"2578","Sticky Fingers of Time, The","Sci-Fi",3.04428044280443
+"2579","Following","Drama",3.33082706766917
+"2580","Go","Crime",3.67343173431734
+"2581","Never Been Kissed","Comedy",3.6989010989011
+"2582","Twin Dragons","Action",3.6258064516129
+"2583","Cookie's Fortune","Mystery",3.92862345229425
+"2584","Foolish","Comedy",3
+"2585","Lovers of the Arctic Circle, The","Drama",3.01190476190476
+"2586","Goodbye, Lover","Comedy",2.72847682119205
+"2587","Life","Comedy",1.5
+"2588","Clubland","Drama",3.1
+"2589","Friends & Lovers","Comedy",3.72058823529412
+"2590","Hideous Kinky","Drama",2
+"2591","Jeanne and the Perfect Guy","Comedy",3.01800554016621
+"2592","Joyriders, The","Drama",3.7261567516525
+"2593","Monster, The","Comedy",2.64705882352941
+"2594","Open Your Eyes","Drama",2.93939393939394
+"2595","Photographer","Documentary",3.57142857142857
+"2596","SLC Punk!","Comedy",1
+"2597","Lost & Found","Comedy",3.7375
+"2598","Pushing Tin","Comedy",3.75
+"2599","Election","Comedy",3.22033898305085
+"2600","eXistenZ","Action",3.05208333333333
+"2601","Little Bit of Soul, A","Comedy",4.00677966101695
+"2602","Mighty Peking Man","Adventure",3.82579185520362
+"2603","Nô","Drama",3.31428571428571
+"2604","Let it Come Down: The Life of Paul Bowles","Documentary",3.39223300970874
+"2605","Entrapment","Crime",2.71186440677966
+"2606","Idle Hands","Comedy",3.54646840148699
+"2607","Get Real","Drama",3.51136363636364
+"2608","Heaven","Thriller",3.45454545454545
+"2609","King of Masks, The","Drama",4.0203488372093
+"2610","Three Seasons","Drama",3.87323943661972
+"2611","Winslow Boy, The","Drama",3.36526946107784
+"2612","Mildred Pierce","Drama",4.03341902313625
+"2613","Night of the Comet","Action",4.04383561643836
+"2614","Chopping Mall","Action",2.84782608695652
+"2615","My Science Project","Adventure",3.34241245136187
+"2616","Dick Tracy","Action",3.75883069427527
+"2617","Mummy, The","Action",2.59090909090909
+"Thriller","Thriller","Thriller",NA
+"2618","Castle, The","Comedy",3.68061674008811
+"2619","Mascara","Drama",3.34761904761905
+"2620","This Is My Father","Drama",3.16129032258065
+"2621","Xiu Xiu: The Sent-Down Girl","Drama",3.1875
+"2622","Midsummer Night's Dream, A","Comedy",3.76651982378855
+"2623","Trippin'","Comedy",4.5
+"2624","After Life","Drama",2.87037037037037
+"2625","Black Mask","Action",3.34673366834171
+"2626","Edge of Seventeen","Comedy",3.13445378151261
+"2627","Endurance","Documentary",2.5625
+"2628","Star Wars: Episode I - The Phantom Menace","Action",3.87765957446809
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"2629","Love Letter, The","Comedy",4
+"2630","Besieged","Drama",3.125
+"2631","Frogs for Snakes","Comedy",3.42696629213483
+"2632","Saragossa Manuscript, The","Drama",3.13888888888889
+"2633","Mummy, The","Horror",3.76942046855734
+"2634","Mummy, The","Horror",3.6538164996145
+"2635","Mummy's Curse, The","Horror",3.15576323987539
+"2636","Mummy's Ghost, The","Horror",3.47096774193548
+"2637","Mummy's Hand, The","Horror",3.44550408719346
+"2638","Mummy's Tomb, The","Horror",4
+"2639","Mommie Dearest","Drama",3.03703703703704
+"2640","Superman","Action",3.76190476190476
+"2641","Superman II","Action",3.28571428571429
+"2642","Superman III","Action",3.06534653465347
+"2643","Superman IV: The Quest for Peace","Action",3.21904761904762
+"2644","Dracula","Horror",3.74846625766871
+"2645","Dracula","Horror",3.32352941176471
+"2646","House of Dracula","Horror",3.66477272727273
+"2647","House of Frankenstein","Horror",3.84615384615385
+"2648","Frankenstein","Horror",3.17910447761194
+"2649","Son of Frankenstein","Horror",2.75
+"2650","Ghost of Frankenstein, The","Horror",3
+"2651","Frankenstein Meets the Wolf Man","Horror",3.92252681764005
+"2652","Curse of Frankenstein, The","Horror",2.91752577319588
+"2653","Son of Dracula","Horror",3.90293453724605
+"2654","Wolf Man, The","Horror",3.7219730941704
+"2655","Howling II: Your Sister Is a Werewolf","Horror",3.79220779220779
+"2656","Tarantula","Horror",3.83576642335766
+"2657","Rocky Horror Picture Show, The","Comedy",3.79230769230769
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"2658","Flying Saucer, The","Sci-Fi",2.35205992509363
+"2659","It Came from Hollywood","Comedy",3.43125
+"2660","Thing From Another World, The","Sci-Fi",3.93
+"2661","It Came from Outer Space","Sci-Fi",3.84694932781799
+"2662","War of the Worlds, The","Action",2.76829268292683
+"2663","It Came from Beneath the Sea","Sci-Fi",3.45378151260504
+"2664","Invasion of the Body Snatchers","Horror",3.53964757709251
+"2665","Earth Vs. the Flying Saucers","Sci-Fi",3.63109756097561
+"2666","It Conquered the World","Sci-Fi",2.89655172413793
+"2667","Mole People, The","Sci-Fi",3.66666666666667
+"2668","Swamp Thing","Horror",4.08796718322698
+"2669","Pork Chop Hill","War",3.03846153846154
+"2670","Run Silent, Run Deep","War",1.92307692307692
+"2671","Notting Hill","Comedy",1.8046875
+"2672","Thirteenth Floor, The","Drama",3.26714801444043
+"2673","Eternity and a Day","Drama",3.37171052631579
+"2674","Loss of Sexual Innocence, The","Drama",3.4
+"2675","Twice Upon a Yesterday","Comedy",3.26923076923077
+"2676","Instinct","Drama",3.35135135135135
+"2677","Buena Vista Social Club","Documentary",3.74371451743715
+"2678","Desert Blue","Drama",3.9
+"2679","Finding North","Drama",3.37795275590551
+"2680","Floating","Drama",1.72727272727273
+"2681","Free Enterprise","Comedy",1.46153846153846
+"2682","Limbo","Drama",1.05882352941176
+"2683","Austin Powers: The Spy Who Shagged Me","Comedy",3.33333333333333
+"2684","Taxman","Comedy",3.6830985915493
+"2685","Red Dwarf, The","Comedy",2.65
+"2686","Red Violin, The","Drama",4.10602910602911
+"2687","Tarzan","Animation",2.48529411764706
+"2688","General's Daughter, The","Drama",3.17021276595745
+"2689","Get Bruce","Documentary",3.06896551724138
+"2690","Ideal Husband, An","Comedy",2.78571428571429
+"2691","Legend of 1900, The","Drama",2.76744186046512
+"2692","Run Lola Run","Action",3.84210526315789
+"2693","Trekkies","Documentary",3.39285714285714
+"2694","Big Daddy","Comedy",3
+"2695","Boys, The","Drama",3.33333333333333
+"2696","Dinner Game, The","Comedy",3.21052631578947
+"2697","My Son the Fanatic","Comedy",2.85882352941176
+"2698","Zone 39","Sci-Fi",3.40764331210191
+"2699","Arachnophobia","Action",2.5
+"Thriller","Thriller","Thriller",NA
+"2700","South Park: Bigger, Longer and Uncut","Animation",1.61111111111111
+"2701","Wild Wild West","Action",3.3021978021978
+"2702","Summer of Sam","Drama",3
+"2703","Broken Vessels","Drama",2.53333333333333
+"2704","Lovers on the Bridge, The","Drama",2.72972972972973
+"2705","Late August, Early September","Drama",3.45810055865922
+"2706","American Pie","Comedy",3.63106796116505
+"2707","Arlington Road","Thriller",3.95797413793103
+"2708","Autumn Tale, An","Romance",2.49606299212598
+"2709","Muppets From Space","Children's",2.82644628099174
+"2710","Blair Witch Project, The","Horror",4
+"2711","My Life So Far","Drama",2.97959183673469
+"2712","Eyes Wide Shut","Drama",3.33333333333333
+"2713","Lake Placid","Horror",3.69672131147541
+"2714","Wood, The","Drama",3.09803921568627
+"2715","Velocity of Gary, The","Comedy",3.94082840236686
+"2716","Ghostbusters","Comedy",5
+"2717","Ghostbusters II","Comedy",3.40534262485482
+"2718","Drop Dead Gorgeous","Comedy",4
+"2719","Haunting, The","Horror",3.42164179104478
+"2720","Inspector Gadget","Action",2.52941176470588
+"Comedy","Comedy","Comedy",NA
+"2721","Trick","Romance",3.06666666666667
+"2722","Deep Blue Sea","Action",3.63333333333333
+"2723","Mystery Men","Action",3.75531914893617
+"2724","Runaway Bride","Comedy",3.21955719557196
+"2725","Twin Falls Idaho","Drama",3.21739130434783
+"2726","Killing, The","Crime",2.45652173913043
+"2727","Killer's Kiss","Film-Noir",3.2673031026253
+"2728","Spartacus","Drama",3.37127371273713
+"2729","Lolita","Drama",3.26086956521739
+"2730","Barry Lyndon","Drama",3.36401673640167
+"2731","400 Blows, The","Drama",3
+"2732","Jules and Jim","Drama",1.66666666666667
+"2733","Vibes","Adventure",3.83333333333333
+"2734","Mosquito Coast, The","Drama",3.1957349581112
+"2735","Golden Child, The","Action",3.65486725663717
+"2736","Brighton Beach Memoirs","Comedy",3.8125
+"2737","Assassination","Action",2.46938775510204
+"2738","Crimes of the Heart","Comedy",3.47663551401869
+"2739","Color Purple, The","Drama",3.41584158415842
+"2740","Kindred, The","Horror",4.18909090909091
+"2741","No Mercy","Action",4.25806451612903
+"2742","Ménage","Comedy",2.66666666666667
+"2743","Native Son","Drama",3.6
+"2744","Otello","Drama",3.46175637393768
+"2745","Mission, The","Drama",4.25454545454545
+"2746","Little Shop of Horrors","Comedy",3.60574948665298
+"2747","Little Shop of Horrors, The","Comedy",2.77777777777778
+"2748","Allan Quartermain and the Lost City of Gold","Action",3.95
+"2749","Morning After, The","Drama",3.19171779141104
+"2750","Radio Days","Comedy",3.62906724511931
+"2751","From the Hip","Comedy",3.86083853702052
+"2752","Outrageous Fortune","Comedy",3.41666666666667
+"2753","Bedroom Window, The","Thriller",2.75
+"2754","Deadtime Stories","Horror",3.07692307692308
+"2755","Light of Day","Drama",3.43564356435644
+"2756","Wanted: Dead or Alive","Action",3.35294117647059
+"2757","Frances","Drama",3.61111111111111
+"2758","Plenty","Drama",2.44444444444444
+"2759","Dick","Comedy",4
+"2760","Gambler, The","Drama",2.66666666666667
+"2761","Iron Giant, The","Animation",3.16949152542373
+"2762","Sixth Sense, The","Thriller",3.16901408450704
+"2763","Thomas Crown Affair, The","Action",1
+"2764","Thomas Crown Affair, The","Crime",3
+"2765","Acid House, The","Comedy",3.79194630872483
+"2766","Adventures of Sebastian Cole, The","Comedy",3.96414342629482
+"2767","Illuminata","Comedy",3.78
+"2768","Stiff Upper Lips","Comedy",5
+"2769","Yards, The","Crime",3.66666666666667
+"2770","Bowfinger","Comedy",3.65217391304348
+"2771","Brokedown Palace","Drama",3.21052631578947
+"2772","Detroit Rock City","Comedy",2.8207171314741
+"2773","Alice and Martin","Drama",2.85987261146497
+"2774","Better Than Chocolate","Comedy",2.20731707317073
+"2775","Head On","Drama",2.09782608695652
+"2776","Marcello Mastroianni: I Remember Yes, I Remember","Documentary",1.86206896551724
+"2777","Cobra","Drama",1.68518518518519
+"2778","Never Talk to Strangers","Thriller",1.73076923076923
+"2779","Heaven Can Wait","Comedy",1.66666666666667
+"2780","Raven, The","Comedy",1.91428571428571
+"2781","Tingler, The","Horror",3.91573033707865
+"2782","Pit and the Pendulum","Horror",2.38028169014085
+"2783","Tomb of Ligeia, The","Horror",3.27905004240882
+"2784","Masque of the Red Death, The","Horror",3.66666666666667
+"2785","Tales of Terror","Horror",4.047363717605
+"2786","Haunted Honeymoon","Comedy",2.96794871794872
+"2787","Cat's Eye","Horror",2.32258064516129
+"2788","And Now for Something Completely Different","Comedy",2.59574468085106
+"2789","Damien: Omen II","Horror",3.82656826568266
+"2790","Final Conflict, The","Horror",3.46733668341709
+"2791","Airplane!","Comedy",3.88888888888889
+"2792","Airplane II: The Sequel","Comedy",3.75555555555556
+"2793","American Werewolf in Paris, An","Comedy",4.2741935483871
+"2794","European Vacation","Comedy",3.52369077306733
+"2795","Vacation","Comedy",3.93617021276596
+"2796","Funny Farm","Comedy",3.91692307692308
+"2797","Big","Comedy",3.69047619047619
+"2798","Problem Child","Comedy",4.21815286624204
+"2799","Problem Child 2","Comedy",3.37430167597765
+"2800","Little Nemo: Adventures in Slumberland","Animation",3.59266055045872
+"2801","Oscar and Lucinda","Drama",3.25423728813559
+"2802","Tequila Sunrise","Action",2
+"2803","Pelican Brief, The","Thriller",2.73451327433628
+"2804","Christmas Story, A","Comedy",2.04255319148936
+"2805","Mickey Blue Eyes","Comedy",3.31034482758621
+"2806","Teaching Mrs. Tingle","Comedy",2.04098360655738
+"2807","Universal Soldier: The Return","Action",2.57142857142857
+"2808","Universal Soldier","Action",2.29310344827586
+"2809","Love Stinks","Comedy",2.6978021978022
+"2810","Perfect Blue","Animation",1.85483870967742
+"2811","With Friends Like These...","Comedy",1.81132075471698
+"2812","In Too Deep","Action",2.55384615384615
+"2813","Source, The","Documentary",2.86780715396579
+"2814","Bat, The","Horror",3.1986301369863
+"2815","Iron Eagle","Action",3.46127167630058
+"2816","Iron Eagle II","Action",3.5
+"2817","Aces: Iron Eagle III","Action",2.89805825242718
+"2818","Iron Eagle IV","Action",3.58536585365854
+"2819","Three Days of the Condor","Thriller",3.22420634920635
+"2820","Hamlet","Drama",3.66416510318949
+"2821","Male and Female","Adventure",3.67408123791103
+"2822","Medicine Man","Adventure",3.16620498614958
+"2823","Spiders, The","Action",2.58421052631579
+"2824","On the Ropes","Documentary",3.40401785714286
+"2825","Rosie","Drama",3.08438818565401
+"2826","13th Warrior, The","Action",2.9812734082397
+"2827","Astronaut's Wife, The","Sci-Fi",2.38938053097345
+"2828","Dudley Do-Right","Children's",3.17924528301887
+"2829","Muse, The","Comedy",2.25405405405405
+"2830","Cabaret Balkan","Drama",3.21212121212121
+"2831","Dog of Flanders, A","Drama",3.23013698630137
+"2832","Lost Son, The","Drama",3.74117647058824
+"2833","Lucie Aubrac","Romance",3.13636363636364
+"2834","Very Thought of You, The","Comedy",2.45454545454545
+"2835","Chill Factor","Action",2.37313432835821
+"2836","Outside Providence","Comedy",2.97431506849315
+"2837","Bedrooms & Hallways","Comedy",3.31147540983607
+"2838","I Woke Up Early the Day I Died","Comedy",3.02222222222222
+"2839","West Beirut","Drama",3.15420560747664
+"2840","Stigmata","Thriller",3.66666666666667
+"2841","Stir of Echoes","Thriller",2.58333333333333
+"2842","Best Laid Plans","Crime",2
+"2843","Black Cat, White Cat","Comedy",3.72862453531599
+"2844","Minus Man, The","Drama",3.71794871794872
+"2845","White Boys","Drama",3.07142857142857
+"2846","Adventures of Milo and Otis, The","Children's",3.57142857142857
+"2847","Only Angels Have Wings","Drama",3.70945945945946
+"2848","Othello","Drama",3.95945945945946
+"2849","Queens Logic","Comedy",3.41441441441441
+"2850","Public Access","Drama",3.85658914728682
+"2851","Saturn 3","Adventure",4.24944812362031
+"2852","Soldier's Story, A","Drama",3.3953488372093
+"2853","Communion","Horror",2.98591549295775
+"2854","Don't Look in the Basement!","Horror",3.83737024221453
+"2855","Nightmares","Horror",3.49122807017544
+"2856","I Saw What You Did","Thriller",3.98181818181818
+"2857","Yellow Submarine","Animation",3.79487179487179
+"2858","American Beauty","Comedy",4
+"2859","Stop Making Sense","Documentary",3.45454545454545
+"2860","Blue Streak","Comedy",3.975
+"2861","For Love of the Game","Comedy",2.11475409836066
+"2862","Caligula","Drama",3.41438356164384
+"2863","Hard Day's Night, A","Comedy",4.07883817427386
+"2864","Splendor","Comedy",3.97008547008547
+"2865","Sugar Town","Comedy",2.5974025974026
+"2866","Buddy Holly Story, The","Drama",3.24228028503563
+"2867","Fright Night","Comedy",3.38130841121495
+"2868","Fright Night Part II","Horror",3.85507246376812
+"2869","Separation, The","Drama",3.75
+"2870","Barefoot in the Park","Comedy",3
+"2871","Deliverance","Adventure",3.13636363636364
+"2872","Excalibur","Action",3.29411764705882
+"Romance","Romance","Romance",NA
+"2873","Lulu on the Bridge","Drama",3.87960872836719
+"2874","Pajama Game, The","Comedy",3
+"2875","Sommersby","Drama",3.74516129032258
+"2876","Thumbelina","Animation",2.49514563106796
+"2877","Tommy","Drama",3.35143139190523
+"2878","Hell Night","Horror",3.5
+"2879","Operation Condor","Action",2.82352941176471
+"2880","Operation Condor 2","Action",2.75833333333333
+"2881","Double Jeopardy","Action",3.25714285714286
+"2882","Jakob the Liar","Drama",3.24571428571429
+"2883","Mumford","Comedy",3.48196721311475
+"2884","Dog Park","Comedy",2.96428571428571
+"2885","Guinevere","Drama",1.33333333333333
+"2886","Adventures of Elmo in Grouchland, The","Children's",3.57061340941512
+"2887","Simon Sez","Drama",2.64081632653061
+"2888","Drive Me Crazy","Comedy",2.84782608695652
+"2889","Mystery, Alaska","Comedy",2.53926701570681
+"2890","Three Kings","Drama",2.08653846153846
+"2891","Happy, Texas","Comedy",2.16049382716049
+"2892","New Rose Hotel","Action",3.38421052631579
+"2893","Plunkett & MaCleane","Action",3.56545454545455
+"2894","Romance","Drama",3.47041420118343
+"2895","Napoleon and Samantha","Adventure",3.39735099337748
+"2896","Alvarez Kelly","Western",1.66666666666667
+"2897","And the Ship Sails On","Comedy",2.8187134502924
+"2898","Dark Half, The","Horror",1.96875
+"2899","Gulliver's Travels","Adventure",3.25
+"2900","Monkey Shines","Horror",3.33333333333333
+"2901","Phantasm","Horror",2.18181818181818
+"2902","Psycho II","Horror",2.83333333333333
+"2903","Psycho III","Horror",3
+"2904","Rain","Drama",2.89285714285714
+"2905","Sanjuro","Action",3.09756097560976
+"2906","Random Hearts","Drama",2.58620689655172
+"2907","Superstar","Comedy",2.72727272727273
+"2908","Boys Don't Cry","Drama",4.02978723404255
+"2909","Five Wives, Three Secretaries and Me","Documentary",3.23636363636364
+"2910","Ennui, L'","Drama",3.01141924959217
+"2911","Grandfather, The","Drama",3.25
+"2912","Limey, The","Action",3.85714285714286
+"2913","Mating Habits of the Earthbound Human, The","Comedy",3.80894308943089
+"2914","Molly","Comedy",4.19871794871795
+"2915","Risky Business","Comedy",2.88990825688073
+"2916","Total Recall","Action",3.37254901960784
+"Thriller","Thriller","Thriller",NA
+"2917","Body Heat","Crime",3.06666666666667
+"2918","Ferris Bueller's Day Off","Comedy",3.55555555555556
+"2919","Year of Living Dangerously","Drama",3.82064857710126
+"2920","Children of Paradise","Drama",3.28099173553719
+"2921","High Plains Drifter","Western",3.40909090909091
+"2922","Hang 'em High","Western",3.38461538461538
+"2923","Citizen's Band","Comedy",2.20689655172414
+"2924","Drunken Master","Action",3.33477321814255
+"2925","Conformist, The","Drama",1.62
+"2926","Hairspray","Comedy",2.82142857142857
+"2927","Brief Encounter","Drama",3.63428571428571
+"2928","Razor's Edge, The","Drama",2.33333333333333
+"2929","Reds","Drama",4.23115577889447
+"2930","Return with Honor","Documentary",2.41776315789474
+"2931","Time of the Gypsies","Drama",3.55555555555556
+"2932","Days of Heaven","Drama",2.53488372093023
+"2933","Fire Within, The","Drama",2.79411764705882
+"2934","Love Bewitched, A","Musical",3.25862068965517
+"2935","Lady Eve, The","Comedy",3.27358490566038
+"2936","Sullivan's Travels","Comedy",4.02272727272727
+"2937","Palm Beach Story, The","Comedy",3.39779681762546
+"2938","Man Facing Southeast","Drama",3.260663507109
+"2939","Niagara","Drama",3.13253012048193
+"2940","Gilda","Film-Noir",4.10277777777778
+"2941","South Pacific","Musical",3.55789473684211
+"2942","Flashdance","Drama",3.28915662650602
+"2943","Indochine","Drama",4.02283105022831
+"2944","Dirty Dozen, The","Action",3.76315789473684
+"2945","Mike's Murder","Mystery",3.1875
+"2946","Help!","Comedy",2.42857142857143
+"2947","Goldfinger","Action",4.02448979591837
+"2948","From Russia with Love","Action",2.93382352941176
+"2949","Dr. No","Action",1.81081081081081
+"2950","Blue Lagoon, The","Adventure",2.64112903225806
+"2951","Fistful of Dollars, A","Action",3.75714285714286
+"2952","Hard 8","Crime",3.59090909090909
+"2953","Home Alone 2: Lost in New York","Children's",2.12820512820513
+"2954","Penitentiary","Drama",2.76119402985075
+"2955","Penitentiary II","Drama",2.53827160493827
+"2956","Someone to Watch Over Me","Action",3.38284518828452
+"2957","Sparrows","Drama",2.5
+"2958","Naturally Native","Drama",3.26666666666667
+"2959","Fight Club","Drama",2.88
+"2960","Beefcake","Drama",3.72043010752688
+"2961","Story of Us, The","Comedy",3.28571428571429
+"2962","Fever Pitch","Comedy",2.53571428571429
+"2963","Joe the King","Crime",2.82386363636364
+"2964","Julien Donkey-Boy","Drama",2.70786516853933
+"2965","Omega Code, The","Action",3.90933333333333
+"2966","Straight Story, The","Drama",2.8876404494382
+"2967","Bad Seed, The","Drama",2.61904761904762
+"2968","Time Bandits","Adventure",2.63829787234043
+"2969","Man and a Woman, A","Drama",2.9
+"2970","Fitzcarraldo","Adventure",2.54464285714286
+"2971","All That Jazz","Musical",2.75490196078431
+"2972","Red Sorghum","Drama",3
+"2973","Crimes and Misdemeanors","Comedy",2.63333333333333
+"2974","Bats","Horror",3.59313725490196
+"2975","Best Man, The","Drama",3.39285714285714
+"2976","Bringing Out the Dead","Drama",3.14492753623188
+"2977","Crazy in Alabama","Comedy",2.96
+"2978","Three to Tango","Comedy",3.1
+"2979","Body Shots","Drama",4.04651162790698
+"2980","Men Cry Bullets","Drama",3.4
+"2981","Brother, Can You Spare a Dime?","Documentary",2.92307692307692
+"2982","Guardian, The","Horror",3.95
+"2983","Ipcress File, The","Thriller",3.69711538461538
+"2984","On Any Sunday","Documentary",3.53846153846154
+"2985","Robocop","Action",3.65
+"2986","Robocop 2","Action",3.66666666666667
+"2987","Who Framed Roger Rabbit?","Adventure",2.66666666666667
+"2988","Melvin and Howard","Drama",3.15942028985507
+"2989","For Your Eyes Only","Action",3.8780487804878
+"2990","Licence to Kill","Action",2.6
+"2991","Live and Let Die","Action",3.1875
+"2992","Rawhead Rex","Horror",3.10373443983402
+"2993","Thunderball","Action",3.1
+"2994","City, The","Drama",3.26139817629179
+"2995","House on Haunted Hill, The","Horror",2.69230769230769
+"2996","Music of the Heart","Drama",3.2312925170068
+"2997","Being John Malkovich","Comedy",3.16666666666667
+"2998","Dreaming of Joseph Lees","Romance",3.33333333333333
+"2999","Man of the Century","Comedy",3.68063583815029
+"3000","Princess Mononoke, The","Action",3.08816705336427
+"3001","Suburbans, The","Drama",2.74509803921569
+"3002","My Best Fiend","Documentary",3.85714285714286
+"3003","Train of Life","Comedy",3.83934426229508
+"3004","Bachelor, The","Comedy",3.83333333333333
+"3005","Bone Collector, The","Thriller",3.66785714285714
+"3006","Insider, The","Drama",3
+"3007","American Movie","Documentary",2.8
+"3008","Last Night","Thriller",2
+"3009","Portraits Chinois","Drama",2.02197802197802
+"3010","Rosetta","Drama",2.83333333333333
+"3011","They Shoot Horses, Don't They?","Drama",2.78472222222222
+"3012","Battling Butler","Comedy",3.63917525773196
+"3013","Bride of Re-Animator","Comedy",3.5
+"3014","Bustin' Loose","Comedy",5
+"3015","Coma","Thriller",3.27350427350427
+"3016","Creepshow","Horror",2.73333333333333
+"3017","Creepshow 2","Horror",2.375
+"3018","Re-Animator","Horror",3.11538461538462
+"3019","Drugstore Cowboy","Crime",3
+"3020","Falling Down","Action",3
+"3021","Funhouse, The","Horror",4.5
+"3022","General, The","Comedy",2.41481481481481
+"3023","My Best Girl","Comedy",3.7
+"3024","Piranha","Horror",3
+"3025","Rough Night in Jericho","Western",1.71428571428571
+"3026","Slaughterhouse","Horror",2.7
+"3027","Slaughterhouse 2","Horror",3.50268336314848
+"3028","Taming of the Shrew, The","Comedy",3.19047619047619
+"3029","Nighthawks","Action",2.34042553191489
+"3030","Yojimbo","Comedy",3.31843575418994
+"3031","Repossessed","Comedy",4.22635814889336
+"3032","Omega Man, The","Sci-Fi",2.73333333333333
+"3033","Spaceballs","Comedy",1.66666666666667
+"3034","Robin Hood","Animation",3.62334801762115
+"3035","Mister Roberts","Comedy",3.54237288135593
+"3036","Quest for Fire","Adventure",2.78787878787879
+"3037","Little Big Man","Comedy",2.65094339622642
+"3038","Face in the Crowd, A","Drama",3.125
+"3039","Trading Places","Comedy",3.5
+"3040","Meatballs","Comedy",1
+"3041","Meatballs Part II","Comedy",3.875
+"3042","Meatballs III","Comedy",3.15625
+"3043","Meatballs 4","Comedy",2.18478260869565
+"3044","Dead Again","Mystery",2.68115942028985
+"3045","Peter's Friends","Comedy",3.275
+"3046","Incredibly True Adventure of Two Girls in Love, The","Comedy",3.82
+"3047","Experience Preferred... But Not Essential","Drama",4.07305936073059
+"3048","Under the Rainbow","Comedy",2.3
+"3049","How I Won the War","Comedy",2.90625
+"3050","Light It Up","Drama",3.32857142857143
+"3051","Anywhere But Here","Drama",3.51181102362205
+"3052","Dogma","Comedy",3.92448512585812
+"3053","Messenger: The Story of Joan of Arc, The","Drama",3.11111111111111
+"3054","Pokémon: The First Movie","Animation",2.80239520958084
+"3055","Felicia's Journey","Thriller",2.22988505747126
+"3056","Oxygen","Thriller",2.8
+"3057","Where's Marlowe?","Comedy",3.71212121212121
+"3058","Ape, The","Horror",2.63829787234043
+"3059","British Intelligence","Drama",2.58974358974359
+"3060","Commitments, The","Comedy",2.57692307692308
+"3061","Holiday Inn","Comedy",2.92307692307692
+"3062","Longest Day, The","Action",3.85483870967742
+"3063","Poison Ivy","Thriller",3.36111111111111
+"3064","Poison Ivy: New Seduction","Thriller",3.58045977011494
+"3065","Ten Benny","Drama",3.44174757281553
+"3066","Tora! Tora! Tora!","War",3.99319727891156
+"3067","Women on the Verge of a Nervous Breakdown","Comedy",1.85714285714286
+"3068","Verdict, The","Drama",3.25560538116592
+"3069","Effect of Gamma Rays on Man-in-the-Moon Marigolds, The","Drama",2.03703703703704
+"3070","Adventures of Buckaroo Bonzai Across the 8th Dimension, The","Adventure",3.75
+"3071","Stand and Deliver","Drama",2.25
+"3072","Moonstruck","Comedy",3.03571428571429
+"3073","Sandpiper, The","Drama",3
+"3074","Jeremiah Johnson","Western",3.72321428571429
+"3075","Repulsion","Thriller",2.94074074074074
+"3076","Irma la Douce","Comedy",1.92592592592593
+"3077","42 Up","Documentary",1.96153846153846
+"3078","Liberty Heights","Drama",3.66666666666667
+"3079","Mansfield Park","Drama",1.73333333333333
+"3080","Goodbye, 20th Century","Drama",2.04545454545455
+"3081","Sleepy Hollow","Horror",1.78571428571429
+"3082","World Is Not Enough, The","Action",3.05208333333333
+"3083","All About My Mother","Comedy",2.11111111111111
+"3084","Home Page","Documentary",1.48837209302326
+"3085","Living Dead Girl, The","Horror",2.26
+"3086","March of the Wooden Soldiers","Comedy",3.47272727272727
+"3087","Scrooged","Comedy",3.63573085846868
+"3088","Harvey","Comedy",4.11513157894737
+"3089","Bicycle Thief, The","Drama",3.66666666666667
+"3090","Matewan","Drama",3.9
+"3091","Kagemusha","Drama",3.78092783505155
+"3092","Chushingura","Drama",4
+"3093","McCabe & Mrs. Miller","Drama",2.41666666666667
+"3094","Maurice","Drama",4
+"3095","Grapes of Wrath, The","Drama",2.72941176470588
+"3096","My Man Godfrey","Comedy",3.93333333333333
+"3097","Shop Around the Corner, The","Comedy",3
+"3098","Natural, The","Drama",3
+"3099","Shampoo","Comedy",3.75
+"3100","River Runs Through It, A","Drama",2.12315270935961
+"3101","Fatal Attraction","Thriller",3.625
+"3102","Jagged Edge","Thriller",2.9119170984456
+"3103","Stanley & Iris","Drama",3.31944444444444
+"3104","Midnight Run","Action",3.02040816326531
+"Crime","Crime","Crime",NA
+"3105","Awakenings","Drama",3.95867768595041
+"3106","Come See the Paradise","Drama",2.90712742980562
+"3107","Backdraft","Action",2.61538461538462
+"3108","Fisher King, The","Comedy",3.5593220338983
+"3109","River, The","Drama",2.53061224489796
+"3110","Country","Drama",2.65555555555556
+"3111","Places in the Heart","Drama",2.4804469273743
+"3112","'Night Mother","Drama",2.42696629213483
+"3113","End of Days","Action",3.48557692307692
+"3114","Toy Story 2","Animation",2.51724137931034
+"3115","Flawless","Drama",2.19230769230769
+"3116","Miss Julie","Drama",2.86877828054299
+"3117","Ride with the Devil","Drama",2.50568181818182
+"3118","Tumbleweeds","Drama",3.36170212765957
+"3119","Bay of Blood","Horror",3.12280701754386
+"3120","Distinguished Gentleman, The","Comedy",3.10859728506787
+"3121","Hitch-Hiker, The","Film-Noir",2.6
+"3122","Santa Fe Trail","Drama",3.60952380952381
+"3123","Spring Fever USA","Comedy",3.0817843866171
+"3124","Agnes Browne","Comedy",2.36746987951807
+"3125","End of the Affair, The","Drama",3.93155893536122
+"3126","End of the Affair, The","Drama",2.37967914438503
+"3127","Holy Smoke","Drama",3.44578313253012
+"3128","Map of the World, A","Drama",2.41666666666667
+"3129","Sweet and Lowdown","Comedy",3.69105691056911
+"3130","Bonfire of the Vanities","Comedy",2.57908163265306
+"3131","Broadway Damage","Comedy",2.79166666666667
+"3132","Daddy Long Legs","Comedy",3.08454810495627
+"3133","Go West","Comedy",2.60600375234522
+"3134","Grand Illusion","Drama",2.65248226950355
+"3135","Great Santini, The","Drama",2.046875
+"3136","James Dean Story, The","Documentary",2.625
+"3137","Sea Wolves, The","Action",4.5
+"3138","Stealing Home","Drama",2.78778135048232
+"3139","Tarzan the Fearless","Action",3.81118143459916
+"3140","Three Ages, The","Comedy",3.69362363919129
+"3141","Two Jakes, The","Drama",2.9921875
+"3142","U2: Rattle and Hum","Documentary",3.38709677419355
+"3143","Hell in the Pacific","Drama",2.2962962962963
+"3144","Glass Bottom Boat, The","Comedy",2.61
+"3145","Cradle Will Rock, The","Drama",4.08267716535433
+"3146","Deuce Bigalow: Male Gigolo","Comedy",2.48387096774194
+"3147","Green Mile, The","Drama",3.60087719298246
+"3148","Cider House Rules, The","Drama",3.66197183098592
+"3149","Diamonds","Mystery",3.42463235294118
+"3150","War Zone, The","Drama",3.28070175438596
+"3151","Bat Whispers, The","Crime",3.15094339622642
+"3152","Last Picture Show, The","Drama",3.28947368421053
+"3153","7th Voyage of Sinbad, The","Action",3.22388059701493
+"3154","Blood on the Sun","Drama",3.54733009708738
+"3155","Anna and the King","Drama",2.58947368421053
+"3156","Bicentennial Man","Comedy",4
+"3157","Stuart Little","Children's",4.10325814536341
+"3158","Emperor and the Assassin, The","Drama",3.27586206896552
+"3159","Fantasia 2000","Animation",2.83216783216783
+"3160","Magnolia","Drama",3.10843373493976
+"3161","Onegin","Drama",2.26315789473684
+"3162","Simpatico","Comedy",3.27906976744186
+"3163","Topsy-Turvy","Drama",2.64285714285714
+"3164","Alley Cats, The","Drama",2.74468085106383
+"3165","Boiling Point","Action",2.78240740740741
+"3166","Brenda Starr","Adventure",3.31428571428571
+"3167","Carnal Knowledge","Drama",2.79581151832461
+"3168","Easy Rider","Adventure",3.2037037037037
+"3169","Falcon and the Snowman, The","Drama",3.27142857142857
+"3170","Hi-Yo Silver","Western",2.95652173913043
+"3171","Room at the Top","Drama",4.10642040457344
+"3172","Ulysses","Adventure",1.73684210526316
+"3173","Any Given Sunday","Drama",3.63105175292154
+"3174","Man on the Moon","Comedy",2.70454545454545
+"3175","Galaxy Quest","Adventure",2.22516556291391
+"3176","Talented Mr. Ripley, The","Drama",3.82510288065844
+"3177","Next Friday","Comedy",3.90064102564103
+"3178","Hurricane, The","Drama",2.68571428571429
+"3179","Angela's Ashes","Drama",3.46666666666667
+"3180","Play it to the Bone","Comedy",2.45833333333333
+"3181","Titus","Drama",2.79699248120301
+"3182","Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.","Documentary",2.97643979057592
+"3183","Third Miracle, The","Drama",3.76384730538922
+"3184","Montana","Action",3.38095238095238
+"Drama","Drama","Drama",NA
+"3185","Snow Falling on Cedars","Drama",3.52840909090909
+"3186","Girl, Interrupted","Drama",3.74324324324324
+"3187","Trans","Drama",2.6551724137931
+"3188","Life and Times of Hank Greenberg, The","Documentary",2.508
+"3189","My Dog Skip","Comedy",2.8125
+"3190","Supernova","Adventure",2.61290322580645
+"3191","Quarry, The","Drama",3.38461538461538
+"3192","Terrorist, The","Drama",2.47422680412371
+"3193","Creature","Documentary",3.74074074074074
+"3194","Way We Were, The","Drama",3.32432432432432
+"3195","Tess of the Storm Country","Drama",3.31603773584906
+"3196","Stalag 17","Drama",3.71940298507463
+"3197","Presidio, The","Action",3.60738255033557
+"3198","Papillon","Drama",3.34615384615385
+"3199","Pal Joey","Comedy",3.38095238095238
+"3200","Last Detail, The","Comedy",3.21621621621622
+"3201","Five Easy Pieces","Drama",4
+"3202","Even Dwarfs Started Small","Drama",2.74468085106383
+"3203","Dead Calm","Thriller",2.75510204081633
+"3204","Boys from Brazil, The","Thriller",3.00675675675676
+"3205","Black Sunday","Horror",4.5171060011217
+"3206","Against All Odds","Romance",3.4200477326969
+"3207","Snows of Kilimanjaro, The","Adventure",3.6063829787234
+"3208","Loaded Weapon 1","Action",1.93548387096774
+"3209","Loves of Carmen, The","Drama",3.69230769230769
+"3210","Fast Times at Ridgemont High","Comedy",2.95505617977528
+"3211","Cry in the Dark, A","Drama",2.49275362318841
+"3212","Born to Win","Drama",3.49122807017544
+"3213","Batman: Mask of the Phantasm","Animation",3.52272727272727
+"3214","American Flyers","Drama",3.89483065953654
+"3215","Voyage of the Damned","Drama",3.67434210526316
+"3216","Vampyros Lesbos","Horror",2.4047619047619
+"3217","Star Is Born, A","Drama",3.10526315789474
+"3218","Poison","Drama",2.87150837988827
+"3219","Pacific Heights","Thriller",3.11940298507463
+"3220","Night Tide","Drama",3.53179190751445
+"3221","Draughtsman's Contract, The","Drama",3.91777777777778
+"3222","Carmen","Drama",2.87096774193548
+"3223","Zed & Two Noughts, A","Drama",3.17539267015707
+"3224","Woman in the Dunes","Drama",2.45637583892617
+"3225","Down to You","Comedy",1.94059405940594
+"3226","Hellhounds on My Trail","Documentary",3.64037122969838
+"3227","Not Love, Just Frenzy","Comedy",2.93048128342246
+"3228","Wirey Spindell","Comedy",3.36752136752137
+"3229","Another Man's Poison","Crime",3.56626506024096
+"3230","Odessa File, The","Thriller",3.65811965811966
+"3231","Saphead, The","Comedy",3.61554621848739
+"3232","Seven Chances","Comedy",3.19047619047619
+"3233","Smashing Time","Comedy",2.5
+"3234","Train Ride to Hollywood","Comedy",4.51041666666667
+"3235","Where the Buffalo Roam","Comedy",2.51470588235294
+"3236","Zachariah","Western",3.97777777777778
+"3237","Kestrel's Eye","Documentary",4.75
+"3238","Eye of the Beholder","Thriller",3.5
+"3239","Isn't She Great?","Comedy",3.76923076923077
+"3240","Big Tease, The","Comedy",3.04884318766067
+"3241","Cup, The","Comedy",2.73399014778325
+"3242","Santitos","Comedy",3.83566433566434
+"3243","Encino Man","Comedy",3.81727574750831
+"3244","Goodbye Girl, The","Comedy",3.16363636363636
+"3245","I Am Cuba","Drama",3.07729468599034
+"3246","Malcolm X","Drama",3.82222222222222
+"3247","Sister Act","Comedy",3.7606490872211
+"3248","Sister Act 2: Back in the Habit","Comedy",2.5609756097561
+"3249","Hand That Rocks the Cradle, The","Thriller",2.2189349112426
+"3250","Alive","Drama",4.27333333333333
+"3251","Agnes of God","Drama",2.6747572815534
+"3252","Scent of a Woman","Drama",3.3841642228739
+"3253","Wayne's World","Comedy",2.64341085271318
+"3254","Wayne's World 2","Comedy",2
+"3255","League of Their Own, A","Comedy",1.87428571428571
+"3256","Patriot Games","Action",2.87903225806452
+"3257","Bodyguard, The","Action",2.54744525547445
+"Thriller","Thriller","Thriller",NA
+"3258","Death Becomes Her","Comedy",3.82165605095541
+"3259","Far and Away","Drama",3.06666666666667
+"3260","Howards End","Drama",3.01685393258427
+"3261","Singles","Comedy",3.71787148594378
+"3262","Twin Peaks: Fire Walk with Me","Drama",3.24007561436673
+"3263","White Men Can't Jump","Comedy",3.87341772151899
+"3264","Buffy the Vampire Slayer","Comedy",2.61538461538462
+"3265","Hard-Boiled","Action",3.92857142857143
+"3266","Man Bites Dog","Action",4.22727272727273
+"Drama","Drama","Drama",NA
+"3267","Mariachi, El","Action",4.5
+"3268","Stop! Or My Mom Will Shoot","Action",2.7037037037037
+"3269","Forever Young","Adventure",3
+"3270","Cutting Edge, The","Drama",2
+"3271","Of Mice and Men","Drama",3.625
+"3272","Bad Lieutenant","Crime",3.61538461538462
+"3273","Scream 3","Horror",3.79916317991632
+"3274","Single White Female","Action",3.23529411764706
+"3275","Boondock Saints, The","Action",2.26666666666667
+"3276","Gun Shy","Comedy",3.13114754098361
+"3277","Beloved/Friend","Drama",2.92307692307692
+"3278","Gendernauts","Documentary",3.57142857142857
+"3279","Knockout","Action",3.85714285714286
+"3280","Baby, The","Horror",2.93
+"3281","Brandon Teena Story, The","Documentary",3.4040404040404
+"3282","Different for Girls","Comedy",3.21739130434783
+"3283","Minnie and Moskowitz","Action",3.58823529411765
+"3284","They Might Be Giants","Comedy",3
+"3285","Beach, The","Adventure",3.52380952380952
+"3286","Snow Day","Comedy",3.44571428571429
+"3287","Tigger Movie, The","Animation",2.82242990654206
+"3288","Cotton Mary","Drama",3
+"3289","Not One Less","Drama",2.96363636363636
+"3290","Soft Toilet Seats","Comedy",4.5
+"3291","Trois","Thriller",2
+"3292","Big Combo, The","Film-Noir",4.0938123752495
+"3293","Conceiving Ada","Drama",3.24193548387097
+"3294","Eaten Alive","Horror",4.04964539007092
+"3295","Raining Stones","Drama",3
+"3296","To Sir with Love","Drama",3.67857142857143
+"3297","With Byrd at the South Pole","Documentary",4
+"3298","Boiler Room","Drama",2.9066985645933
+"3299","Hanging Up","Comedy",3.13481481481481
+"3300","Pitch Black","Action",3.49644128113879
+"3301","Whole Nine Yards, The","Comedy",3.78830495928942
+"3302","Beautiful People","Comedy",4.05851264628162
+"3303","Black Tar Heroin: The Dark End of the Street","Documentary",2.75
+"3304","Blue Collar","Crime",3.91523087525844
+"3305","Bluebeard","Film-Noir",2
+"3306","Circus, The","Comedy",3.60097833682739
+"3307","City Lights","Comedy",4.35182311869666
+"3308","Flamingo Kid, The","Comedy",3.84534731323722
+"3309","Dog's Life, A","Comedy",3.88584905660377
+"3310","Kid, The","Action",3.75100401606426
+"3311","Man from Laramie, The","Western",3.6414913957935
+"3312","McCullochs, The","Drama",4.25
+"3313","Class Reunion","Comedy",4.08712121212121
+"3314","Big Trees, The","Action",3.87872340425532
+"3315","Happy Go Lovely","Musical",3.21288515406162
+"3316","Reindeer Games","Action",3
+"3317","Wonder Boys","Comedy",3
+"3318","Deterrence","Thriller",4.1219512195122
+"3319","Judy Berlin","Drama",3
+"3320","Mifune","Comedy",3.3141592920354
+"3321","Waiting Game, The","Comedy",2.2258064516129
+"3322","3 Strikes","Comedy",2
+"3323","Chain of Fools","Comedy",4.25467568643056
+"3324","Drowning Mona","Comedy",2.77611940298507
+"3325","Next Best Thing, The","Comedy",3
+"3326","What Planet Are You From?","Comedy",3.54692556634304
+"3327","Beyond the Mat","Documentary",2.47222222222222
+"3328","Ghost Dog: The Way of the Samurai","Crime",2.40506329113924
+"3329","Year My Voice Broke, The","Drama",3.63414634146341
+"3330","Splendor in the Grass","Drama",2.66666666666667
+"3331","My Tutor","Drama",4.04477611940298
+"3332","Legend of Lobo, The","Adventure",3.35251798561151
+"3333","Killing of Sister George, The","Drama",3.64705882352941
+"3334","Key Largo","Crime",2.11111111111111
+"Thriller","Thriller","Thriller",NA
+"3335","Jail Bait","Crime",2.59375
+"3336","It Happened Here","Drama",3.69685767097967
+"3337","I'll Never Forget What's 'is Name","Comedy",3.71428571428571
+"3338","For All Mankind","Documentary",3
+"3339","Cross of Iron","War",4
+"3340","Bride of the Monster","Horror",2.26315789473684
+"3341","Born Yesterday","Comedy",3.60330578512397
+"3342","Birdy","Drama",3.89690721649485
+"3343","And God Created Woman","Comedy",2.85585585585586
+"3344","Blood Feast","Horror",2.85714285714286
+"3345","Charlie, the Lonesome Cougar","Adventure",2.08
+"3346","Color Me Blood Red","Horror",4
+"3347","Never Cry Wolf","Drama",3.6
+"3348","Night Visitor, The","Crime",1.66666666666667
+"3349","Perils of Pauline, The","Comedy",3.62337662337662
+"3350","Raisin in the Sun, A","Drama",2.54285714285714
+"3351","Two Thousand Maniacs!","Horror",3.21052631578947
+"3352","Brown's Requiem","Drama",2.61538461538462
+"3353","Closer You Get, The","Comedy",2.26582278481013
+"3354","Mission to Mars","Sci-Fi",2.67605633802817
+"3355","Ninth Gate, The","Thriller",1
+"3356","Condo Painting","Documentary",2
+"3357","East-West","Drama",2
+"3358","Defending Your Life","Comedy",2
+"3359","Breaking Away","Drama",3.6
+"3360","Hoosiers","Drama",3.55328798185941
+"3361","Bull Durham","Comedy",3.43287491814014
+"3362","Dog Day Afternoon","Comedy",4.1875
+"3363","American Graffiti","Comedy",2.06293706293706
+"3364","Asphalt Jungle, The","Crime",3.47191011235955
+"3365","Searchers, The","Western",2
+"3366","Where Eagles Dare","Action",2.88888888888889
+"3367","Devil's Brigade, The","War",3.22549019607843
+"3368","Big Country, The","Romance",1
+"3369","Any Number Can Win","Crime",2.56410256410256
+"3370","Betrayed","Drama",3
+"3371","Bound for Glory","Drama",3
+"3372","Bridge at Remagen, The","Action",3.72
+"3373","Buck and the Preacher","Western",1.67010309278351
+"3374","Daughters of the Dust","Drama",1.5
+"3375","Destination Moon","Sci-Fi",3.4647619047619
+"3376","Fantastic Night, The","Romance",2.984375
+"3377","Hangmen Also Die","Drama",3.41666666666667
+"3378","Ogre, The","Drama",3
+"3379","On the Beach","Drama",3.65714285714286
+"3380","Railroaded!","Film-Noir",3.33333333333333
+"3381","Slaves to the Underground","Comedy",2.04255319148936
+"3382","Song of Freedom","Drama",4.40425531914894
+"3383","Big Fella","Drama",4.17391304347826
+"3384","Taking of Pelham One Two Three, The","Action",3.25
+"3385","Volunteers","Comedy",4.41071428571429
+"3386","JFK","Drama",3.67982456140351
+"3387","Who's Harry Crumb?","Comedy",2
+"3388","Harry and the Hendersons","Comedy",2.61989342806394
+"3389","Let's Get Harry","Action",3.01554404145078
+"3390","Shanghai Surprise","Adventure",4.24509803921569
+"3391","Who's That Girl?","Comedy",3.5
+"3392","She-Devil","Comedy",3.45
+"3393","Date with an Angel","Comedy",3.359375
+"3394","Blind Date","Comedy",3.93333333333333
+"3395","Nadine","Comedy",3.5
+"3396","Muppet Movie, The","Children's",1
+"3397","Great Muppet Caper, The","Children's",3.3
+"3398","Muppets Take Manhattan, The","Children's",3
+"3399","Sesame Street Presents Follow That Bird","Children's",2.27699530516432
+"3400","We're Back! A Dinosaur's Story","Animation",3.6551724137931
+"3401","Baby... Secret of the Lost Legend","Adventure",2
+"3402","Turtle Diary","Drama",3.09917355371901
+"3403","Raise the Titanic","Drama",2.11320754716981
+"3404","Titanic","Action",2.64539007092199
+"3405","Night to Remember, A","Action",3.17777777777778
+"3406","Captain Horatio Hornblower","Action",3.25
+"3407","Carriers Are Waiting, The","Comedy",2.55294117647059
+"3408","Erin Brockovich","Drama",2.2
+"3409","Final Destination","Drama",3.41048034934498
+"3410","Soft Fruit","Comedy",3.15645514223195
+"3411","Babymother","Drama",3.32413793103448
+"3412","Bear, The","Adventure",4
+"3413","Impact","Crime",3.66666666666667
+"3414","Love Is a Many-Splendored Thing","Romance",1.6
+"3415","Mirror, The","Drama",2.30952380952381
+"3416","Trial, The","Drama",3.83333333333333
+"3417","Crimson Pirate, The","Adventure",2.5
+"3418","Thelma & Louise","Action",3.08727272727273
+"3419","Something for Everyone","Comedy",3.43446244477172
+"3420","...And Justice for All","Drama",3.04166666666667
+"3421","Animal House","Comedy",2.10416666666667
+"3422","She's Gotta Have It","Comedy",2.33333333333333
+"3423","School Daze","Drama",2.5
+"3424","Do the Right Thing","Comedy",3.5
+"3425","Mo' Better Blues","Drama",3.88888888888889
+"3426","Jungle Fever","Drama",3.61538461538462
+"3427","Coogan's Bluff","Crime",2.67857142857143
+"3428","Champ, The","Drama",4
+"3429","Creature Comforts","Animation",3.48484848484848
+"3430","Death Wish","Action",2.86192468619247
+"3431","Death Wish II","Action",3.63440860215054
+"3432","Death Wish 3","Action",4.42694063926941
+"3433","Death Wish 4: The Crackdown","Action",3.81481481481481
+"3434","Death Wish V: The Face of Death","Action",3.08653846153846
+"3435","Double Indemnity","Crime",2.79120879120879
+"3436","Dying Young","Drama",3
+"3437","Cool as Ice","Drama",3.76497695852535
+"3438","Teenage Mutant Ninja Turtles","Action",3.66666666666667
+"3439","Teenage Mutant Ninja Turtles II: The Secret of the Ooze","Action",3.81696428571429
+"3440","Teenage Mutant Ninja Turtles III","Action",1
+"3441","Red Dawn","Action",2.85106382978723
+"3442","Band of the Hand","Action",2.83333333333333
+"3443","Born American","Action",3.72313432835821
+"3444","Bloodsport","Action",3
+"3445","Eyes of Laura Mars","Mystery",3.35643564356436
+"3446","Funny Bones","Comedy",3.17387387387387
+"3447","Good Earth, The","Drama",2.03
+"3448","Good Morning, Vietnam","Comedy",2.975
+"3449","Good Mother, The","Drama",4.08917197452229
+"3450","Grumpy Old Men","Comedy",2.52873563218391
+"3451","Guess Who's Coming to Dinner","Comedy",2.57009345794393
+"3452","Romeo Must Die","Action",2
+"3453","Here on Earth","Drama",4.52054794520548
+"3454","Whatever It Takes","Comedy",4
+"3455","Buddy Boy","Drama",2
+"3456","Color of Paradise, The","Drama",3.15107913669065
+"3457","Waking the Dead","Drama",2.75
+"3458","Blood and Sand","Drama",1.91666666666667
+"3459","Gothic","Drama",4.44989027066569
+"3460","Hillbillys in a Haunted House","Comedy",3.53333333333333
+"3461","Lord of the Flies","Adventure",3.15625
+"3462","Modern Times","Comedy",2.92307692307692
+"3463","Last Resort","Comedy",3.77777777777778
+"3464","Solar Crisis","Sci-Fi",3
+"3465","That's Life!","Drama",3.75
+"3466","Heart and Souls","Comedy",4
+"3467","Hud","Drama",4.10169491525424
+"3468","Hustler, The","Drama",2.85393258426966
+"3469","Inherit the Wind","Drama",3.51515151515152
+"3470","Dersu Uzala","Adventure",2.78861788617886
+"3471","Close Encounters of the Third Kind","Drama",2.18456375838926
+"3472","Horror Hotel","Horror",3
+"3473","Jonah Who Will Be 25 in the Year 2000","Comedy",3.27027027027027
+"3474","Retroactive","Sci-Fi",2.63157894736842
+"3475","Place in the Sun, A","Drama",3.57
+"3476","Jacob's Ladder","Horror",3.20833333333333
+"3477","Empire Records","Comedy",3.25
+"3478","Bamba, La","Drama",3.76470588235294
+"3479","Ladyhawke","Adventure",3.77777777777778
+"3480","Lucas","Drama",4
+"3481","High Fidelity","Comedy",3.22222222222222
+"3482","Price of Glory","Drama",3
+"3483","Road to El Dorado, The","Animation",3.96005326231691
+"3484","Skulls, The","Thriller",2.69230769230769
+"3485","Autopsy","Horror",3.26
+"3486","Devil Girl From Mars","Sci-Fi",3.51040462427746
+"3487","Dorado, El","Western",3.37864077669903
+"3488","Hideous Sun Demon, The","Horror",2.55172413793103
+"3489","Hook","Adventure",3.22307692307692
+"3490","Horror Express","Horror",2.72987012987013
+"3491","My Chauffeur","Comedy",3.47843137254902
+"3492","Son of the Sheik, The","Adventure",3.12391304347826
+"3493","Torso","Horror",5
+"3494","True Grit","Adventure",2.9957805907173
+"3495","Roadside Prophets","Comedy",3
+"3496","Madame Sousatzka","Drama",2.60526315789474
+"3497","Max Dugan Returns","Comedy",3
+"3498","Midnight Express","Drama",3.5
+"3499","Misery","Horror",4
+"3500","Mr. Saturday Night","Comedy",2.6
+"3501","Murphy's Romance","Comedy",3.33333333333333
+"3502","My Life","Drama",2.70588235294118
+"3503","Solaris","Drama",3.3491124260355
+"3504","Network","Comedy",3.01470588235294
+"3505","No Way Out","Thriller",3.82692307692308
+"3506","North Dallas Forty","Comedy",4.08253968253968
+"3507","Odd Couple, The","Comedy",3.09917355371901
+"3508","Outlaw Josey Wales, The","Western",3.49648711943794
+"3509","Black and White","Drama",3.68421052631579
+"3510","Frequency","Drama",2.97854077253219
+"3511","Ready to Rumble","Comedy",3.59011627906977
+"3512","Return to Me","Drama",3.16666666666667
+"3513","Rules of Engagement","Drama",3
+"3514","Joe Gould's Secret","Drama",3.3953488372093
+"3515","Me Myself I","Comedy",2.57142857142857
+"3516","Bell, Book and Candle","Comedy",3.16265060240964
+"3517","Bells, The","Crime",1.46666666666667
+"3518","End of Violence, The","Drama",3.88888888888889
+"3519","Force 10 from Navarone","Action",2.51063829787234
+"3520","How to Stuff a Wild Bikini","Comedy",3
+"3521","Mystery Train","Comedy",2
+"3522","Sacco and Vanzetti","Drama",2.56084656084656
+"3523","Taffin","Action",3.87640449438202
+"3524","Arthur","Comedy",3.25
+"3525","Bachelor Party","Comedy",2
+"3526","Parenthood","Comedy",3.25
+"3527","Predator","Action",3.92857142857143
+"3528","Prince of Tides, The","Drama",1
+"3529","Postman Always Rings Twice, The","Crime",3
+"3530","Smoking/No Smoking","Comedy",2.90740740740741
+"3531","All the Vermeers in New York","Comedy",2.29007633587786
+"3532","Freedom for Us","Comedy",3.6969696969697
+"3533","Actor's Revenge, An","Drama",2.95254237288136
+"3534","28 Days","Comedy",3.85
+"3535","American Psycho","Comedy",3.47872340425532
+"3536","Keeping the Faith","Comedy",2.17948717948718
+"3537","Where the Money Is","Comedy",2
+"3538","East is East","Comedy",3.12621359223301
+"3539","Filth and the Fury, The","Documentary",2.65400843881857
+"3540","Passion of Mind","Romance",3.47706422018349
+"3541","Third World Cop","Action",3.88023952095808
+"3542","Coming Apart","Drama",2.21481481481481
+"3543","Diner","Comedy",3.0952380952381
+"3544","Shakes the Clown","Comedy",2.56
+"3545","Cabaret","Musical",3.4
+"3546","What Ever Happened to Baby Jane?","Drama",2.58940397350993
+"3547","Prick Up Your Ears","Drama",1
+"3548","Auntie Mame","Comedy",3.57142857142857
+"3549","Guys and Dolls","Musical",3.73684210526316
+"3550","Hunger, The","Horror",1.85714285714286
+"3551","Marathon Man","Thriller",3.43589743589744
+"3552","Caddyshack","Comedy",2.51076320939335
+"3553","Gossip","Drama",3.4020618556701
+"3554","Love and Basketball","Drama",3.66666666666667
+"3555","U-571","Action",3.49606299212598
+"3556","Virgin Suicides, The","Comedy",3.22113821138211
+"3557","Jennifer 8","Thriller",4
+"3558","Law, The","Drama",3.625
+"3559","Limelight","Drama",4.52496626180837
+"3560","Phantom Love","Drama",2
+"3561","Stacy's Knights","Drama",3.39406779661017
+"3562","Committed","Comedy",3.6
+"3563","Crow: Salvation, The","Action",3.51282051282051
+"3564","Flintstones in Viva Rock Vegas, The","Children's",3.64516129032258
+"3565","Where the Heart Is","Comedy",3.5
+"3566","Big Kahuna, The","Comedy",3.58333333333333
+"3567","Bossa Nova","Comedy",2
+"3568","Smiling Fish and Goat on Fire","Drama",3.82342657342657
+"3569","Idiots, The","Comedy",2.20833333333333
+"3570","Last September, The","Drama",3
+"3571","Time Code","Drama",3.0952380952381
+"3572","Carnosaur","Horror",2.21052631578947
+"3573","Carnosaur 2","Horror",2.18367346938776
+"3574","Carnosaur 3: Primal Species","Horror",3
+"3575","Defying Gravity","Drama",3.125
+"3576","Hidden, The","Action",3.38636363636364
+"3577","Two Moon Juction","Drama",2.85714285714286
+"3578","Gladiator","Action",3.29166666666667
+"3579","I Dreamed of Africa","Drama",4
+"3580","Up at the Villa","Drama",2.82700421940928
+"3581","Human Traffic","Drama",2.94270833333333
+"3582","Jails, Hospitals & Hip-Hop","Drama",2.20061728395062
+"3583","Black Tights","Drama",2.62337662337662
+"3584","Breathless","Action",2.71186440677966
+"Thriller","Thriller","Thriller",NA
+"3585","Great Locomotive Chase, The","Adventure",3
+"3586","Idolmaker, The","Drama",2.58139534883721
+"3587","Inferno","Horror",2.94230769230769
+"3588","King of Marvin Gardens, The","Crime",2.5
+"3589","Kill, Baby... Kill!","Horror",2.20833333333333
+"3590","Lords of Flatbush, The","Comedy",2.5
+"3591","Mr. Mom","Comedy",3.07423580786026
+"3592","Time Masters","Animation",2.36065573770492
+"3593","Battlefield Earth","Action",3.86184210526316
+"3594","Center Stage","Drama",3.69565217391304
+"3595","Held Up","Comedy",1
+"3596","Screwed","Comedy",3.43137254901961
+"3597","Whipped","Comedy",3.75510204081633
+"3598","Hamlet","Drama",4.30068728522337
+"3599","Anchors Aweigh","Comedy",4.28362183754993
+"3600","Blue Hawaii","Comedy",2.65686274509804
+"3601","Castaway Cowboy, The","Comedy",3.66666666666667
+"3602","G. I. Blues","Musical",3.85131195335277
+"3603","Gay Deceivers, The","Comedy",3.64367816091954
+"3604","Gypsy","Musical",3.90828402366864
+"3605","King Creole","Drama",4.27292817679558
+"3606","On the Town","Musical",4.47619047619048
+"3607","One Little Indian","Comedy",4.2807486631016
+"3608","Pee-wee's Big Adventure","Comedy",4.09625668449198
+"3609","Regret to Inform","Documentary",3.92380952380952
+"3610","Roustabout","Musical",4.38403041825095
+"3611","Saludos Amigos","Animation",4.12709832134293
+"3612","Slipper and the Rose, The","Adventure",4.30048076923077
+"3613","Things Change","Comedy",4.18300653594771
+"3614","Honeymoon in Vegas","Comedy",4.41282204913122
+"3615","Dinosaur","Animation",4.39597315436242
+"3616","Loser","Comedy",4.15408805031447
+"3617","Road Trip","Comedy",3.96438356164384
+"3618","Small Time Crooks","Comedy",4.21647058823529
+"3619","Hollywood Knights, The","Comedy",3.67532467532468
+"3620","Myth of Fingerprints, The","Comedy",3.79365079365079
+"3621","Possession","Drama",4.24796274738067
+"3622","Twelve Chairs, The","Comedy",2.34090909090909
+"3623","Mission: Impossible 2","Action",3.99740484429066
+"3624","Shanghai Noon","Action",3.89403973509934
+"3625","Better Living Through Circuitry","Documentary",4.49148936170213
+"3626","8 1/2 Women","Comedy",4.38888888888889
+"3627","Carnival of Souls","Horror",4.06876456876457
+"3628","Flying Tigers","Action",3.25
+"3629","Gold Rush, The","Comedy",4.25558312655087
+"3630","House of Exorcism, The","Horror",3.97619047619048
+"3631","It's in the Water","Comedy",4.20466321243523
+"3632","Monsieur Verdoux","Comedy",3.78494623655914
+"3633","On Her Majesty's Secret Service","Action",2.23595505617978
+"3634","Seven Days in May","Thriller",4.29438202247191
+"3635","Spy Who Loved Me, The","Action",3.9126213592233
+"3636","Those Who Love Me Can Take the Train","Drama",3.95238095238095
+"3637","Vagabond","Drama",4.10158013544018
+"3638","Moonraker","Action",3.65789473684211
+"3639","Man with the Golden Gun, The","Action",3.63380281690141
+"3640","King in New York, A","Comedy",4.07575757575758
+"3641","Woman of Paris, A","Drama",3.75
+"3642","In Old California","Western",3.62032085561497
+"3643","Fighting Seabees, The","Action",3.18181818181818
+"3644","Dark Command","Western",3.72527472527473
+"3645","Cleo From 5 to 7","Drama",3.97354497354497
+"3646","Big Momma's House","Comedy",3.7047619047619
+"3647","Running Free","Drama",4.20205479452055
+"3648","Abominable Snowman, The","Horror",3.98245614035088
+"3649","American Gigolo","Drama",3.79381443298969
+"3650","Anguish","Horror",4.14741035856574
+"3651","Blood Spattered Bride, The","Horror",3.85093167701863
+"3652","City of the Living Dead","Horror",4.1063829787234
+"3653","Endless Summer, The","Documentary",3.75384615384615
+"3654","Guns of Navarone, The","Action",3.97674418604651
+"3655","Blow-Out","Drama",2.87617554858934
+"3656","Lured","Crime",4.23972602739726
+"3657","Pandora and the Flying Dutchman","Drama",4.24937027707809
+"3658","Quatermass and the Pit","Sci-Fi",3.60223048327138
+"3659","Quatermass II","Sci-Fi",4.29903978052126
+"3660","Puppet Master","Horror",4.2402088772846
+"3661","Puppet Master II","Horror",4.16949152542373
+"3662","Puppet Master III: Toulon's Revenge","Horror",3.55
+"3663","Puppet Master 4","Horror",3.24324324324324
+"3664","Puppet Master 5: The Final Chapter","Horror",3.38461538461538
+"3665","Curse of the Puppet Master","Horror",3.74137931034483
+"3666","Retro Puppetmaster","Horror",3.92307692307692
+"3667","Rent-A-Cop","Action",3.45
+"3668","Romeo and Juliet","Drama",3.47826086956522
+"3669","Stay Tuned","Comedy",3.54545454545455
+"3670","Story of G.I. Joe, The","War",3.57407407407407
+"3671","Blazing Saddles","Comedy",3.3921568627451
+"3672","Benji","Adventure",4.07509881422925
+"3673","Benji the Hunted","Adventure",4
+"3674","For the Love of Benji","Adventure",3.26086956521739
+"3675","White Christmas","Musical",3.67132867132867
+"3676","Eraserhead","Drama",4.25165562913907
+"3677","Baraka","Documentary",3.75
+"3678","Man with the Golden Arm, The","Drama",3.40540540540541
+"3679","Decline of Western Civilization, The","Documentary",4.0479704797048
+"3680","Decline of Western Civilization Part II: The Metal Years, The","Documentary",3.16666666666667
+"3681","For a Few Dollars More","Western",3.91463414634146
+"3682","Magnum Force","Western",3.75
+"3683","Blood Simple","Drama",1.5
+"3684","Fabulous Baker Boys, The","Drama",3.57142857142857
+"3685","Prizzi's Honor","Comedy",2
+"3686","Flatliners","Thriller",3.94
+"3687","Light Years","Sci-Fi",2
+"3688","Porky's","Comedy",2.8
+"3689","Porky's II: The Next Day","Comedy",2.75
+"3690","Porky's Revenge","Comedy",3.67901234567901
+"3691","Private School","Comedy",2.66666666666667
+"3692","Class of Nuke 'Em High","Comedy",3.75
+"3693","Toxic Avenger, The","Comedy",3.60344827586207
+"3694","Toxic Avenger, Part II, The","Comedy",2.9
+"3695","Toxic Avenger Part III: The Last Temptation of Toxie, The","Comedy",3.3768115942029
+"3696","Night of the Creeps","Comedy",5
+"3697","Predator 2","Action",3.46
+"3698","Running Man, The","Action",2.57407407407407
+"3699","Starman","Adventure",3.52352941176471
+"Sci-Fi","Sci-Fi","Sci-Fi",NA
+"3700","Brother from Another Planet, The","Drama",2.6
+"3701","Alien Nation","Crime",3.11111111111111
+"3702","Mad Max","Action",4.09555555555556
+"3703","Mad Max 2","Action",2.90625
+"3704","Mad Max Beyond Thunderdome","Action",3.35714285714286
+"3705","Bird on a Wire","Action",3.01075268817204
+"Thriller","Thriller","Thriller",NA
+"3706","Angel Heart","Film-Noir",3.28321678321678
+"3707","Nine 1/2 Weeks","Drama",NA
+"3708","Firestarter","Horror",NA
+"3709","Sleepwalkers","Horror",NA
+"3710","Action Jackson","Action",NA
+"3711","Sarafina!","Drama",NA
+"3712","Soapdish","Comedy",NA
+"3713","Long Walk Home, The","Drama",NA
+"3714","Clara's Heart","Drama",NA
+"3715","Burglar","Comedy",NA
+"3716","Fatal Beauty","Action",NA
+"3717","Gone in 60 Seconds","Action",NA
+"3718","American Pimp","Documentary",NA
+"3719","Love's Labour's Lost","Comedy",NA
+"3720","Sunshine","Drama",NA
+"3721","Trixie","Comedy",NA
+"3722","Live Virgin","Comedy",NA
+"3723","Hamlet","Drama",NA
+"3724","Coming Home","Drama",NA
+"3725","American Pop","Animation",NA
+"3726","Assault on Precinct 13","Action",NA
+"3727","Near Dark","Comedy",NA
+"3728","One False Move","Thriller",NA
+"3729","Shaft","Action",NA
+"3730","Conversation, The","Drama",NA
+"3731","Cutter's Way","Drama",NA
+"3732","Fury, The","Horror",NA
+"3733","Paper Chase, The","Drama",NA
+"3734","Prince of the City","Drama",NA
+"3735","Serpico","Crime",NA
+"3736","Big Carnival, The","Drama",NA
+"3737","Lonely Are the Brave","Drama",NA
+"3738","Sugarland Express, The","Drama",NA
+"3739","Trouble in Paradise","Comedy",NA
+"3740","Big Trouble in Little China","Action",NA
+"3741","Badlands","Crime",NA
+"3742","Battleship Potemkin, The","Drama",NA
+"3743","Boys and Girls","Comedy",NA
+"3744","Shaft","Action",NA
+"3745","Titan A.E.","Adventure",NA
+"3746","Butterfly","Drama",NA
+"3747","Jesus' Son","Drama",NA
+"3748","Match, The","Comedy",NA
+"3749","Time Regained","Drama",NA
+"3750","Boricua's Bond","Drama",NA
+"3751","Chicken Run","Animation",NA
+"3752","Me, Myself and Irene","Comedy",NA
+"3753","Patriot, The","Action",NA
+"3754","Adventures of Rocky and Bullwinkle, The","Animation",NA
+"3755","Perfect Storm, The","Action",NA
+"3756","Golden Bowl, The","Drama",NA
+"3757","Asylum","Horror",NA
+"3758","Communion","Drama",NA
+"3759","Fun and Fancy Free","Animation",NA
+"3760","Kentucky Fried Movie, The","Comedy",NA
+"3761","Blood In, Blood Out","Crime",NA
+"3762","Daughter of Dr. Jeckyll","Horror",NA
+"3763","F/X","Action",NA
+"3764","F/X 2","Action",NA
+"3765","Hot Spot, The","Drama",NA
+"3766","Missing in Action","Action",NA
+"3767","Missing in Action 2: The Beginning","Action",NA
+"3768","Braddock: Missing in Action III","Action",NA
+"3769","Thunderbolt and Lightfoot","Action",NA
+"3770","Dreamscape","Adventure",NA
+"Thriller","Thriller","Thriller",NA
+"3771","Golden Voyage of Sinbad, The","Action",NA
+"3772","Hatchet For the Honeymoon","Horror",NA
+"3773","House Party","Comedy",NA
+"3774","House Party 2","Comedy",NA
+"3775","Make Mine Music","Animation",NA
+"3776","Melody Time","Animation",NA
+"3777","Nekromantik","Comedy",NA
+"3778","On Our Merry Way","Comedy",NA
+"3779","Project Moon Base","Sci-Fi",NA
+"3780","Rocketship X-M","Sci-Fi",NA
+"3781","Shaft in Africa","Action",NA
+"3782","Shaft's Big Score!","Action",NA
+"3783","Croupier","Crime",NA
+"3784","Kid, The","Comedy",NA
+"3785","Scary Movie","Comedy",NA
+"3786","But I'm a Cheerleader","Comedy",NA
+"3787","Shower","Comedy",NA
+"3788","Blowup","Drama",NA
+"3789","Pawnbroker, The","Drama",NA
+"3790","Groove","Drama",NA
+"3791","Footloose","Drama",NA
+"3792","Duel in the Sun","Western",NA
+"3793","X-Men","Action",NA
+"3794","Chuck & Buck","Comedy",NA
+"3795","Five Senses, The","Drama",NA
+"3796","Wisdom of Crocodiles, The","Romance",NA
+"3797","In Crowd, The","Thriller",NA
+"3798","What Lies Beneath","Thriller",NA
+"3799","Pokémon the Movie 2000","Animation",NA
+"3800","Criminal Lovers","Drama",NA
+"3801","Anatomy of a Murder","Drama",NA
+"3802","Freejack","Action",NA
+"3803","Greaser's Palace","Drama",NA
+"3804","H.O.T.S.","Comedy",NA
+"3805","Knightriders","Action",NA
+"3806","MacKenna's Gold","Western",NA
+"3807","Sinbad and the Eye of the Tiger","Action",NA
+"3808","Two Women","Drama",NA
+"3809","What About Bob?","Comedy",NA
+"3810","White Sands","Drama",NA
+"3811","Breaker Morant","Drama",NA
+"3812","Everything You Always Wanted to Know About Sex","Comedy",NA
+"3813","Interiors","Drama",NA
+"3814","Love and Death","Comedy",NA
+"3816","Official Story, The","Drama",NA
+"3817","Other Side of Sunday, The","Comedy",NA
+"3818","Pot O' Gold","Comedy",NA
+"3819","Tampopo","Comedy",NA
+"3820","Thomas and the Magic Railroad","Children's",NA
+"3821","Nutty Professor II: The Klumps","Comedy",NA
+"3822","Girl on the Bridge, The","Drama",NA
+"3823","Wonderland","Drama",NA
+"3824","Autumn in New York","Drama",NA
+"3825","Coyote Ugly","Drama",NA
+"3826","Hollow Man","Horror",NA
+"3827","Space Cowboys","Action",NA
+"3828","Better Living","Comedy",NA
+"3829","Mad About Mambo","Comedy",NA
+"3830","Psycho Beach Party","Comedy",NA
+"3831","Saving Grace","Comedy",NA
+"3832","Black Sabbath","Horror",NA
+"3833","Brain That Wouldn't Die, The","Horror",NA
+"3834","Bronco Billy","Adventure",NA
+"3835","Crush, The","Thriller",NA
+"3836","Kelly's Heroes","Action",NA
+"3837","Phantasm II","Horror",NA
+"3838","Phantasm III: Lord of the Dead","Horror",NA
+"3839","Phantasm IV: Oblivion","Horror",NA
+"3840","Pumpkinhead","Horror",NA
+"3841","Air America","Action",NA
+"3842","Make Them Die Slowly","Horror",NA
+"3843","Sleepaway Camp","Horror",NA
+"3844","Steel Magnolias","Drama",NA
+"3845","And God Created Woman","Drama",NA
+"3846","Easy Money","Comedy",NA
+"3847","Ilsa, She Wolf of the SS","Horror",NA
+"3848","Silent Fall","Drama",NA
+"3849","Spiral Staircase, The","Thriller",NA
+"3850","Whatever Happened to Aunt Alice?","Crime",NA
+"3851","I'm the One That I Want","Comedy",NA
+"3852","Tao of Steve, The","Comedy",NA
+"3853","Tic Code, The","Drama",NA
+"3854","Aimée & Jaguar","Drama",NA
+"3855","Affair of Love, An","Drama",NA
+"3856","Autumn Heart","Drama",NA
+"3857","Bless the Child","Thriller",NA
+"3858","Cecil B. Demented","Comedy",NA
+"3859","Eyes of Tammy Faye, The","Documentary",NA
+"3860","Opportunists, The","Crime",NA
+"3861","Replacements, The","Comedy",NA
+"3862","About Adam","Comedy",NA
+"3863","Cell, The","Sci-Fi",NA
+"3864","Godzilla 2000","Action",NA
+"3865","Original Kings of Comedy, The","Comedy",NA
+"3866","Sunset Strip","Comedy",NA
+"3867","All the Rage","Drama",NA
+"3868","Naked Gun: From the Files of Police Squad!, The","Comedy",NA
+"3869","Naked Gun 2 1/2: The Smell of Fear, The","Comedy",NA
+"3870","Our Town","Drama",NA
+"3871","Shane","Drama",NA
+"3872","Suddenly, Last Summer","Drama",NA
+"3873","Cat Ballou","Comedy",NA
+"3874","Couch in New York, A","Comedy",NA
+"3875","Devil Rides Out, The","Horror",NA
+"3876","Jerry & Tom","Drama",NA
+"3877","Supergirl","Action",NA
+"3878","X: The Unknown","Sci-Fi",NA
+"3879","Art of War, The","Action",NA
+"3880","Ballad of Ramblin' Jack, The","Documentary",NA
+"3881","Bittersweet Motel","Documentary",NA
+"3882","Bring It On","Comedy",NA
+"3883","Catfish in Black Bean Sauce","Comedy",NA
+"3884","Crew, The","Comedy",NA
+"3885","Love & Sex","Comedy",NA
+"3886","Steal This Movie!","Drama",NA
+"3887","Went to Coney Island on a Mission From God... Be Back by Five","Drama",NA
+"3888","Skipped Parts","Drama",NA
+"3889","Highlander: Endgame","Action",NA
+"3890","Back Stage","Documentary",NA
+"3891","Turn It Up","Crime",NA
+"3892","Anatomy","Horror",NA
+"3893","Nurse Betty","Comedy",NA
+"3894","Solas","Drama",NA
+"3895","Watcher, The","Crime",NA
+"3896","Way of the Gun, The","Crime",NA
+"3897","Almost Famous","Comedy",NA
+"3898","Bait","Action",NA
+"3899","Circus","Comedy",NA
+"3900","Crime and Punishment in Suburbia","Comedy",NA
+"3901","Duets","Comedy",NA
+"3902","Goya in Bordeaux","Drama",NA
+"3903","Urbania","Drama",NA
+"3904","Uninvited Guest, An","Drama",NA
+"3905","Specials, The","Comedy",NA
+"3906","Under Suspicion","Crime",NA
+"3907","Prince of Central Park, The","Drama",NA
+"3908","Urban Legends: Final Cut","Horror",NA
+"3909","Woman on Top","Comedy",NA
+"3910","Dancer in the Dark","Drama",NA
+"3911","Best in Show","Comedy",NA
+"3912","Beautiful","Comedy",NA
+"3913","Barenaked in America","Documentary",NA
+"3914","Broken Hearts Club, The","Drama",NA
+"3915","Girlfight","Drama",NA
+"3916","Remember the Titans","Drama",NA
+"3917","Hellraiser","Horror",NA
+"3918","Hellbound: Hellraiser II","Horror",NA
+"3919","Hellraiser III: Hell on Earth","Horror",NA
+"3920","Faraway, So Close","Drama",NA
+"3921","Beach Party","Comedy",NA
+"3922","Bikini Beach","Comedy",NA
+"3923","Return of the Fly","Horror",NA
+"3924","Pajama Party","Comedy",NA
+"3925","Stranger Than Paradise","Comedy",NA
+"3926","Voyage to the Bottom of the Sea","Adventure",NA
+"3927","Fantastic Voyage","Adventure",NA
+"3928","Abbott and Costello Meet Frankenstein","Comedy",NA
+"3929","Bank Dick, The","Comedy",NA
+"3930","Creature From the Black Lagoon, The","Horror",NA
+"3931","Giant Gila Monster, The","Horror",NA
+"3932","Invisible Man, The","Horror",NA
+"3933","Killer Shrews, The","Horror",NA
+"3934","Kronos","Sci-Fi",NA
+"3935","Kronos","Horror",NA
+"3936","Phantom of the Opera, The","Drama",NA
+"3937","Runaway","Sci-Fi",NA
+"3938","Slumber Party Massacre, The","Horror",NA
+"3939","Slumber Party Massacre II, The","Horror",NA
+"3940","Slumber Party Massacre III, The","Horror",NA
+"3941","Sorority House Massacre","Horror",NA
+"3942","Sorority House Massacre II","Horror",NA
+"3943","Bamboozled","Comedy",NA
+"3944","Bootmen","Comedy",NA
+"3945","Digimon: The Movie","Adventure",NA
+"3946","Get Carter","Action",NA
+"3947","Get Carter","Thriller",NA
+"3948","Meet the Parents","Comedy",NA
+"3949","Requiem for a Dream","Drama",NA
+"3950","Tigerland","Drama",NA
+"3951","Two Family House","Drama",NA
+"3952","Contender, The","Drama",NA

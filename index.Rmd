@@ -1,0 +1,76 @@
+---
+title       : Movie Title Intuition App
+subtitle    : Coursera Developing Data Products Course Project 
+author      : Irina Goloshchapova
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+ext_widgets : {rCharts: libraries/nvd3}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Application Background
+### Motivation  
+- Everyone of us has ever dreamed to be or to feel as a film director.  
+- You could take a chance - let's start from the movie idea.  
+- Good title could signify sufficient part of success.  
+- Or... Well, this is just fun! :-)  
+
+<iframe src="http://images.clipartof.com/thumbnails/443469-Cartoon-Black-And-White-Outline-Design-Of-A-Movie-Director.jpg" width="350" height="350" scrolling="no" frameBorder="0"></iframe>
+
+---
+## About Application (1)
+### App Sources  
+- [MovieLens 1M Dataset](http://grouplens.org/datasets/movielens/1m/).  
+  Stable benchmark dataset. 1 million ratings from 6000 users on 4000 movies. Released 2/2003.  
+```{r nvd3plot, results = 'asis', comment = NA, message = F, echo = F}
+# pkgs <- c("slidify", "slidifyLibraries", "rCharts")
+# devtools::install_github(pkgs, "ramnathv", ref = "dev")
+# for images
+# ![foo](assets/img/foo.png) 
+# useful links
+# https://github.com/ramnathv/slidify/issues/407
+# https://github.com/ramnathv/slidify/issues/299
+require(knitr)
+require(rCharts)
+library(reshape)
+# Top-10 Movies in the MovieLens 1M Dataset
+joined.ch <- read.csv("C:/Users/Vladislav/Desktop/R_code/MovieTitleIntuition/joined.csv", header = TRUE, sep = ",")
+joined.ch$movieID <- as.integer(joined.ch$movieID)
+joined.ch$movieName <- as.character(joined.ch$movieName)
+top10 <- joined.ch[order(-joined.ch$rating),][1:10, ] 
+
+joined.md <- melt(top10, id.vars = c("movieName", "movieID", "genre"))
+
+p2 <- nPlot(value ~ movieName, group = 'genre', 
+  data = joined.md, 
+  type = 'multiBarHorizontalChart'
+)
+p2$chart(showControls = F)
+p2$chart(margin = list(left=110)) 
+p2$templates$script <- "http://timelyportfolio.github.io/rCharts_nvd3_templates/chartWithTitle_styled.html"
+p2$set(width = 700, height = 350, title = "Top-10 Movies in the MovieLens 1M Dataset")
+p2$print('chart1')
+# p2
+```
+
+---
+## About Application (2)
+### Calculations
+1. We take all movies titles, their genre categories and average ratings from all users.  
+2. Then, we perform basic text mining analysis (`package 'tm'`) for the most frequent words in 4000 movies titles.  
+3. At this step we train simple `glm` model to predict average rating (on a scale from 1 to 5) by frequent words dataset and the movie genre.
+4. And that's it. You could try the new shinyapp [here](https://irinagoloshchapova.shinyapps.io/MovieTitleIntuition). 
+   And look at the full code [here](https://github.com/IrinaGoloshchapova/DevDataProd). 
+
+---
+## About Application (3)
+### How to use
+1. Come up with the best title for your New Great Movie and enter it into the "Title" box. By default, we assume that your movie title is "Third Zombie Train". I think that it would be a great movie! And what about you?  
+2. Choose a genre for your New Great Movie in "Genre" box.
+3. Push the button "Update Your Movie Rating Forecast" and look at the forecast of the average rating of your movie on a scale from 1 to 5.  
+   **NOTE:** *Please, be patient!* The app initialization (first-order calculations) could take 3-4 minutes. Then, from the second title input it works really fast. Enjoy!
+
